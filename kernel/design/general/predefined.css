@@ -1,0 +1,33 @@
+/******************************/
+/******** PREDEFINIDOS *******/
+/****************************/
+
+body .textbreak{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+body .middle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body .active{
+    display: block;
+}
+
+body .inactive{
+    display: none;
+}
+
+body .front{
+    z-index: 999;
+    opacity: 1;
+}
+
+body .back{
+    z-index: 0;
+    opacity: 0;
+}

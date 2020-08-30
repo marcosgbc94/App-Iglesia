@@ -1,0 +1,128 @@
+/***** MAIN *****/
+
+body > #app{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+body > #app > #main{
+    position: absolute;
+    width: calc(100% - var(--menu-wd));
+    height: 100%;
+    right: 0;
+    background-color: transparent;
+}
+
+body > #app > #main > #header{
+    position: absolute;
+    width: 100%;
+    height: var(--header-hg);
+    top: 0;
+    padding: 0 10px;
+}
+
+body > #app > #main > #header > .center{
+    float: left;
+    width: calc(100% - var(--header-hg));
+    height: 100%;
+    padding: 10px 0;
+}
+
+body > #app > #main > #header > .center > .label{
+    line-height: calc(var(--header-hg) - 20px);
+    font-size: var(--title-fnsz);
+    color: var(--color-black-extra-dark);
+}
+
+body > #app > #main > #header > .center > .label > span{
+    display: none;
+}
+
+body > #app > #main > #header > .right{
+    float: left;
+    width: var(--header-hg);
+    height: 100%;
+    padding: calc((var(--header-hg) - var(--actionButton-sz)) / 2);
+}
+
+body > #app > #main > #header > .right > .actionButton:hover:not(:disabled){
+    background-color: var(--color-white-medium);
+}
+
+body > #app > #main > #header > .right > .actionButton:active:not(:disabled){
+    background-color: var(--color-white-dark);
+}
+
+body > #app > #main > #main{
+    position: absolute;
+    width: 100%;
+    top: var(--header-hg);
+    bottom: var(--footer-hg);
+    padding: 0 10px 5px 10px;
+}
+
+body > #app > #main > #main > .screen{
+    background-color: var(--color-white-medium);
+    background-image: url(../../../public/images/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body > #app > #main > #footer{
+    position: absolute;
+    width: 100%;
+    height: var(--footer-hg);
+    bottom: 0;
+}
+
+body > #app > #main > #footer > .inner{
+    display: block;
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+body > #app > #main > #footer > .inner:first-child{
+    padding: 0 5px 10px 10px;
+}
+
+body > #app > #main > #footer > .inner:last-child{
+    padding: 0 10px 10px 5px;
+}
+
+body > #app > #main > #footer > .inner > .label{
+    height: auto;
+    color: var(--color-gray-dark);
+    margin-bottom: 5px;
+}
+
+body > #app > #main > #footer > .inner > .box{
+    background-color: var(--color-white-medium);
+    height: calc(100% - (var(--label-fnsz) + 9px));
+}
+
+body > #app > #main > #footer > .inner > .box .actionButton:hover:not(:disabled){
+    background-color: var(--color-white-dark);
+}
+
+body > #app > #main > #footer > .inner > .box .actionButton:active:not(:disabled){
+    background-color: var(--color-white-extra-dark);
+}
+
+body > #app > #main > #footer > .inner > .box .index{
+    color: var(--color-black-extra-dark);
+}
+
+body > #app > #main > #footer > .inner > .box .total{
+    color: var(--color-black-extra-light);
+}
+
+body > #app > #main > #footer > .inner > .box .slider{
+    background-color: var(--color-white-dark);
+}
+
+body > #app > #main > #footer > .inner > .box .slider > .progress{
+    background-color: var(--color-red-medium);
+}

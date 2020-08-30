@@ -1,0 +1,58 @@
+/*******************************/
+/******** PANTALLAS ***********/
+/*****************************/
+
+#screens{
+    position: absolute;
+    width: var(--screens-width);
+    height: 100%;
+    right: 0;
+    background-color: var(--color-gray-b95);
+}
+
+#screens > #screen-default{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: var(--color-gray-b95);
+}
+
+#screens > #screen-default > div{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+
+#screens > #screen-default > div > div{
+    width: var(--screen-default-width);
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+    text-align: center;
+}
+
+#screens > #screen-default > div > div > img{
+    opacity: .5;
+}
+
+#screens > #screen-default > div > div > span{
+    display: block;
+    font-family: "Heebo";
+    font-weight: 300;
+    font-size: var(--font-medium);
+    color: var(--color-gray-b40);
+}
+
+#screens > #screens-container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+#screens > #screens-container > .screen{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: var(--background-color-default);
+}

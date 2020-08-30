@@ -1,0 +1,45 @@
+/***** COLORS CONFIG *****/
+
+:root{
+    /* WHITE */
+    --color-white-extra-light: #ffffff;
+    --color-white-light: #F2F2F2;
+    --color-white-medium: #E5E5E5;
+    --color-white-dark: #D8D8D8;
+    --color-white-extra-dark: #CCCCCC;
+    --color-white-darker: #BFBFBF;
+    --color-white-darkest: #B2B2B2;
+    /* GRAY */
+    --color-gray-extra-light: #999999;
+    --color-gray-light: #8C8C8C;
+    --color-gray-medium: #7F7F7F;
+    --color-gray-dark: #727272;
+    --color-gray-extra-dark: #666666;
+    /* BLACK */
+    --color-black-extra-light: #4C4C4C;
+    --color-black-light: #3F3F3F;
+    --color-black-medium: #333333;
+    --color-black-dark: #262626;
+    --color-black-extra-dark: #191919;
+    /* RED */
+    --color-red-extra-light: #FF6A4C;
+    --color-red-light: #E55F44;
+    --color-red-medium: #CC553D;
+    --color-red-dark: #B24A35;
+    --color-red-extra-dark: #993F2D;
+    --color-red-darker: #7F3424;
+    /* BLUE */
+    --color-blue-extra-light: #32A6FF;
+    --color-blue-light: #0A94FF;
+    --color-blue-medium: #0986E5;
+    --color-blue-dark: #0877CC;
+    --color-blue-extra-dark: #0768B2;
+    --color-blue-darker: #065999;
+    /* YELLOW */
+    --color-yellow-extra-light: #FFEE7F;
+    --color-yellow-light: #FFE74C;
+    --color-yellow-medium: #FFDC00;
+    --color-yellow-dark: #E5C600;
+    --color-yellow-extra-dark: #CCB000;
+    --color-yellow-darker: #B29A00;
+}

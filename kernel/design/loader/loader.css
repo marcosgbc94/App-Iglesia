@@ -1,0 +1,25 @@
+/******************************/
+/***** PANTALLA DE CARGA *****/
+/****************************/
+
+#loader{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    background-color: var(--background-color-default);
+    -webkit-animation: fade-out-bck var(--loader-out-time) cubic-bezier(0.250, 0.460, 0.450, 0.940) var(--loader-out-time-delay) both;
+	animation: fade-out-bck var(--loader-out-time) cubic-bezier(0.250, 0.460, 0.450, 0.940) var(--loader-out-time-delay) both;
+}
+
+#loader > div{
+    width: 100%;
+    height: 100%;
+}
+
+#loader > div > img{
+    width: var(--loader-img-size);
+    height: var(--loader-img-size);
+    -webkit-animation: fade-in var(--loader-in-inners-time) cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	animation: fade-in var(--loader-in-inners-time) cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}

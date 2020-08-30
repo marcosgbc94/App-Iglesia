@@ -1,0 +1,255 @@
+/******************************/
+/******** ELEMENTOS **********/
+/****************************/
+
+/* CONTENEDOR DE MENSAJES */
+
+.message-container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: var(--message-container-background-color);
+    z-index: 1;
+}
+
+.message-container > div{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+
+.message-container > div > .message{
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+    border-radius: var(--border-radius);
+    padding: var(--container-total-scrolling-padding);
+    overflow-y: scroll;
+    background-color: var(--background-color-default);
+}
+
+.message-container > div > .message > .message-title{
+    display: block;
+    width: 100%;
+    height: auto;
+    font-family: "Quicksand";
+    font-weight: 300;
+    font-size: var(--font-large);
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.message-container > div > .message > .message-content{
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.message-container > div > .message > .message-content > .message-app-button{
+    display: block;
+    width: 100%;
+    height: var(--message-app-button-height);
+    border-radius: var(--border-radius);
+    font-family: "Heebo";
+    font-weight: 300;
+    font-size: var(--color-black);
+    margin-bottom: 5px;
+    background-color: var(--color-gray-b95);
+    background-position: calc(100% - 10px) center;
+    background-repeat: no-repeat;
+    background-size: calc(var(--message-app-button-height) * 0.5);
+    padding: 0 calc(20px + (var(--message-app-button-height) * 0.5)) 0 10px;
+    text-align: left;
+}
+
+.message-container > div > .message > .message-content > .message-app-button:last-child{
+    margin-bottom: 0;
+}
+
+.message-container > div > .message > .message-content > .message-app-button:hover:not(:disabled){
+    background-color: var(--color-gray-b90);
+}
+
+.message-container > div > .message > .message-content > .message-app-button:active:not(:disabled){
+    background-color: var(--color-gray-b85);
+}
+
+.message-container > div > .message > .message-actions{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.message-container > div > .message > .message-actions > button{
+    width: auto;
+    height: var(--message-action-button-height);
+    border-radius: var(--border-radius);
+    padding: 0 15px;
+    font-family: "Heebo";
+    font-weight: 300;
+    font-size: var(--font-medium);
+    color: var(--color-black);
+}
+
+.message-container > div > .message > .message-actions > button:hover:not(:disabled):not(.cancel){
+    background-color: var(--color-gray-b95);
+}
+
+.message-container > div > .message > .message-actions > button:active:not(:disabled):not(.cancel){
+    background-color: var(--color-gray-b90);
+}
+
+.message-container > div > .message > .message-actions > button.cancel:hover:not(:disabled){
+    background-color: var(--color-red-hover);
+    color: var(--color-white);
+}
+
+.message-container > div > .message > .message-actions > button.cancel:active:not(:disabled){
+    background-color: var(--color-red-active);
+    color: var(--color-white);
+}
+
+/* CONTENEDOR PRINCIPAL */
+
+.main-container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.main-container > .main-container-header{
+    position: absolute;
+    width: 100%;
+    height: var(--main-container-header-height);
+    top: 0;
+}
+
+.main-container > .main-container-header > .main-container-inner-header{
+    position: absolute;
+    width: var(--main-container-inner-header-width);
+    height: var(--main-container-inner-header-height);
+}
+
+.main-container > .main-container-body{
+    position: absolute;
+    width: 100%;
+    height: calc(100% - var(--main-container-header-height));
+    bottom: 0;
+}
+
+.main-container > .main-container-body.footer{
+    height: calc(100% - var(--main-container-header-height) - var(--main-container-footer-height));
+    bottom: var(--main-container-footer-height);
+}
+
+.main-container > .main-container-body > .main-container-inner-body{
+    position: absolute;
+    width: 100%;
+    height: var(--main-container-inner-body-height);
+    top: 0;
+    right: 0;
+}
+
+.main-container > .main-container-body.footer > .main-container-inner-body{
+    height: 100%;
+}
+
+.main-container > .main-container-footer{
+    position: absolute;
+    width: 100%;
+    height: var(--main-container-footer-height);
+    bottom: 0;
+}
+
+.main-container > .main-container-footer > .main-container-inner-footer{
+    position: absolute;
+    width: var(--main-container-inner-footer-width);
+    height: var(--main-container-inner-footer-height);
+}
+
+/* CONTENEDOR SECUNDARIO */
+
+.second-container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.second-container > .second-container-header{
+    position: absolute;
+    width: 100%;
+    height: var(--second-container-header-height);
+    top: 0;
+}
+
+.second-container > .second-container-header > .second-container-inner-header{
+    position: absolute;
+    width: var(--second-container-inner-header-width);
+    height: var(--second-container-inner-header-height);
+}
+
+.second-container > .second-container-body{
+    position: absolute;
+    width: 100%;
+    height: calc(100% - var(--second-container-header-height));
+    bottom: 0;
+}
+
+.second-container > .second-container-body.footer{
+    position: absolute;
+    width: 100%;
+    height: calc(100% - var(--second-container-header-height) - var(--second-container-footer-height));
+    bottom: var(--second-container-footer-height);
+}
+
+.second-container > .second-container-footer{
+    position: absolute;
+    width: 100%;
+    height: var(--second-container-footer-height);
+    bottom: 0;
+}
+
+.second-container > .second-container-footer > .second-container-inner-footer{
+    position: absolute;
+    width: var(--second-container-inner-footer-width);
+    height: var(--second-container-inner-footer-height);
+}
+
+/* CONTENEDOR DE LISTA */
+
+.list-container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.list-container > .list-container-contains{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow-y: scroll;
+    padding: var(--container-lateral-scrolling-padding);
+}
+
+.list-container > .list-container-empty{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.list-container > .list-container-empty > div{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+
+.list-container > .list-container-empty > div > span{
+    font-family: "Heebo";
+    font-weight: 300;
+    font-size: var(--font-medium);
+    color: var(--color-gray-b40);
+    text-align: center;
+}
+
+/* BUTTONS */
+

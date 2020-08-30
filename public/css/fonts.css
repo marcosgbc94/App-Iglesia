@@ -1,0 +1,91 @@
+/***** FONTS *****/
+
+/**** MONTSERRAT ****/
+
+@font-face{
+    font-family: "Montserrat";
+    font-weight: 200;
+    src: url(../fonts/Montserrat/Montserrat-Thin.ttf);
+}
+
+@font-face{
+    font-family: "Montserrat";
+    font-weight: 300;
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+}
+
+@font-face{
+    font-family: "Montserrat";
+    font-weight: 400;
+    src: url(../fonts/Montserrat/Montserrat-Medium.ttf);
+}
+
+@font-face{
+    font-family: "Montserrat";
+    font-weight: 500;
+    src: url(../fonts/Montserrat/Montserrat-SemiBold.ttf);
+}
+
+@font-face{
+    font-family: "Montserrat";
+    font-weight: 600;
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+}
+
+@font-face{
+    font-family: "Montserrat";
+    font-weight: 900;
+    src: url(../fonts/Montserrat/Montserrat-Black.ttf);
+}
+
+/**** QUICKSAND ****/
+
+@font-face{
+    font-family: "Quicksand";
+    font-weight: 200;
+    src: url(../fonts/Quicksand/Quicksand-Light.ttf);
+}
+
+@font-face{
+    font-family: "Quicksand";
+    font-weight: 300;
+    src: url(../fonts/Quicksand/Quicksand-Regular.ttf);
+}
+
+@font-face{
+    font-family: "Quicksand";
+    font-weight: 400;
+    src: url(../fonts/Quicksand/Quicksand-Medium.ttf);
+}
+
+@font-face{
+    font-family: "Quicksand";
+    font-weight: 500;
+    src: url(../fonts/Quicksand/Quicksand-SemiBold.ttf);
+}
+
+/**** HEEBO ****/
+
+@font-face{
+    font-family: "Heebo";
+    font-weight: 200;
+    src: url(../fonts/Heebo/Heebo-Light.ttf);
+}
+
+@font-face{
+    font-family: "Heebo";
+    font-weight: 300;
+    src: url(../fonts/Heebo/Heebo-Regular.ttf);
+}
+
+@font-face{
+    font-family: "Heebo";
+    font-weight: 400;
+    src: url(../fonts/Heebo/Heebo-Medium.ttf);
+}
+
+@font-face{
+    font-family: "Heebo";
+    font-weight: 600;
+    src: url(../fonts/Heebo/Heebo-Bold.ttf);
+}

@@ -1,0 +1,10 @@
+/******************************/
+/* CONFIGURACIONES GENERALES */
+/****************************/
+
+:root{
+    --transition-time: .25s;
+    --disabled-opacity-default: .4;
+    --background-color-default: var(--color-white);
+    --border-radius: 10px;
+}

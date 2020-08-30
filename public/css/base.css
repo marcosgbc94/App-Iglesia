@@ -1,0 +1,266 @@
+/***** BASE *****/
+
+body .textbreak{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+body .active{
+    display: block;
+}
+
+body .inactive{
+    display: none;
+}
+
+/* ACTION BUTTONS */
+
+body .actionButton{
+    width: var(--actionButton-sz);
+    height: var(--actionButton-sz);
+    border-radius: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: var(--actionButton-bgsz);
+}
+
+/* SCROLL BUTTONS */
+
+body .scrollButton{
+    width: var(--scrollButton-sz);
+    height: var(--scrollButton-sz);
+    border-radius: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: var(--scrollButton-bgsz);
+}
+
+/* SUB TITLE */
+
+body .label{
+    display: block;
+    width: 100%;
+    height: 100%;
+    font-family: "Quicksand";
+    font-weight: 500;
+    font-size: var(--label-fnsz);
+    text-transform: uppercase;
+    padding: 0 10px;
+}
+
+/* INPUT TEXT */
+
+body .inputText{
+    display: block;
+    width: 100%;
+    height: var(--inputText-hg);
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: var(--inputText-fnsz);
+    border-radius: 10px;
+    padding: 0 10px;
+}
+
+/* CONTAINER */
+
+body .container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+body .container > .header{
+    position: absolute;
+    width: 100%;
+    height: calc(var(--scrollButton-sz) + 10px);
+    padding: 5px;
+    top: 0;
+    text-align: center;
+}
+
+body .container > .main{
+    position: absolute;
+    width: 100%;
+    top: calc(var(--scrollButton-sz) + 10px);
+    bottom: calc(var(--scrollButton-sz) + 10px);
+    padding: 0 5px;
+}
+
+body .container > .main > .list{
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 0 5px;
+}
+
+body .container > .footer{
+    position: absolute;
+    width: 100%;
+    height: calc(var(--scrollButton-sz) + 10px);
+    padding: 5px;
+    bottom: 0;
+    text-align: center;
+}
+
+/* TAB */
+
+body .tab{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+body .tab > .header{
+    position: absolute;
+    width: 100%;
+    height: var(--header-hg);
+    padding: 5px;
+    top: 0;
+    text-align: center;
+}
+
+body .tab > .header > button{
+    width: auto;
+    height: 100%;
+    padding: 0 10px;
+    font-family: "Quicksand";
+    font-weight: 500;
+    font-size: var(--tab-header-fnsz);
+    border-radius: 10px;
+    text-transform: uppercase;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: var(--tab-header-bgsz);
+}
+
+body .tab > .header > button.selected{
+    background-image: url(../images/minus-black-32.png);
+}
+
+body .tab > .main{
+    position: absolute;
+    width: 100%;
+    top: var(--header-hg);
+    bottom: 0;
+}
+
+body .tab > .main > div{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+/* INPUT TEXT BUTTON */
+
+body .inputTextButton{
+    width: 200px;
+    height: 50px;
+}
+
+body .inputTextButton > .inputText{
+    display: block;
+    float: left;
+    width: calc(100% - var(--inputText-hg));
+    border-radius: 0;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+body .inputTextButton > .actionButton{
+    width: var(--inputText-hg);
+    height: var(--inputText-hg);
+    border-radius: 0;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+/* BOX */
+
+body .box{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+body .box > .main{
+    display: table;
+    width: 100%;
+    height: calc(100% - 20px);
+}
+
+body .box > .main > div{
+    display: table-cell;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    text-align: center;
+}
+
+body .box > .main > div > .actionButton{
+    display: inline-block;
+}
+
+body .box > .main > div > .index{
+    display: inline-block;
+    width: 80px;
+    text-align: center;
+    font-family: "Quicksand";
+    font-weight: 500;
+}
+
+body .box > .main > div > .index > .total{
+    display: block;
+    width: 100%;
+    font-family: "Montserrat";
+    font-size: var(--box-total-fnsz);
+}
+
+body .box > .footer{
+    width: 100%;
+    height: 20px;
+    padding: calc((20px - var(--box-slider-hg)) / 2) 0;
+}
+
+body .box > .footer > .slider{
+    width: 100%;
+    height: var(--box-slider-hg);
+    border-radius: calc(var(--box-slider-hg) / 2);
+}
+
+body .box > .footer > .slider > .progress{
+    width: 60%;
+    height: 100%;
+    border-radius: calc(var(--box-slider-hg) / 2);
+    transition: .25s all;
+}
+
+/* SCREEN */
+
+body .screen{
+    width: 100%;
+    height: 100%;
+    border-radius: var(--screen-br);
+}
+
+/* START */
+
+body > #start{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    background-color: var(--color-white-extra-light);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto 50%;
+    cursor: wait;
+}
+
+/* TEXT SHADOWS */
+
+.textshadow{
+    text-shadow: 0px 0px 8px rgba(0, 0, 0, 1);
+}

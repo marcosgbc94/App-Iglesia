@@ -1,0 +1,10 @@
+/********************************************/
+/* CONFIGURACIONES DE LA PANTALLA DE CARGA */
+/******************************************/
+
+:root{
+    --loader-img-size: 140px;
+    --loader-in-inners-time: 0.6s;
+    --loader-out-time-delay: 1s;
+    --loader-out-time: 0.7s;
+}

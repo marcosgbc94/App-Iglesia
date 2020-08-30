@@ -1,0 +1,8 @@
+/*********************************/
+/* CONFIGURACIONES DE PANTALLAS */
+/*******************************/
+
+:root{
+    --screens-width: calc(100% - var(--menu-width));
+    --screen-default-width: 400px;
+}

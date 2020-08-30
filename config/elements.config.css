@@ -1,0 +1,25 @@
+/*********************************/
+/* CONFIGURACIONES DE ELEMENTOS */
+/*******************************/
+
+:root{
+    /* CONTENEDOR DE MENSAJES */
+    --message-container-background-color: rgba(0, 0, 0, 0.8);
+    --message-action-button-height: 40px;
+    --message-app-button-height: 50px;
+    /* CONTENEDOR PRINCIPAL */
+    --main-container-header-height: 70px;
+    --main-container-inner-header-width: calc(100% - 20px);
+    --main-container-inner-header-height: 50px;
+    --main-container-inner-body-height: calc(100% - 10px);
+    --main-container-footer-height: 70px;
+    --main-container-inner-footer-width: calc(100% - 20px);
+    --main-container-inner-footer-height: 50px;
+    /* CONTENEDOR SECUNDARIO */
+    --second-container-header-height: 70px;
+    --second-container-inner-header-width: calc(100% - 20px);
+    --second-container-inner-header-height: 50px;
+    --second-container-footer-height: 70px;
+    --second-container-inner-footer-width: calc(100% - 20px);
+    --second-container-inner-footer-height: 50px;
+}

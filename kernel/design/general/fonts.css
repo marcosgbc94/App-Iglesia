@@ -1,0 +1,51 @@
+/******************************/
+/********** FUENTES **********/
+/****************************/
+
+/* MONTSERRAT */
+
+@font-face{
+    font-family: "Montserrat";
+    font-weight: 200;
+    src: url(../../../public/fonts/montserrat/Montserrat-Thin.ttf);
+}
+
+@font-face{
+    font-family: "Montserrat";
+    font-weight: 300;
+    src: url(../../../public/fonts/montserrat/Montserrat-Regular.ttf);
+}
+
+@font-face{
+    font-family: "Montserrat";
+    font-weight: bolder;
+    src: url(../../../public/fonts/montserrat/Montserrat-Black.ttf);
+}
+
+/* HEEBO */
+
+@font-face{
+    font-family: "Heebo";
+    font-weight: 300;
+    src: url(../../../public/fonts/heebo/Heebo-Regular.ttf);
+}
+
+@font-face{
+    font-family: "Heebo";
+    font-weight: bold;
+    src: url(../../../public/fonts/heebo/Heebo-Bold.ttf);
+}
+
+/* QUICKSAND */
+
+@font-face{
+    font-family: "Quicksand";
+    font-weight: 300;
+    src: url(../../../public/fonts/quicksand/Quicksand-Regular.ttf);
+}
+
+@font-face{
+    font-family: "Quicksand";
+    font-weight: 500;
+    src: url(../../../public/fonts/quicksand/Quicksand-SemiBold.ttf);
+}

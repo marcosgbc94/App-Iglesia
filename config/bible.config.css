@@ -1,0 +1,21 @@
+/***** BIBLE CONFIG *****/
+
+:root{
+    /* FIRST MENU */
+    --first-wd: 250px;
+    /* RESULTS */
+    --results-cancel-fnsz: 16px;
+    --results-item-title-fnsz: 16px;
+    --results-item-text-fnsz: 16px;
+    /* FIRST LIST */
+    --first-list-fnsz: 16px;
+    /* SECOND LIST */
+    --second-list-fnsz: 16px;
+    /* SCREEN */
+    --screen-fnsz: 6vw;
+    --screen-h1-fnsz: 4vw;
+    --screen-h1-span-fnsz: 2vw;
+    --screen-h4-fnsz: 2vw;
+    /* PREVIEW */
+    --preview-fnsz: 16px;
+}

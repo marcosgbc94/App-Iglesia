@@ -1,0 +1,9 @@
+/*****************************/
+/* CONFIGURACIONES DE ERROR */
+/***************************/
+
+:root{
+    --error-background-color: rgba(0, 0, 0, 0.6);
+    --error-message-width: 400px;
+    --error-message-button-height: 40px;
+}

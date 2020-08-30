@@ -1,0 +1,203 @@
+/***** LIST *****/
+
+/* FIRST LIST */
+
+body > #app > #menu > #first > #main > .container > .main > .list > button{
+    display: block;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > button:last-child{
+    margin-bottom: 0;
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > button:focus:not(:disabled):not(.selected){
+    background-color: var(--color-blue-light);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > button:hover:not(:disabled):not(.selected){
+    background-color: var(--color-blue-dark);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > button:active:not(:disabled):not(.selected){
+    background-color: var(--color-blue-extra-dark);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > button.selected{
+    background-color: var(--color-white-extra-light);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > button.selected:focus:not(:disabled){
+    background-color: var(--color-white-light);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > button > .title{
+    display: block;
+    width: 100%;
+    height: auto;
+    font-family: "Quicksand";
+    font-weight: 500;
+    font-size: var(--first-list-title-fnzs);
+    color: var(--color-white-extra-light);
+    text-transform: uppercase;
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > button.selected > .title{
+    color: var(--color-blue-extra-dark);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > button > .info{
+    display: block;
+    width: 100%;
+    height: auto;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: var(--first-list-info-fnzs);
+    color: var(--color-white-medium);
+    text-transform: capitalize;
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > button.selected > .info{
+    color: var(--color-blue-medium);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > button > .desc{
+    display: block;
+    width: 100%;
+    height: auto;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: var(--first-list-desc-fnzs);
+    color: var(--color-white-medium);
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > button.selected > .desc{
+    color: var(--color-blue-light);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .empty{
+    display: block;
+    width: 100%;
+    height: var(--first-list-empty-hg);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: left;
+    margin-bottom: 5px;
+    background-image: url(../../../public/images/face-gray-96.png);
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .empty > .label{
+    color: var(--color-white-extra-light);
+    line-height: calc(var(--first-list-empty-hg) - 20px);
+    padding-left: 90px;
+}
+
+/* SECOND LIST */
+
+body > #app > #menu > #second > #main > .container > .main > .list > button{
+    display: block;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    background-color: var(--color-white-dark);
+    border: 1px solid transparent;
+}
+
+body > #app > #menu > #second > #main > .container > .main > .list > button:last-child{
+    margin-bottom: 0;
+}
+
+body > #app > #menu > #second > #main > .container > .main > .list > button:hover:not(:disabled):not(.selected){
+    background-color: var(--color-white-extra-dark);
+}
+
+body > #app > #menu > #second > #main > .container > .main > .list > button:active:not(:disabled):not(.selected){
+    background-color: var(--color-white-darker);
+}
+
+body > #app > #menu > #second > #main > .container > .main > .list > button.selected{
+    border-color: var(--color-blue-medium);
+    background-color: var(--color-white-extra-dark);
+}
+
+body > #app > #menu > #second > #main > .container > .main > .list > button > .text{
+    display: block;
+    width: 100%;
+    height: calc(((var(--menu-wd) - var(--first-wd)) - 20px) - 80px);
+    max-height: 500px;
+    transition: .25s all;
+    padding: 0 5px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    overflow-y: hidden;
+}
+
+body > #app > #menu > #second > #main > .container > .main > .list > button > .text > div{
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+body > #app > #menu > #second > #main > .container > .main > .list > button > .text > div > div{
+    display: table-cell;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    text-align: center;
+    font-family: "Heebo";
+    font-weight: 300;
+    font-size: var(--second-list-text-fnsz);
+    line-height: var(--second-list-text-fnsz);
+    color: var(--color-black-extra-dark);
+}
+
+body > #app > #menu > #second > #main > .container > .main > .list > button > .text h1{
+    font-size: calc(var(--second-list-text-fnsz) + 4px);
+    line-height: calc(var(--second-list-text-fnsz) + 4px);
+    color: var(--color-black-extra-dark);
+    text-transform: uppercase;
+}
+
+body > #app > #menu > #second > #main > .container > .main > .list > button > .text h3{
+    font-size: var(--second-list-text-fnsz);
+    color: var(--color-blue-extra-dark);
+    margin-top: 5px;
+    text-transform: capitalize;
+}
+
+body > #app > #menu > #second > #main > .container > .main > .list > button > .text h4{
+    color: var(--color-blue-dark);
+    margin-bottom: 5px;
+    text-transform: capitalize;
+}
+
+body > #app > #menu > #second > #main > .container > .main > .list > button > .text i{
+    color: var(--color-blue-dark);
+    padding: 0 5px;
+}
+
+body > #app > #menu > #second > #main > .container > .main > .list > button > .label{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    text-align: center;
+    color: var(--color-gray-extra-dark);
+}
+
+body > #app > #menu > #second > #main > .container > .main > .list > button.selected > .label{
+    color: var(--color-blue-dark);
+}

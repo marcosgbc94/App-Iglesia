@@ -1,0 +1,19 @@
+/***** HYMNAL CONFIG *****/
+
+:root{
+    /* FIRST MENU */
+    --first-wd: 350px;
+    /* FIRST LIST */
+    --first-list-title-fnzs: 18px;
+    --first-list-info-fnzs: 14px;
+    --first-list-desc-fnzs: 14px;
+    --first-list-empty-hg: 100px;
+    /* SECOND LIST */
+    --second-list-text-fnsz: 16px;
+    /* SCREEN */
+    --screen-fnsz: 14vw;
+    --screen-h1-fnsz: 5.5vw;
+    --screen-h3-fnsz: 3.5vw;
+    --screen-h4-fnsz: 3vw;
+    --screen-img-route: ../public/images/;
+}

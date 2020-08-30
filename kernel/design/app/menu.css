@@ -1,0 +1,273 @@
+/*******************************/
+/*********** MENU *************/
+/*****************************/
+
+#menu{
+    position: absolute;
+    width: var(--menu-width);
+    height: 100%;
+    left: 0;
+    border-right: 1px solid var(--color-gray-b95);
+}
+
+/* APP SELECTOR */
+
+#menu > #selector{
+    position: absolute;
+    width: calc(100% - 20px);
+    height: auto;
+    max-height: calc(100% - 20px);
+    top: 10px;
+    left: 10px;
+    padding: var(--container-total-scrolling-padding);
+    overflow-y: scroll;
+    background-color: var(--color-black);
+    border-radius: var(--border-radius);
+    z-index: 1;
+    text-align: center;
+    -webkit-box-shadow: 0px 4px 15px -5px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0px 4px 15px -5px rgba(0,0,0,0.5);
+    box-shadow: 0px 4px 15px -5px rgba(0,0,0,0.5);
+}
+
+#menu > #selector > #selector-title{
+    display: block;
+    width: 100%;
+    height: auto;
+    font-family: "Quicksand";
+    font-weight: 300;
+    font-size: var(--font-large);
+    color: var(--color-white);
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#menu > #selector > #selector-buttons-container{
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+#menu > #selector > #selector-buttons-container > button{
+    width: 100%;
+    height: var(--selector-buttons-height);
+    border-radius: var(--border-radius);
+    margin-bottom: 5px;
+    padding: 0 calc(20px + (var(--selector-buttons-height) / 2)) 0 10px;
+    background-position: calc(100% - 10px) center;
+    background-repeat: no-repeat;
+    background-size: calc(var(--selector-buttons-height) / 2);
+    font-family: "Heebo";
+    font-weight: 300;
+    font-size: var(--font-medium);
+    color: var(--color-white);
+    text-align: left;
+    border: 1px solid var(--color-gray-b40);
+}
+
+#menu > #selector > #selector-buttons-container > button:last-child{
+    margin-bottom: 0;
+}
+
+#menu > #selector > #selector-buttons-container > button:hover:not(:disabled){
+    background-color: var(--color-gray-b95);
+    border-color: var(--color-gray-b95);
+    color: var(--color-black);
+}
+
+#menu > #selector > #selector-buttons-container > button:active:not(:disabled){
+    background-color: var(--color-white);
+    border-color: var(--color-white);
+    color: var(--color-black);
+}
+
+#menu > #selector > #selector-close-button{
+    width: var(--selector-close-button-width);
+    height: var(--selector-close-button-height);
+    border-radius: calc(var(--selector-close-button-height) / 2);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: calc(var(--selector-close-button-height) * 1);
+}
+
+#menu > #selector > #selector-close-button:hover:not(:disabled){
+    background-color: var(--color-gray-b20);
+}
+
+#menu > #selector > #selector-close-button:active:not(:disabled){
+    background-color: var(--color-gray-b40);
+}
+
+/* MENU HEADER */
+
+#menu > #menu-header{
+    position: absolute;
+    width: 100%;
+    height: var(--menu-header-height);
+    top: 0;
+}
+
+#menu > #menu-header > #menu-header-inner{
+    width: var(--menu-header-inner-width);
+    height: var(--menu-header-inner-height);
+}
+
+#menu > #menu-header > #menu-header-inner > #about-button{
+    width: auto;
+    height: 100%;
+    border-radius: var(--border-radius);
+    padding: 0 10px 0 calc(20px + var(--menu-header-inner-height) / 2);
+    background-position: 10px center;
+    background-repeat: no-repeat;
+    background-size: calc(var(--menu-header-inner-height) / 2);
+    font-family: "Quicksand";
+    font-weight: 300;
+    font-size: var(--font-xlarge);
+    color: var(--color-gray-b50);
+}
+
+/* MENU BODY */
+
+#menu > #menu-body{
+    position: absolute;
+    width: 100%;
+    height: calc(100% - var(--menu-header-height));
+    bottom: 0;
+}
+
+/* MENU LIST HEADER */
+
+#menu > #menu-body > #menu-list-header{
+    position: absolute;
+    width: 100%;
+    height: var(--menu-list-header-height);
+    top: 0;
+}
+
+#menu > #menu-body > #menu-list-header > #menu-list-inner-header{
+    width: var(--menu-list-header-inner-width);
+    height: var(--menu-list-header-inner-height);
+}
+
+#menu > #menu-body > #menu-list-header > #menu-list-inner-header > #add-screen-button{
+    width: auto;
+    height: 100%;
+    border-radius: var(--border-radius);
+    padding: 0 20px 0 calc(20px + var(--menu-list-add-screen-button-background-size));
+    background-position: 10px center;
+    background-repeat: no-repeat;
+    background-size: var(--menu-list-add-screen-button-background-size);
+    font-family: "Quicksand";
+    font-weight: 300;
+    font-size: var(--font-medium);
+    color: var(--color-white);
+    background-color: var(--color-black);
+}
+
+#menu > #menu-body > #menu-list-header > #menu-list-inner-header > #add-screen-button:hover:not(:disabled){
+    background-color: var(--color-gray-b20);
+}
+
+#menu > #menu-body > #menu-list-header > #menu-list-inner-header > #add-screen-button:active:not(:disabled){
+    background-color: var(--color-gray-b40);
+}
+
+/* MENU LIST BODY */
+
+#menu > #menu-body > #menu-list-body{
+    position: absolute;
+    width: 100%;
+    height: calc(100% - var(--menu-list-header-height));
+    bottom: 0;
+}
+
+/* MENU LIST RESULTS */
+
+#menu > #menu-body > #menu-list-body > #menu-list-results{
+    position: absolute;
+    width: 100%;
+    height: calc(100% - 20px);
+    top: 10px;
+    overflow-y: scroll;
+    padding: var(--container-lateral-scrolling-padding);
+}
+
+#menu > #menu-body > #menu-list-body > #menu-list-results > .screen-item{
+    width: 100%;
+    height: var(--menu-list-results-screen-item-height);
+    border-radius: var(--border-radius);
+    margin-bottom: 5px;
+    padding-right: 10px;
+    transition: var(--transition-time) background-color;
+}
+
+#menu > #menu-body > #menu-list-body > #menu-list-results > .screen-item:last-child{
+    margin-bottom: 0;
+}
+
+#menu > #menu-body > #menu-list-body > #menu-list-results > .screen-item:hover:not(:disabled):not(.selected){
+    background-color: var(--color-gray-b95);
+}
+
+#menu > #menu-body > #menu-list-body > #menu-list-results > .screen-item:active:not(:disabled):not(.selected){
+    background-color: var(--color-gray-b90);
+}
+
+#menu > #menu-body > #menu-list-body > #menu-list-results > .screen-item.selected{
+    background-color: var(--color-gray-b95);
+}
+
+#menu > #menu-body > #menu-list-body > #menu-list-results > .screen-item > .open-screen-button{
+    width: calc(100% - var(--menu-list-results-close-screen-button-size) );
+    height: 100%;
+    padding: 0 10px 0 calc(20px + (var(--menu-list-results-close-screen-button-size) * .6));
+    background-position: 10px center;
+    background-repeat: no-repeat;
+    background-size: calc(var(--menu-list-results-close-screen-button-size) * .6);
+    font-family: "Heebo";
+    font-weight: 300;
+    font-size: var(--font-medium);
+    color: var(--color-black);
+    text-align: left;
+}
+
+#menu > #menu-body > #menu-list-body > #menu-list-results > .screen-item > .close-screen-button{
+    width: var(--menu-list-results-close-screen-button-size);
+    height: var(--menu-list-results-close-screen-button-size);
+    border-radius: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: calc(var(--menu-list-results-close-screen-button-size) * .6);
+}
+
+#menu > #menu-body > #menu-list-body > #menu-list-results > .screen-item > .close-screen-button:hover:not(:disabled){
+    background-color: var(--color-gray-b90);
+}
+
+#menu > #menu-body > #menu-list-body > #menu-list-results > .screen-item > .close-screen-button:active:not(:disabled){
+    background-color: var(--color-gray-b85);
+}
+
+/* MENU LIST EMPTY */
+
+#menu > #menu-body > #menu-list-body > #menu-list-empty{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#menu > #menu-body > #menu-list-body > #menu-list-empty > div{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+
+#menu > #menu-body > #menu-list-body > #menu-list-empty > div > span{
+    width: 100%;
+    height: auto;
+    font-family: "Heebo";
+    font-weight: 300;
+    font-size: var(--font-medium);
+    text-align: center;
+    color: var(--color-gray-b40);
+}

@@ -1,0 +1,23 @@
+/****************************/
+/* CONFIGURACIONES DE MENU */
+/**************************/
+
+:root{
+    --menu-width: 301px;
+    /* SELECTOR */
+    --selector-buttons-height: 50px;
+    --selector-close-button-width: 50px;
+    --selector-close-button-height: 30px;
+    /* MENU HEADER */
+    --menu-header-height: 70px;
+    --menu-header-inner-width: calc(100% - 20px);
+    --menu-header-inner-height: 50px;
+    /* MENU LIST HEADER */
+    --menu-list-header-height: 60px;
+    --menu-list-header-inner-width: calc(100% - 20px);
+    --menu-list-header-inner-height: 50px;
+    --menu-list-add-screen-button-background-size: 32px;
+    /* MENU LIST RESULTS */
+    --menu-list-results-screen-item-height: 50px;
+    --menu-list-results-close-screen-button-size: 40px;
+}

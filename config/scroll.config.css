@@ -1,0 +1,13 @@
+/******************************/
+/* CONFIGURACIONES DE SCROLL */
+/****************************/
+
+:root{
+    --scroll-width: 10px;
+    --scroll-border-width: 2.5px;
+    --container-total-scrolling-padding: 10px 0 10px 10px;
+    --container-lateral-scrolling-padding: 0 0 0 10px;
+    --scroll-box-shadow: inset 0 0 0 10px var(--color-gray-b40);
+    --scroll-box-shadow-hover: inset 0 0 0 10px var(--color-gray-b30);
+    --scroll-box-shadow-active: inset 0 0 0 10px var(--color-gray-b20);
+}

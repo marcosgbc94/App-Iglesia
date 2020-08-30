@@ -1,0 +1,29 @@
+/*******************************/
+/* CONFIGURACIONES DE COLORES */
+/*****************************/
+
+:root{
+    /* COLORES PRIMARIOS */
+    --color-black: black;
+    --color-white: white;
+    --color-yellow: #FFDC00;
+    --color-red: #CC553D;
+    --color-blue: #0877CC;
+    /* COLORES SECUNDARIOS */
+    --color-gray-b95: #F2F2F2;
+    --color-gray-b90: #E5E5E5;
+    --color-gray-b85: #D8D8D8;
+    --color-gray-b80: #CCCCCC;
+    --color-gray-b75: #BFBFBF;
+    --color-gray-b70: #B2B2B2;
+    --color-gray-b60: #999999;
+    --color-gray-b55: #8C8C8C;
+    --color-gray-b50: #7F7F7F;
+    --color-gray-b40: #666666;
+    --color-gray-b30: #4C4C4C;
+    --color-gray-b20: #333333;
+    --color-red-hover: #B24A35;
+    --color-red-active: #993F2D;
+    --color-blue-hover: #0768B2;
+    --color-blue-active: #065999;
+}
