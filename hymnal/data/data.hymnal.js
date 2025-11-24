@@ -1,6 +1,6 @@
 ﻿let data = {
     "praise": [
-        {
+{
             "code": "A001",
             "name": "a cada instante de mi vida",
             "info": "página 88 número 131",
@@ -9,14 +9,14 @@
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>a cada<br/>instante<br/>de mi vida</h1><h3>página <strong>88</strong> número <strong>131</strong></h3>"},
                 {"slide": "<i>//</i>Señor yo<br />quiero construir<br />una habitación y<br />vivir junto a ti.<i>//</i>"},
-                {"slide": "<i>//</i>Señor, en<br />suprema adoración<br />aqui está mi corazón<br />que te quiere adorar.<i>//</i>"},
+                {"slide": "<i>//</i>Señor, en<br />suprema adoración<br />aquí está mi corazón<br />que te quiere adorar.<i>//</i>"},
                 {"slide": "A cada instante<br />de mi vida,<br />yo te agradeceré,<br />a cada instante<br />de mi vida,<br />siempre te exaltaré,"},
                 {"slide": "a cada instante<br />de mi vida,<br />siempre te amaré."},
                 {"slide": "A cada instante<br />de mi vida,<br />yo te agradeceré,<br />a cada instante<br />de mi vida,<br />siempre te exaltaré,"},
                 {"slide": "a cada instante<br />de mi vida,<br />siempre te amaré."},
 
                 {"slide": "<i>//</i>Señor yo<br />quiero construir<br />una habitación y<br />vivir junto a ti.<i>//</i>"},
-                {"slide": "<i>//</i>Señor, en<br />suprema adoración<br />aqui está mi corazón<br />que te quiere adorar.<i>//</i>"},
+                {"slide": "<i>//</i>Señor, en<br />suprema adoración<br />aquí está mi corazón<br />que te quiere adorar.<i>//</i>"},
                 {"slide": "A cada instante<br />de mi vida,<br />yo te agradeceré,<br />a cada instante<br />de mi vida,<br />siempre te exaltaré,"},
                 {"slide": "a cada instante<br />de mi vida,<br />siempre te amaré."},
                 {"slide": "A cada instante<br />de mi vida,<br />yo te agradeceré,<br />a cada instante<br />de mi vida,<br />siempre te exaltaré,"},
@@ -32,18 +32,18 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>a dios<br />sea la<br />gloria</h1><h3>andrae crouch</h3>"},
-                {"slide": "Como podre agradecer<br />tanto amor que<br />me has dado a mi<br />cosas tan maravillosas<br />que no logro<br />comprender."},
+                {"slide": "Como podré agradecer<br />tanto amor que<br />me has dado a mi<br />cosas tan maravillosas<br />que no logro<br />comprender."},
                 {"slide": "Las voces de<br />millones de ángeles<br />no podrían expresar<br />mi gratitud"},
                 {"slide": "todo lo que soy y<br />lo que espero ser<br />se lo debo todo a Él."},
                 {"slide": "<h4>coro</h4>A Dios sea la Gloria<br />a Dios sea la Gloria<br />a Dios sea la Gloria<br />por lo que Él<br />ha hecho en mi."},
-                {"slide": "<h4>coro</h4>Con su Sangre<br />me ha lavado<br />su poder me a<br />transformado"},
+                {"slide": "<h4>coro</h4>Con su Sangre<br />me ha lavado<br />su poder me ha<br />transformado"},
                 {"slide": "a Dios sea la Gloria<br />por lo que Él<br />ha hecho en mi."},
                 {"slide": "Quiero consagrar<br />mi vida al Señor<br />y ser agradecido<br />con mi Señor"},
                 {"slide": "si algo de<br />Gloria recibo en mí<br />sea toda la<br />Gloria a Él."},
                 {"slide": "<h4>coro</h4>A Dios sea la Gloria<br />a Dios sea la Gloria<br />a Dios sea la Gloria<br />por lo que Él<br />ha hecho en mi."},
-                {"slide": "<h4>coro</h4>Con su Sangre<br />me ha lavado<br />su poder me a<br />transformado"},
+                {"slide": "<h4>coro</h4>Con su Sangre<br />me ha lavado<br />su poder me ha<br />transformado"},
                 {"slide": "a Dios sea la Gloria<br />por lo que Él<br />ha hecho en mi."},
-                {"slide": "<h4>final</h4>Porque suyo es<br />el Reino, el Poder<br />y la Gloria<br />por siempre...<br />y para siempre...<br />Amen, amen..."},
+                {"slide": "<h4>final</h4>Porque suyo es<br />el Reino, el Poder<br />y la Gloria<br />por siempre...<br />y para siempre...<br />Amén, amén..."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -115,16 +115,16 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>a tí sea<br />la gloria</h1><h3>marcela gándara<br/>abel zavala</h3>"},
-                {"slide": "No existen mas<br />motivos Señor<br />venimos hoy<br />rendidos a tí"},
+                {"slide": "No existen más<br />motivos Señor<br />venimos hoy<br />rendidos a tí"},
                 {"slide": "la unica razón de<br />nuestra adoración<br />hoy eres tú.<br />Elevamos olor fragante<br />para tí, para tí."},
                 {"slide": "<h4>coro</h4>Solo a tí sea<br />la Gloria Señor<br />la alabanza y<br />la adoración.<br />Toda rodilla se doble<br />ante el único Rey y Dios."},
-                {"slide": "<h4>coro</h4>Solo a tí sea<br />la Gloria Señor<br />la alabanza y<br />la adoración.<br />Que toda lengua confiese<br />que tu eres el Señor."},
-                {"slide": "No existen mas<br />motivos Señor<br />venimos hoy<br />rendidos a tí"},
+                {"slide": "<h4>coro</h4>Solo a tí sea<br />la Gloria Señor<br />la alabanza y<br />la adoración.<br />Que toda lengua confiese<br />que tú eres el Señor."},
+                {"slide": "No existen más<br />motivos Señor<br />venimos hoy<br />rendidos a tí"},
                 {"slide": "la unica razón de<br />nuestra adoración<br />hoy eres tú.<br />Elevamos olor fragante<br />para tí, para tí."},
                 {"slide": "<h4>coro</h4>Solo a tí sea<br />la Gloria Señor<br />la alabanza y<br />la adoración.<br />Toda rodilla se doble<br />ante el único Rey y Dios."},
-                {"slide": "<h4>coro</h4>Solo a tí sea<br />la Gloria Señor<br />la alabanza y<br />la adoración.<br />Que toda lengua confiese<br />que tu eres el Señor."},
+                {"slide": "<h4>coro</h4>Solo a tí sea<br />la Gloria Señor<br />la alabanza y<br />la adoración.<br />Que toda lengua confiese<br />que tú eres el Señor."},
                 {"slide": "<h4>coro</h4>Solo a tí sea<br />la Gloria Señor<br />la alabanza y<br />la adoración.<br />Toda rodilla se doble<br />ante el único Rey y Dios."},
-                {"slide": "<h4>coro</h4>Solo a tí sea<br />la Gloria Señor<br />la alabanza y<br />la adoración.<br />Que toda lengua confiese<br />que tu eres el Señor."},
+                {"slide": "<h4>coro</h4>Solo a tí sea<br />la Gloria Señor<br />la alabanza y<br />la adoración.<br />Que toda lengua confiese<br />que tú eres el Señor."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -152,11 +152,11 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>ahora que<br />estoy en tu<br />presencia</h1><h3>página <strong>135</strong> número <strong>82</strong></h3>"},
-                {"slide": "Ahora que estoy<br />en tu presencia,<br />quiero decirte<br />cuanto te amo."},
+                {"slide": "Ahora que estoy<br />en tu presencia,<br />quiero decirte<br />cuánto te amo."},
                 {"slide": "Ahora que estoy<br />en tu presencia,<br />mi corazón reboza<br />de gozo y de alegría."},
                 {"slide": "<h4>coro</h4>te amo, te amo<br />no quiero ser más yo<br />sé todo tú,<br />Señor yo te amo. Te amo<br />sólo en ti encontré<br />perfecto amor."},
                 
-                {"slide": "Ahora que estoy<br />en tu presencia,<br />quiero decirte<br />cuanto te amo."},
+                {"slide": "Ahora que estoy<br />en tu presencia,<br />quiero decirte<br />cuánto te amo."},
                 {"slide": "Ahora que estoy<br />en tu presencia,<br />mi corazón reboza<br />de gozo y de alegría."},
                 {"slide": "<h4>coro</h4>te amo, te amo<br />no quiero ser más yo<br />sé todo tú,<br />Señor yo te amo. Te amo<br />sólo en ti encontré<br />perfecto amor."},
                 {"slide": "<h1>fin</h1>"}
@@ -237,10 +237,10 @@
 
                 {"slide": "<h4>coro</h4>Oh alaba,<br />simplemente alaba<br />si estás llorando alaba<br />en la prueba alaba"},
                 {"slide": "<h4>coro</h4>si estás<br />sufriendo alaba<br />no importa alaba<br />tu alabanza<br />Él escuchará."},
-                {"slide": "<h4>coro</h4>Dios va al frente<br />abriendo camino<br />quebrando cadenas,<br />sacando espinos,"},
+                {"slide": "<h4>coro</h4>Dios va al frente<br />abriendo camino<br />cortando cadenas,<br />sacando espinos,"},
                 {"slide": "<h4>coro</h4>manda sus ángeles<br />contigo a luchar<br />Él abre puertas<br />nadie puede cerrar."},
                 {"slide": "<h4>coro</h4>Él trabaja para<br />los que confían,<br />camina contigo de<br />noche y de día."},
-                {"slide": "<h4>coro</h4>Levanta tus manos<br />tu victoria llegó,<br />comienza a cantar<br />y <i>///</i>alaba a Dios<i>///</i>"},
+                {"slide": "<h4>coro</h4>Levanta tus manos<br />tu victoria llegó,<br />comienza a cantar<br />y <i>////</i>alaba a Dios<i>////</i>"},
                 
                 {"slide": "Tu necesitas<br />entender<br />cuando Dios<br />está hablando."},
                 {"slide": "Cuando Él queda<br />en silencio<br />es porque está<br />trabajando."},
@@ -249,10 +249,10 @@
 
                 {"slide": "<h4>coro</h4>Oh alaba,<br />simplemente alaba<br />si estás llorando alaba<br />en la prueba alaba"},
                 {"slide": "<h4>coro</h4>si estás<br />sufriendo alaba<br />no importa alaba<br />tu alabanza<br />Él escuchará."},
-                {"slide": "<h4>coro</h4>Dios va al frente<br />abriendo camino<br />quebrando cadenas,<br />sacando espinos,"},
+                {"slide": "<h4>coro</h4>Dios va al frente<br />abriendo camino<br />cortando cadenas,<br />sacando espinos,"},
                 {"slide": "<h4>coro</h4>manda sus ángeles<br />contigo a luchar<br />Él abre puertas<br />nadie puede cerrar."},
                 {"slide": "<h4>coro</h4>Él trabaja para<br />los que confían,<br />camina contigo de<br />noche y de día."},
-                {"slide": "<h4>coro</h4>Levanta tus manos<br />tu victoria llegó,<br />comienza a cantar<br />y <i>///</i>alaba a Dios<i>///</i>"},
+                {"slide": "<h4>coro</h4>Levanta tus manos<br />tu victoria llegó,<br />comienza a cantar<br />y <i>////</i>alaba a Dios<i>////</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -359,15 +359,15 @@
             "body": [
                 {"slide": "<h4>coro</h4><h1>amémonos<br/>de corazón</h1>"},
                 {"slide": "<i>//</i>Amémonos<br />de corazón,<br />no de labios<br />ni fingido.<i>//</i>"},
-                {"slide": "<i>//</i>Para cuando<br />Cristo venga<i>//</i><br />nos encuentre<br />apercibidos."},
-                {"slide": "<i>//</i>Para cuando<br />Cristo venga<i>//</i><br />nos encuentre<br />apercibidos."},
-                {"slide": "<i>//</i>¿Como puedes<br />tu orar enojado<br />con tu hermano?<i>//</i>"},
+                {"slide": "<i>//</i>Para cuando<br />Cristo venga<i>//</i><br />nos encuentre<br />preparados."},
+                {"slide": "<i>//</i>Para cuando<br />Cristo venga<i>//</i><br />nos encuentre<br />preparados."},
+                {"slide": "<i>//</i>¿Como puedes<br />tú orar enojado<br />con tu hermano?<i>//</i>"},
                 {"slide": "<i>//</i>Dios no escucha<br />la oración<i>//</i><br />si no te has<br />reconciliado."},
                 {"slide": "<i>//</i>Dios no escucha<br />la oración<i>//</i><br />si no te has<br />reconciliado."},
                 {"slide": "<i>//</i>Amémonos<br />de corazón,<br />no de labios<br />ni fingido.<i>//</i>"},
-                {"slide": "<i>//</i>Para cuando<br />Cristo venga<i>//</i><br />nos encuentre<br />apercibidos."},
-                {"slide": "<i>//</i>Para cuando<br />Cristo venga<i>//</i><br />nos encuentre<br />apercibidos."},
-                {"slide": "<i>//</i>¿Como puedes<br />tu orar enojado<br />con tu hermano?<i>//</i>"},
+                {"slide": "<i>//</i>Para cuando<br />Cristo venga<i>//</i><br />nos encuentre<br />preparados."},
+                {"slide": "<i>//</i>Para cuando<br />Cristo venga<i>//</i><br />nos encuentre<br />preparados."},
+                {"slide": "<i>//</i>¿Como puedes<br />tú orar enojado<br />con tu hermano?<i>//</i>"},
                 {"slide": "<i>//</i>Dios no escucha<br />la oración<i>//</i><br />si no te has<br />reconciliado."},
                 {"slide": "<i>//</i>Dios no escucha<br />la oración<i>//</i><br />si no te has<br />reconciliado."},
                 {"slide": "<h1>fin</h1>"}
@@ -382,11 +382,11 @@
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>amor<br />tan<br />grande</h1><h3>página <strong>126</strong> número <strong>28</strong></h3>"},
                 {"slide": "Amor tan grande,<br />profundo y sublime<br />es el amor<br />de mi Creador."},
-                {"slide": "No hay nada<br />en el mundo<br />que pueda igualarse<br />el tierno amor,<br />de mi Señor."},
+                {"slide": "No hay nada<br />en el mundo<br />que pueda igualarse<br />al tierno amor,<br />de mi Señor."},
                 {"slide": "<h4>coro</h4>Dios de amor,<br />Dios de amor,<br />sólo eres tú,<br />el Dios de amor"},
                 {"slide": "<h4>coro</h4>no hay otro Dios,<br />fuera de ti<br />con su poder<br />para mí hay amor."},
-                {"slide": "El sólo nos ama,<br />nos protege<br />y nos guarda<br />de todos los males<br />que existen aquí."},
-                {"slide": "Por eso le adoro,<br />con toda mi alma<br />porque me a<br />dado a Jesús<br />mi dulce calma."},
+                {"slide": "Él sólo nos ama,<br />nos protege<br />y nos guarda<br />de todos los males<br />que existen aquí."},
+                {"slide": "Por eso le adoro,<br />con toda mi alma<br />porque me ha<br />dado a Jesús<br />mi dulce calma."},
                 {"slide": "<h4>coro</h4>Dios de amor,<br />Dios de amor,<br />sólo eres tú,<br />el Dios de amor"},
                 {"slide": "<h4>coro</h4>no hay otro Dios,<br />fuera de ti<br />con su poder<br />para mí hay amor."},
                 {"slide": "<h1>fin</h1>"}
@@ -400,12 +400,12 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>himno</h4><h1>ángeles<br />cantando<br />están</h1>"},
-                {"slide": "Ángeles cantando están<br />tan dulcícima canción;<br />las montañas su eco dan<br />como fiel contestación."},
-                {"slide": "<h4>coro</h4><i>//</i>GLORIA<br />a Dios en<br />lo alto.<i>//</i>"},
-                {"slide": "Los pastores sin cesar<br />sus loores dan a Dios;<br />cuan glorioso<br />es el cantar<br />de su melodiosa voz."},
-                {"slide": "<h4>coro</h4><i>//</i>GLORIA<br />a Dios en<br />lo alto.<i>//</i>"},
+                {"slide": "Ángeles cantando están<br />tan dulcísima canción;<br />las montañas su eco dan<br />como fiel contestación."},
+                {"slide": "<h4>coro</h4><i>//</i>Gloria<br />a Dios en<br />lo alto.<i>//</i>"},
+                {"slide": "Los pastores sin cesar<br />sus loores dan a Dios;<br />cuán glorioso<br />es el cantar<br />de su melodiosa voz."},
+                {"slide": "<h4>coro</h4><i>//</i>Gloria<br />a Dios en<br />lo alto.<i>//</i>"},
                 {"slide": "¡Oh! venid pronto a Belén<br />para contemplar con fe<br />a Jesús, autor del bien,<br />al recién nacido Rey."},
-                {"slide": "<h4>coro</h4><i>//</i>GLORIA<br />a Dios en<br />lo alto.<i>//</i>"},
+                {"slide": "<h4>coro</h4><i>//</i>Gloria<br />a Dios en<br />lo alto.<i>//</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -445,7 +445,7 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>coro</h4><h1>ardiendo<br />en fuego</h1>"},
-                {"slide": "<i>//</i>Ardiendo el fuego,<br />en mi alma está,<br />gloriosa llama<br />me limpiará;<br />oh Aleluya en mi alma<br />ardiendo está.<i>//</i>"},
+                {"slide": "<i>//</i>Ardiendo en fuego,<br />en mi alma está,<br />gloriosa llama<br />me limpiará;<br />oh Aleluya en mi alma<br />ardiendo está.<i>//</i>"},
                 {"slide": "Oh Señor quiero que<br />ardas en mi ser;<br />como la zarza quiero<br />arder con tu poder;"},
                 {"slide": "en nuevas lenguas<br />quiero hablar<br />como señal,<br />que estoy ardiendo,<br />con el fuego celestial."},
                 {"slide": "Quiero alabarte y<br />adorarte solo a ti;<br />como se adora en<br />espíritu y en verdad."},
@@ -454,9 +454,72 @@
             ]
         },
 
+        {
+            "code": "A023",
+            "name": "alegre en la semana",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>alegre en<br>la semana</h1>"},
+                {"slide": "El Domingo<br>estoy contento<br>El Lunes tengo paz<br>El Martes lleno<br>de su amor<br>y todo lo demás"},
+                {"slide": "El Miércoles<br>y el Jueves<br>yo ando en la luz<br>El Viernes y el Sábado<br>yo vivo con Jesús."},
+                {"slide": "Oh Gloria Gloria Gloria<br>Oh Gloria al<br>Señor Oh aleluya<br>salvo soy por mi<br>buen Redentor"},
+                {"slide": "Oh Gloria Gloria Gloria<br>Oh Gloria al<br>Señor Oh aleluya<br>salvo soy a<br>Cristo doy loor."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
+        {
+            "code": "A024",
+            "name": "allá en el cielo",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>allá en<br>el cielo</h1>"},
+                {"slide": "<i>///</i>Allá en el cielo<i>///</i>"},
+                {"slide": "No habrá tristeza<br>ni llanto ni más dolor<br>Porque estaremos<br>toditos juntos<br>Allá en el cielo<br>Alabando al Salvador."},
+                {"slide": "Mi Jesús se fue al cielo<br>Y en las nubes<br>Él muy pronto volverá<br>Mi Jesús se fue al cielo<br>Y en las nubes<br>Él muy pronto volverá."},
+                {"slide": "<i>//</i>Si, en las nubes volverá<br>En las nubes volverá<br>En las nubes<br>Él muy pronto volverá.<i>//</i>"},
+                {"slide": "Con letras de oro<br><i>///</i>escrito está<i>///</i><br>Con letras de oro<br>escrito está<br>Mi nombre más allá."},
+                {"slide": "<i>//</i>Más allá mi nombre<br>escrito está<i>//</i><br>Con letras de oro<br><i>///</i>escrito está<i>///</i><br>Con letras de oro<br>escrito está<br>Mi nombre más allá."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
-
+        {
+            "code": "A025",
+            "name": "alguien esta aqui, y yo se que es cristo",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>alguien está <br>aquí, y yo sé<br> que es Cristo</h1>"},
+                {"slide": "Alguien está aquí<br>Y yo sé que es Cristo<br>Alguien está aquí<br>Y yo sé que es el Señor"},
+                {"slide": "Él está aquí<br>Tu no lo ves<br>Él está aquí<br>Para sanarte<br>Él está aquí<br>Y darte la bendición."},
+                {"slide": "Jesús está aquí<br>Pide lo que quieras<br>Jesús está aquí<br>Pide lo que quieras"},
+                {"slide": "Él tiene poder<br>Él te lo dará<br>Jesús está<br>aquí, Aleluya<br>Pide lo que quieras."},
+                {"slide": "También nosotros por la fe<br>Nos acercamos Cristo a ti<br>Aunque su rostro no se ve<br>Pero yo sé que estás aquí."},
+                {"slide": "<i>//</i>Jesús está aquí<br>Pide lo que quieras<i>//</i>"},
+                {"slide": "Él tiene poder<br>Él te lo dará<br>Jesús está<br>aquí, Aleluya<br>Pide lo que quieras."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+	{
+            "code": "A026",
+            "name": "abre mis ojos, oh cristo",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>abre mis ojos,<br/>oh cristo</h1>"},
+                {"slide": "<i>//</i>Abre mis ojos, oh, Cristo<br/>Abre mis ojos, te pido<br/>Yo quiero verte<br/>Yo quiero verte<i>//</i>"},
+                {"slide": "<i>//</i>Y contemplar tu majestad<br/>Y el resplandor de tu Gloria<br/>Derrama tu amor y poder<br/>Cuando cantamos<br/>(Santo, Santo)<i>//</i>"},
+                {"slide": "<i>//</i>Santo, Santo, Santo<br/>Santo, Santo, Santo<br/>Santo, Santo, Santo<br/>Yo quiero verte<i>//</i>"},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
         {
             "code": "B001",
@@ -503,9 +566,9 @@
                 {"slide": "<h4>alabanza</h4><h1>bautízame</h1><h3>gladys muñoz</h3>"},
                 {"slide": "Señor has de mi vida<br />un instrumento afinado<br />quiero servirte Señor,<br />con poder,<br />con estusiasmo"},
                 {"slide": "Pero me falta Señor<br />que me arropes<br />con tu manto<br />derrama en mi tu poder<br />dame tu Espíritu Santo"},
-                {"slide": "<i>///</i>Bautizame<i>///</i><br />con tu Espíritu Santo,<br />quiero sentir tu presencia<br />que decienda de lo alto."},
-                {"slide": "<i>///</i>Bautizame<i>///</i><br />con tu Espíritu Santo<br />llena mi copa Señor<br />hasta que<br />este rebosando"},
-                {"slide": "He prometido Señor<br />servirte todos mis años<br />quiero contarle a la gente<br />el poder que<br />me a transformado"},
+                {"slide": "<i>///</i>Bautizame<i>///</i><br />con tu Espíritu Santo,<br />quiero sentir tu presencia<br />que descienda de lo alto."},
+                {"slide": "<i>///</i>Bautizame<i>///</i><br />con tu Espíritu Santo<br />llena mi copa Señor<br />hasta que<br />esté rebosando"},
+                {"slide": "He prometido Señor<br />servirte todos mis años<br />quiero contarle a la gente<br />el poder que<br />me ha transformado"},
                 {"slide": "decirle a la iglesia<br />que vuelves con<br />poder a levantarnos.<br />Derrama en mi tu poder,<br />sopla Espíritu Santo"},
                 {"slide": "<h1>fin</h1>"}
             ]
@@ -568,9 +631,9 @@
                 {"slide": "Desde entonces<br />sigo las pisadas<br />que el Maestro<br />trazadas dejó."},
                 {"slide": "<i>//</i>Bendito Dios,<br />tarda pero no olvida.<br />Bendito Dios,<br />bendito es tu amor.<i>//</i>"},
                 {"slide": "No sabía que Él<br />cargó mis pacados,<br />no sabía que Él<br />llevó una cruz,"},
-                {"slide": "no sabía que sus<br />manos clavarón<br />en su frente<br />una espina llevó."},
+                {"slide": "no sabía que sus<br />manos clavaron<br />en su frente<br />una espina llevó."},
                 {"slide": "Desde entonces mi<br />mente se pregunta:<br />¿cúal fue el crimen que<br />este hombre cometío,"},
-                {"slide": "para que llevará<br />la cruz en el calvario<br />y en ella mis<br />pecados pagó?"},
+                {"slide": "para que llevara<br />la cruz en el calvario<br />y en ella mis<br />pecados pagó?"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -605,7 +668,22 @@
             ]
         },
 
-
+        {
+            "code": "B007",
+            "name": "basta que me toques, señor",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>basta<br />que me toques,<br />señor</h1>"},
+                {"slide": "<i>//</i>Basta que me<br />toques, Señor<i>//</i>"},
+                {"slide": "Si la noche<br />oscura está<br />Tu presencia<br />me guiará."},
+                
+                {"slide": "<i>//</i>Basta que me<br />toques, Señor<i>//</i>"},
+                {"slide": "Si la noche<br />oscura está<br />Tu presencia<br />me guiará.<br>Basta que me<br />toques, Señor."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
 
 
@@ -631,7 +709,24 @@
             ]
         },
         {
+
             "code": "C002",
+            "name": "cada dia con cristo",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>Cada día<br>con Cristo</h1>"},
+                {"slide": "Cada día con Cristo<br>me llena de perfecta paz<br>Cada día con Cristo<br>me llena más y más"},
+                {"slide": "Él me salva y guarda<br>y sé que pronto volverá<br>Y vivir con Cristo<br>más dulce cada día será."},
+                {"slide": "Cada día con Cristo<br>me llena de perfecta paz<br>Cada día con Cristo<br>me llena más y más"},
+                {"slide": "Él me salva y guarda<br>y sé que pronto volverá<br>Y vivir con Cristo<br>más dulce cada día será."},
+                {"slide": "<h1>fin</h1>"}
+        ]
+    },
+
+        {
+            "code": "C003",
             "name": "canta, ¡oh buen cristiano!",
             "info": "página 172 número 82",
             "type": "himno",
@@ -648,7 +743,7 @@
             ]
         },
         {
-            "code": "C003",
+            "code": "C004",
             "name": "cantad a jehová cántico nuevo",
             "info": "página 12 número 29",
             "type": "coro",
@@ -664,7 +759,7 @@
             ]
         },
         {
-            "code": "C004",
+            "code": "C005",
             "name": "cantaré al señor por siempre",
             "info": "página 24 número 88",
             "type": "coro",
@@ -684,7 +779,7 @@
             ]
         },
         {
-            "code": "C005",
+            "code": "C006",
             "name": "cara a cara espero verle",
             "info": "página 145 número 12",
             "type": "himno",
@@ -713,7 +808,7 @@
             ]
         },
         {
-            "code": "C006",
+            "code": "C007",
             "name": "celebrad a cristo",
             "info": "página 6 número 4",
             "type": "coro",
@@ -730,7 +825,7 @@
             ]
         },
         {
-            "code": "C007",
+            "code": "C008",
             "name": "cerca de ti señor",
             "info": "página 159 número 49",
             "type": "himno",
@@ -747,7 +842,7 @@
             ]
         },
         {
-            "code": "C008",
+            "code": "C009",
             "name": "chile, vamos a cambiar",
             "info": "página 5 número 1",
             "type": "coro",
@@ -762,7 +857,7 @@
             ]
         },
         {
-            "code": "C009",
+            "code": "C010",
             "name": "como el siervo brama",
             "info": "popurrí",
             "type": "mix",
@@ -782,7 +877,7 @@
             ]
         },
         {
-            "code": "C010",
+            "code": "C011",
             "name": "como el siervo",
             "info": "página 79 número 86",
             "type": "coro",
@@ -804,7 +899,7 @@
             ]
         },
         {
-            "code": "C011",
+            "code": "C012",
             "name": "como hizo david",
             "info": "página 10 número 20",
             "type": "coro",
@@ -819,7 +914,7 @@
             ]
         },
         {
-            "code": "C012",
+            "code": "C013",
             "name": "como la brisa",
             "info": "jesús adrían romero",
             "type": "alabanza",
@@ -844,7 +939,7 @@
             ]
         },
         {
-            "code": "C013",
+            "code": "C014",
             "name": "como ladrón en la noche",
             "info": "",
             "type": "coro",
@@ -856,7 +951,7 @@
             ]
         },
         {
-            "code": "C014",
+            "code": "C015",
             "name": "como no creer en dios",
             "info": "hna. irene",
             "type": "alabanza",
@@ -877,7 +972,7 @@
             ]
         },
         {
-            "code": "C015",
+            "code": "C016",
             "name": "con mi dios, yo asaltaré",
             "info": "página 29 número 105",
             "type": "coro",
@@ -895,7 +990,7 @@
             ]
         },
         {
-            "code": "C016",
+            "code": "C017",
             "name": "cristo es la peña de horeb",
             "info": "página 148 número 19",
             "type": "himno",
@@ -917,7 +1012,7 @@
             ]
         },
         {
-            "code": "C017",
+            "code": "C018",
             "name": "cristo la roca",
             "info": "página 157 número 45",
             "type": "himno",
@@ -937,7 +1032,7 @@
             ]
         },
         {
-            "code": "C018",
+            "code": "C019",
             "name": "cristo, te exalto",
             "info": "página 62 número 3",
             "type": "coro",
@@ -953,7 +1048,7 @@
             ]
         },
         {
-            "code": "C019",
+            "code": "C020",
             "name": "cuán bello es él señor",
             "info": "página 65 número 23",
             "type": "coro",
@@ -969,7 +1064,7 @@
             ]
         },
         {
-            "code": "C020",
+            "code": "C021",
             "name": "cuán dulces son",
             "info": "página 20 número 71",
             "type": "coro",
@@ -985,7 +1080,7 @@
             ]
         },
         {
-            "code": "C021",
+            "code": "C022",
             "name": "cuán gloriosa será la mañana",
             "info": "página 163 número 59",
             "type": "himno",
@@ -1008,7 +1103,7 @@
             ]
         },
         {
-            "code": "C022",
+            "code": "C023",
             "name": "¡cuán grande es él!",
             "info": "página 163 número 61",
             "type": "himno",
@@ -1031,7 +1126,7 @@
             ]
         },
         {
-            "code": "C023",
+            "code": "C024",
             "name": "cuando allá se pase lista",
             "info": "página 146 número 13",
             "type": "himno",
@@ -1052,7 +1147,7 @@
             ]
         },
         {
-            "code": "C024",
+            "code": "C025",
             "name": "cuando cristo venga en gloria",
             "info": "",
             "type": "coro",
@@ -1060,17 +1155,17 @@
             "body": [
                 {"slide": "<h4>coro</h4><h1>cuando<br />cristo<br />venga<br />en gloria</h1>"},
                 {"slide": "<i>//</i>Cuando Cristo<br />venga en Gloria,<br />yo no me voy<br />a quedar.<i>//</i>"},
-                {"slide": "<i>///</i>Seremos<br />arrebatados<br />con poder<i>///</i><br />hacía la nueva<br />Jerusalén."},
+                {"slide": "<i>///</i>Seremos<br />levantados<br />con poder<i>///</i><br />hacía la nueva<br />Jerusalén."},
                 {"slide": "<i>///</i>A que tu te vas,<br />a que yo también<i>///</i><br />hacia la nueva<br />Jerusalén."},
                 
                 {"slide": "<i>//</i>Cuando Cristo<br />venga en Gloria,<br />yo no me voy<br />a quedar.<i>//</i>"},
-                {"slide": "<i>///</i>Seremos<br />arrebatados<br />con poder<i>///</i><br />hacía la nueva<br />Jerusalén."},
+                {"slide": "<i>///</i>Seremos<br />levantados<br />con poder<i>///</i><br />hacía la nueva<br />Jerusalén."},
                 {"slide": "<i>///</i>A que tu te vas,<br />a que yo también<i>///</i><br />hacia la nueva<br />Jerusalén."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
         {
-            "code": "C025",
+            "code": "C026",
             "name": "cuando el pueblo del señor",
             "info": "página 123 número 15",
             "type": "coro",
@@ -1087,7 +1182,7 @@
             ]
         },
         {
-            "code": "C026",
+            "code": "C027",
             "name": "cuando él vino a mi corazón",
             "info": "página 162 número 58",
             "type": "himno",
@@ -1104,7 +1199,7 @@
             ]
         },
         {
-            "code": "C027",
+            "code": "C028",
             "name": "cuando venga el señor de los cielos",
             "info": "",
             "type": "coro",
@@ -1112,17 +1207,17 @@
             "body": [
                 {"slide": "<h4>coro</h4><h1>cuando venga<br />el señor de<br />los cielos</h1>"},
                 {"slide": "<i>//</i>Cuando venga<br />el Señor de los cielos<br />estés vivo o<br />estés muerto,<br />¿que cuentas le darás?<i>//</i>"},
-                {"slide": "<h4>coro</h4>Amigo ya no peques más,<br />Jesús te dice ven a mí,<br />recuerda que tu Salvador,<br />nunca se olvidará de ti."},
+                {"slide": "<h4>coro</h4>Amigo ya no peques más,<br />Jesús te dice ven a mí,<br />recuerda que es tu Salvador,<br />nunca se olvidará de ti."},
                 {"slide": "<h4>coro</h4><i>//</i>Oh... vienen<br />los ángeles,<br />vienen los ángeles,<br />a dejar al Rey.<i>//</i>"},
                 
                 {"slide": "<i>//</i>Cuando venga<br />el Señor de los cielos<br />estés vivo o<br />estés muerto,<br />¿que cuentas le darás?<i>//</i>"},
-                {"slide": "<h4>coro</h4>Amigo ya no peques más,<br />Jesús te dice ven a mí,<br />recuerda que tu Salvador,<br />nunca se olvidará de ti."},
+                {"slide": "<h4>coro</h4>Amigo ya no peques más,<br />Jesús te dice ven a mí,<br />recuerda que es tu Salvador,<br />nunca se olvidará de ti."},
                 {"slide": "<h4>coro</h4><i>//</i>Oh... vienen<br />los ángeles,<br />vienen los ángeles,<br />a dejar al Rey.<i>//</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
         {
-            "code": "C028",
+            "code": "C029",
             "name": "cuando venga el señor",
             "info": "",
             "type": "coro",
@@ -1138,7 +1233,7 @@
             ]
         },
         {
-            "code": "C029",
+            "code": "C030",
             "name": "¿cuántas veces señor, perdonaré?",
             "info": "",
             "type": "coro",
@@ -1150,7 +1245,7 @@
             ]
         },
         {
-            "code": "C030",
+            "code": "C031",
             "name": "cúbreme",
             "info": "lilly goodman",
             "type": "alabanza",
@@ -1170,29 +1265,36 @@
                 {"slide": "<h1>fin</h1>"}
             ]
         },
-
-
-
-
-
         {
-            "code": "D001",
-            "name": "dame la mano querido hermano",
+            "code": "C032",
+            "name": "cumpleaños feliz",
             "info": "",
             "type": "coro",
             "desc": "",
             "body": [
-                {"slide": "<h4>coro</h4><h1>dame la mano<br />querido hermano</h1>"},
-                {"slide": "<h4>coro</h4><i>//</i>Dame la mano<br />querido hermano,<br />dame la mano y<br />mi hermano serás<i>//</i>"},
-                {"slide": "En la biblia hay<br />un texto que dice<br />que se encuentra<br />en primera de Juan"},
-                {"slide": "todo aquel que no<br />ama a su hermano<br />mentiroso le<br />has de llamar."},
-                {"slide": "<h4>coro</h4><i>//</i>Dame la mano<br />querido hermano,<br />dame la mano y<br />mi hermano serás<i>//</i>"},
-                {"slide": "No me importa a<br />la iglesia que vayas<br />si detrás del<br />calvario tú estás,"},
-                {"slide": "si tu corazón<br />es como el mío,<br />dame la mano y<br />mi hermano serás."},
-                {"slide": "<h4>coro</h4><i>//</i>Dame la mano<br />querido hermano,<br />dame la mano y<br />mi hermano serás<i>//</i>"},
+                {"slide": "<h1>cumpleaños<br>feliz</h1>"},
+                {"slide": "<i>//</i>Un año más de<br>la mano del Señor<i>//</i><br><i>//</i>Pasan días, pasan meses,<br>pasan años mas yo iré,<br>de la mano de<br>la mano del Señor.<i>//</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
+{
+            "code": "C033",
+            "name": "cuán bello es él señor (Simple)",
+            "info": "página 65 número 23",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro de adoración</h4><h1>cuán bello<br />es él señor</h1><h3>página <strong>65</strong> número <strong>23</strong></h3>"},
+                {"slide": "Cuán bello es Él Señor,<br />cuán hermoso<br />es Él Señor,<br/>cuán bello es Él Señor,<br />hoy le quiero adorar."},
+                {"slide": "<h4>coro</h4><i>//</i>La belleza de mi Señor<br />nunca se agotará,<br />la hermosura<br />de mi Señor<br />siempre resplandecerá.<i>//</i>"},
+
+                {"slide": "Cuán bello es Él Señor,<br />cuán hermoso<br />es Él Señor,<br/>cuán bello es Él Señor,<br />hoy le quiero adorar."},
+                {"slide": "<h4>coro</h4><i>//</i>La belleza de mi Señor<br />nunca se agotará,<br />la hermosura<br />de mi Señor<br />siempre resplandecerá.<i>//</i>"},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+
+
         {
             "code": "D002",
             "name": "dame más sabiduría",
@@ -1224,7 +1326,7 @@
                 {"slide": "Dame tus pies,<br />yo quiero ir<br />dame tus deseos<br />para sentir<br />dame tu parecer.<br />dame lo que necesito<br />para ser como tu."},
                 {"slide": "<h4>coro</h4>Dame tu voz,<br />dame tu aliento<br />toma mi tiempo<br />es para ti<br />dame el camino<br />que debo seguir,"},
                 {"slide": "<h4>coro</h4>Dame tus sueños,<br />tus anhelos<br />tus pensamientos,<br />tu sentir<br />dame tu vida<br />para vivir."},
-                {"slide": "Déjame ver lo<br />que tu ves<br />dame de tu gracia,<br />tu poder<br />dame tu corazón."},
+                {"slide": "Déjame ver lo<br />que tú ves<br />dame de tu gracia,<br />tu poder<br />dame tu corazón."},
                 {"slide": "Déjame ver<br />en tu interior<br />para ser cambiado<br />por tu amor<br />dame tu corazón.<br />Dame lo que necesito<br />para ser como tu."},
                 {"slide": "<h4>coro</h4>Dame tu voz,<br />dame tu aliento<br />toma mi tiempo<br />es para ti<br />dame el camino<br />que debo seguir,"},
                 {"slide": "<h4>coro</h4>Dame tus sueños,<br />tus anhelos<br />tus pensamientos,<br />tu sentir<br />dame tu vida<br />para vivir."},
@@ -1279,15 +1381,11 @@
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>de tal manera</h1><h3>abel zavala</h3>"},
                 {"slide": "De tal manera me amó<br />que su vida no escatimó<br />hasta el final<br />Él se entregó<br />y a la muerte fue<br />porque me amó."},
+		{"slide": "<h4>coro</h4>Por su amor, yo viviré<br />de su amor yo cantaré<br />con mi Jesús caminaré<br />porque murió por mí."},
+                {"slide": "<h4>coro</h4>Por su amor, yo viviré<br />de su amor yo cantaré<br />con mi Jesús caminaré<br />porque Él me amó a mí,<br>yo viviré."},
                 {"slide": "De tal manera me amó<br />que no hay forma<br />en que poder pagar<br />el precio de su gran amor<br />pero toda mi<br />alma quiero dar."},
-                {"slide": "<h4>coro</h4>Por su amor, yo viviré<br />de su amor yo cantaré<br />con mi Jesús caminaré<br />porque Él me amó a mí."},
-                {"slide": "<h4>coro</h4>Por su amor, yo viviré<br />de su amor yo cantaré<br />con mi Jesús caminaré<br />porque Él murió por mí...<br />le seguiré."},
-                {"slide": "De tal manera me amó<br />que su vida no escatimó<br />hasta el final<br />Él se entregó<br />y a la muerte fue<br />porque me amó."},
-                {"slide": "De tal manera me amó<br />que no hay forma<br />en que poder pagar<br />el precio de su gran amor<br />pero toda mi<br />alma quiero dar."},
-                {"slide": "<h4>coro</h4>Por su amor, yo viviré<br />de su amor yo cantaré<br />con mi Jesús caminaré<br />porque Él me amó a mí."},
-                {"slide": "<h4>coro</h4>Por su amor, yo viviré<br />de su amor yo cantaré<br />con mi Jesús caminaré<br />porque Él murió por mí...<br />¡le seguiré...!"},
-                {"slide": "<h4>coro</h4>Por su amor, yo viviré<br />de su amor yo cantaré<br />con mi Jesús caminaré<br />porque Él me amó a mí."},
-                {"slide": "<h4>coro</h4>Por su amor, yo viviré<br />de su amor yo cantaré<br />con mi Jesús caminaré<br />porque Él me amó a mí...<br />le seguiré... yo te seguiré<br />con mi alma,<br />mente y corazón."},
+               	{"slide": "<h4>coro</h4>Por su amor, yo viviré<br />de su amor yo cantaré<br />con mi Jesús caminaré<br />porque murió por mí."},
+                {"slide": "<h4>coro</h4>Por su amor, yo viviré<br />de su amor yo cantaré<br />con mi Jesús caminaré<br />porque Él me amó a mí,<br>yo viviré."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -1339,11 +1437,11 @@
             "body": [
                 {"slide": "<h4>coro</h4><h1>demos gracias</h1>"},
                 {"slide": "<i>//</i>Demos gracias<br />al Señor<br />demos gracias,<br />demos gracias<br />al Señor.<i>//</i>"},
-                {"slide": "<i>//</i>Por las mañanas<br />las aves cantan<br />las alabanzas a<br />nuestro Salvador.<i>//</i>"},
-                {"slide": "<i>//</i>Y tu mi hermano<br />¿por que no cantas?<br />las alabanzas a<br />nuestro Salvador.<i>//</i>"},
-                {"slide": "<i>//</i>Y por las tardes<br />las flores cantan<br />las alabanzas a<br />nuestro Salvador.<i>//</i>"},
-                {"slide": "<i>//</i>Y por las noches<br />los cielos cantan<br />las alabanzas a<br />nuestro Salvador.<i>//</i>"},
-                {"slide": "<i>//</i>Y a todas horas<br />los hombres cantan<br />las alabanzas a<br />nuestro Salvador.<i>//</i>"},
+                {"slide": "<i>//</i>Por las mañanas<br />las aves cantan<br />las alabanzas a<br />Cristo el Salvador.<i>//</i>"},
+                {"slide": "<i>//</i>Y tu mi hermano<br />¿por qué no cantas?<br />las alabanzas a<br />Cristo el Salvador.<i>//</i>"},
+                {"slide": "<i>//</i>Y por las tardes<br />las flores cantan<br />las alabanzas a<br />Cristo el Salvador.<i>//</i>"},
+                {"slide": "<i>//</i>Y por las noches<br />los cielos cantan<br />las alabanzas a<br />Cristo el Salvador.<i>//</i>"},
+                {"slide": "<i>//</i>Y a todas horas<br />los hombres cantan<br />las alabanzas a<br />Cristo el Salvador.<i>//</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -1471,13 +1569,27 @@
             ]
         },
 
-
-
-
-
-
-
-
+        {
+            "code": "D017",
+            "name": "deja que el espíritu tome todo el control",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>Coro</h4><h1>Deja que<br>el Espíritu<br>tome todo<br>el control</h1>"},
+                {"slide": "Deja que el Espíritu<br>tome todo el control<br>De toda tu vida<br>y toda situación"},
+                {"slide": "Deja que Él fluya<br>En tu mente y corazón<br>Para que tú puedas,<br>puedas descansar."},
+                
+                {"slide": "<i>///</i>Padre<i>///</i>,<br><i>///</i>Cristo<i>///</i>,<br><i>///</i>Espíritu<i>///</i>"},
+                
+                {"slide": "Deja que el Espíritu<br>tome todo el control<br>De toda tu vida<br>y toda situación"},
+                {"slide": "Deja que Él fluya<br>En tu mente y corazón<br>Para que tú puedas,<br>puedas descansar."},
+                
+                {"slide": "<i>///</i>Padre<i>///</i>,<br><i>///</i>Cristo<i>///</i>,<br><i>///</i>Espíritu<i>///</i>"},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        
+        },
 
 
         {
@@ -1488,11 +1600,11 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>himno</h4><h1>el alfarero</h1><h3>hna. irene</h3>"},
-                {"slide": "Un día orando<br />le dije a mi Señor:<br />tu el Alfarero<br />y yo el barro soy."},
+                {"slide": "Un día orando<br />le dije a mi Señor:<br />tú el Alfarero<br />y yo el barro soy."},
                 {"slide": "Modela mi vida,<br />a tu parecer,<br />has como tu quieras,<br />hazme un nuevo ser."},
                 {"slide": "Me dijo: no me gustas,<br />te voy a quebrantar,<br />y en un vaso nuevo<br />te voy a transformar."},
                 {"slide": "Pero en el proceso<br />te voy a hacer llorar,<br />porque por el fuego,<br />te voy a hacer pasar."},
-                {"slide": "Quiero una sonrisam<br />cuando todo va mal.<br />Quiero una alabanza,<br />en lugar de tu quejar."},
+                {"slide": "Quiero una sonrisa<br />cuando todo va mal.<br />Quiero una alabanza,<br />en lugar de tu quejar."},
                 {"slide": "Quiero tu confianza,<br />en la tempestad.<br />Y quiero que aprendas<br />también a perdonar."},
                 {"slide": "<h1>fin</h1>"}
             ]
@@ -1577,9 +1689,9 @@
             "body": [
                 {"slide": "<h4>coro</h4><h1>el cantar<br />de los<br />cantares</h1>"},
                 {"slide": "El cantar de los<br/>cantares de la iglesia,<br/>que Jesucristo su amado<br/>esposo viene por ella,"},
-                {"slide": "<i>//</i>Oh levántate<br/>paloma mía y ven<br/>que el invierno de<br/>largo tiempo<br/>ya termino.<i>//</i>"},
+                {"slide": "<i>//</i>Oh levántate<br/>paloma mía y ven<br/>que el invierno de<br/>largo tiempo<br/>ya terminó.<i>//</i>"},
                 {"slide": "El cantar de los<br/>cantares de la iglesia,<br/>que Jesucristo su amado<br/>esposo viene por ella,"},
-                {"slide": "<i>//</i>Oh levántate<br/>paloma mía y ven<br/>que el invierno de<br/>largo tiempo<br/>ya termino.<i>//</i>"},
+                {"slide": "<i>//</i>Oh levántate<br/>paloma mía y ven<br/>que el invierno de<br/>largo tiempo<br/>ya terminó.<i>//</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -1716,7 +1828,7 @@
                 {"slide": "<h1>fin</h1>"}
             ]
         },
-        {
+		 {
             "code": "E014",
             "name": "el poderoso de israel",
             "info": "página 34 número 123",
@@ -1724,13 +1836,31 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>el poderoso<br />de israel</h1><h3>página <strong>34</strong> número <strong>123</strong></h3>"},
-                {"slide": "<i>//</i>Él es el<br />poderoso de Israel<i>//</i><br />su voz se oirá,<br />nadie lo detendrá,<br />al poderoso de Israel."},
+                {"slide": "<i>//</i>Él es el poderoso de Israel<i>//</i><br />su voz se oirá,<br />nadie lo detendrá,<br />al poderoso de Israel."},
                 {"slide": "Y de noche<br />cantaremos<br />celebrando su poder<br />con alegría<br />de corazón,"},
                 {"slide": "como el que va<br />con la flauta<br />al monte de Jehová,<br />celebraremos<br />su poder."},
-                {"slide": "Él es el<br />poderoso de Israel<br />Él poderoso de Israel<br />su voz se oirá,<br />nadie lo detendrá,<br />al poderoso de Israel."},
+                {"slide": "<i>//</i>Él es el poderoso de Israel<i>//</i><br />su voz se oirá,<br />nadie lo detendrá,<br />al poderoso de Israel."},
                 {"slide": "Y los ojos de los<br />ciegos se abrirán,<br />y ellos verán,<br />los oídos de los<br />sordos oirán,"},
                 {"slide": "El cojo saltará,<br />con el arpa danzará,<br />la lengua de los<br />mudos cantará."},
-                {"slide": "Él es el<br />poderoso de Israel<br />Él poderoso de Israel<br />su voz se oirá,<br />nadie lo detendrá,<br />al poderoso de Israel."},
+                {"slide": "<i>//</i>Él es el poderoso de Israel<i>//</i><br />su voz se oirá,<br />nadie lo detendrá,<br />al poderoso de Israel."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+        {
+            "code": "E014-1",
+            "name": "el poderoso de israel (v2)",
+            "info": "página 34 número 123",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro de alabanza</h4><h1>el poderoso<br />de israel</h1><h3>página <strong>34</strong> número <strong>123</strong></h3>"},
+                {"slide": "<i>//</i>Él poderoso de Israel<i>//</i><br />su voz se oirá,<br />nadie lo detendrá,<br />al poderoso de Israel."},
+                {"slide": "Y de noche<br />cantaremos<br />celebrando su poder<br />con alegría<br />de corazón,"},
+                {"slide": "como el que va<br />con la flauta<br />al monte de Jehová,<br />celebraremos<br />su poder."},
+                {"slide": "<i>//</i>Él poderoso de Israel<i>//</i><br />su voz se oirá,<br />nadie lo detendrá,<br />al poderoso de Israel."},
+                {"slide": "Y los ojos de los<br />ciegos se abrirán,<br />y ellos verán,<br />los oídos de los<br />sordos oirán,"},
+                {"slide": "El cojo saltará,<br />con el arpa danzará,<br />la lengua de los<br />mudos cantará."},
+                {"slide": "<i>//</i>Él poderoso de Israel<i>//</i><br />su voz se oirá,<br />nadie lo detendrá,<br />al poderoso de Israel."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -1950,11 +2080,11 @@
                 {"slide": "En mi corazón<br />hay una canción<br />que demuestra<br />mi pasión"},
                 {"slide": "para mi Rey<br />y mi Señor<br />para aquél<br />que me amo."},
                 {"slide": "Hermoso eres<br />mi Señor<br />hermoso eres<br />amado mío"},
-                {"slide": "tu eres la fuente<br />de mi vida<br />y el anhelo de<br />mi corazón."},
+                {"slide": "tú eres la fuente<br />de mi vida<br />y el anhelo de<br />mi corazón."},
                 {"slide": "En mi corazón<br />hay una canción<br />que demuestra<br />mi pasión"},
                 {"slide": "para mi Rey<br />y mi Señor<br />para aquél<br />que me amo."},
                 {"slide": "Hermoso eres<br />mi Señor<br />hermoso eres<br />amado mío"},
-                {"slide": "tu eres la fuente<br />de mi vida<br />y el anhelo de<br />mi corazón."},
+                {"slide": "tú eres la fuente<br />de mi vida<br />y el anhelo de<br />mi corazón."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -2043,10 +2173,10 @@
                 {"slide": "<h4>himno</h4><h1>eres la<br/>luz de<br/>mis ojos</h1>"},
                 {"slide": "Eres la luz<br/>de mis ojos<br/>que alumbras<br/>mi camino<br/>fortaleza de mi vida<br/>y paz para mi alma."},
                 {"slide": "Eres tú mi gran amigo<br/>que, siempre<br/>estás conmigo<br/>tendiendome tu mano<br/>dispuesto para amar."},
-                {"slide": "<i>//</i>Y si un día<br/>me falta tu amor<br/>no sé que haría<br/>probablemente<br/>me perdería<br/>en este mundo<br/>de maldad.<i>//</i>"},
+                {"slide": "<i>//</i>Y si un día<br/>me falta tu amor<br/>no sé qué haría<br/>probablemente<br/>me perdería<br/>en este mundo<br/>de maldad.<i>//</i>"},
                 {"slide": "Eres tu como el viento<br/>cuando acaricias mi ser<br/>como ríos de agua viva<br/>que calmas tu mi sed."},
                 {"slide": "Eres mi única esperanza<br/>también para este mundo<br/>y yo creo en tus promesas<br/>vida eterna me darás."},
-                {"slide": "<i>//</i>Y si un día<br/>me falta tu amor<br/>no sé que haría<br/>probablemente<br/>me perdería<br/>en este mundo<br/>de maldad.<i>//</i>"},
+                {"slide": "<i>//</i>Y si un día<br/>me falta tu amor<br/>no sé qué haría<br/>probablemente<br/>me perdería<br/>en este mundo<br/>de maldad.<i>//</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -2311,8 +2441,89 @@
             ]
         },
 
+        {
+            "code": "E045",
+            "name": "embajadores que a cristo representan",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>embajadores<br />que a Cristo<br>representan</h1>"},
+                {"slide": "Embajadores que a<br>Cristo representan<br>En este mundo de<br>pecado y de maldad."},
+                {"slide": "Es tú deber<br>trabajar hasta<br>que Él venga<br>Y de sembrar la<br>palabra de verdad."},
+
+                {"slide": "Embajadores que a<br>Cristo representan<br>En este mundo de<br>pecado y de maldad."},
+                {"slide": "Es tú deber<br>trabajar hasta<br>que Él venga<br>Y de sembrar la<br>palabra de verdad."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
 
+	{
+            "code": "E046",
+            "name": "está aquí, su gloria está aquí",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>está aquí<br />su gloria<br>está aquí</h1>"},
+                {"slide": "El Dios que<br>abrió el mar rojo,<br>el Dios que<br>levanto a Lázaro,<br>el Dios que<br>calmó la tempestad,<br>está aquí."},
+                {"slide": "El Dios que<br>sanó a los ciegos,<br>el Dios que<br>levantó a los muertos,<br>el Dios que ha resucitado,<br>está aquí"},
+		{"slide": "Si tan solo tú crees<br>verás el poder de Dios<br>que en esta noche se<br>está moviendo en este lugar."},
+                {"slide": "Esto no es para<br>todos hermanos,<br>esto es para aquellos<br>que creen en Él.<br>Y si en esta noche<br>tú crees veras,<br>el poder de Dios"},
+                {"slide": "Está aquí,<br>su gloria está aquí,<br>sanando tu corazón,<br>sanando tu cuerpo."},
+		{"slide": "Está aquí<br>rescatando y libertando,<br>está aquí<br>restaurando y levantando,<br>hoy abre tu corazón,<br>tu corazón."},
+		{"slide": "Está aquí,<br>su gloria está aquí,<br>sanando tu corazón,<br>sanando tu cuerpo."},
+
+		{"slide": "El Dios que<br>abrió el mar rojo,<br>el Dios que<br>levanto a Lázaro,<br>el Dios que<br>calmó la tempestad,<br>está aquí."},
+                {"slide": "El Dios que<br>sanó a los ciegos,<br>el Dios que<br>levantó a los muertos,<br>el Dios que ha resucitado,<br>está aquí"},
+		{"slide": "Si tan solo tú crees<br>verás el poder de Dios<br>que en esta noche se<br>está moviendo en este lugar."},
+                {"slide": "Esto no es para<br>todos hermanos,<br>esto es para aquellos<br>que creen en Él.<br>Y si en esta noche<br>tú crees veras,<br>el poder de Dios"},
+                {"slide": "Está aquí,<br>su gloria está aquí,<br>sanando tu corazón,<br>sanando tu cuerpo."},
+		{"slide": "Está aquí<br>rescatando y libertando,<br>está aquí<br>restaurando y levantando,<br>hoy abre tu corazón,<br>tu corazón."},
+		{"slide": "Está aquí,<br>su gloria está aquí,<br>sanando tu corazón,<br>sanando tu cuerpo."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+{
+            "code": "E047",
+            "name": "el rapto",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>el rapto</h1>"},
+                {"slide": "Muy en breve,<br>va a salir<br>una noticia<br>Que un pueblo<br>desapareció"},
+                {"slide": "Era un pueblo<br>muy humilde que<br>aquí mucho sufrió<br>Ese pueblo era<br>el pueblo de Dios."},
+                {"slide": "<h4>coro</h4>¿Dónde está ese<br>pueblo bullicioso?<br>¿Dónde está que no<br>se ve a nadie ya?"},
+                {"slide": "<h4>coro</h4>Alguien con voz<br>de lamento les dirá<br>en ese momento<br>¡Aquel pueblo ya se<br>fue con el Señor!"},
+                {"slide": "¿Dónde está el<br>pastor de la iglesia?<br>Y los obreros de<br>aquí, ¿dónde están?"},
+                {"slide": "Los mensajes que<br>anunciaban y la<br>gente no escuchaba<br>Ellos también ya se<br>fueron con el Señor."},
+                {"slide": "<h4>coro</h4>¿Dónde está ese<br>pueblo bullicioso?<br>¿Dónde está que no<br>se ve a nadie ya?"},
+                {"slide": "<h4>coro</h4>Alguien con voz<br>de lamento les dirá<br>en ese momento<br>¡Aquel pueblo ya se<br>fue con el Señor!"},
+                {"slide": "Después de este<br>gran acontecimiento<br>Muchos cristianos<br>desviados volverán"},
+                {"slide": "Buscarán a sus<br>pastores por su<br>reconciliación<br>Por ser tarde ya<br>no los encontrarán."},
+                {"slide": "<h4>coro</h4>¿Dónde está ese<br>pueblo bullicioso?<br>¿Dónde está que no<br>se ve a nadie ya?"},
+                {"slide": "<h4>coro</h4>Alguien con voz<br>de lamento les dirá<br>en ese momento<br>¡Aquel pueblo ya se<br>fue con el Señor!"},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+	{
+            "code": "E048",
+            "name": "el señor es mi pastor",
+            "info": "página 79 número 84",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>el señor</br>es mi pastor</h1>"},
+                {"slide": "El Señor es mi Pastor,<br>nada me faltará.<br>El Señor es mi Pastor,<br>en pastos delicados,<br>Él me hará descansar."},
+                {"slide": "Junto a aguas de<br>reposo me pastoreará,<br>confortará mi alma,<br>me guiará por<br>sendas de justicia<br>por amor<br>de su Nombre."},
+{"slide": "El Señor es mi Pastor,<br>nada me faltará.<br>El Señor es mi Pastor,<br>en pastos delicados,<br>Él me hará descansar."},
+                {"slide": "Junto a aguas de<br>reposo me pastoreará,<br>confortará mi alma,<br>me guiará por<br>sendas de justicia<br>por amor<br>de su Nombre."},
+		{"slide": "<i>//</i>El Señor es mi Pastor,<br>nada me faltará.<i>//</i><br><i>//</i>Nada me faltará.<i>//</i>"},
+		{"slide": "<h1>fin</h1>"}
+            ]
+        },
 
 
         {
@@ -2346,13 +2557,13 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>himno</h4><h1>fuego<br />ha bajado<br />del cielo</h1>"},
-                {"slide": "<i>//</i>Fuego ha<br />bajado del cielo,<br />¿que quieres que haga<br />si está encendido?<i>//</i>"},
+                {"slide": "<i>//</i>Fuego ha<br />bajado del cielo,<br />¿qué quieres que haga<br />si está encendido?<i>//</i>"},
                 {"slide": "<i>///</i>Si está encendido,<br />encendido<i>///</i><br />¿Quién lo apagará?"},
                 {"slide": "<i>///</i>Si está encendido,<br />encendido<i>///</i><br />¿Quién lo apagará?"},
                 {"slide": "<i>//</i>Con ese fuego<br />que quemo a<br />ciento veinte<br />en pentecostés,<br />Dios me hizo pentecostés<br />de la cabeza a los pies<i>//</i>"},
                 {"slide": "<i>///</i>Dios me hizo<br />pentecostés<i>///</i><br />de la cabeza<br />a los pies."},
                 
-                {"slide": "<i>//</i>Fuego ha<br />bajado del cielo,<br />¿que quieres que haga<br />si está encendido?<i>//</i>"},
+                {"slide": "<i>//</i>Fuego ha<br />bajado del cielo,<br />¿qué quieres que haga<br />si está encendido?<i>//</i>"},
                 {"slide": "<i>///</i>Si está encendido,<br />encendido<i>///</i><br />¿Quién lo apagará?"},
                 {"slide": "<i>///</i>Si está encendido,<br />encendido<i>///</i><br />¿Quién lo apagará?"},
                 {"slide": "<i>//</i>Con ese fuego<br />que quemo a<br />ciento veinte<br />en pentecostés,<br />Dios me hizo pentecostés<br />de la cabeza a los pies<i>//</i>"},
@@ -2372,7 +2583,7 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>himno</h4><h1>gloria a ti<br />jesús divino</h1><h3>página <strong>171</strong> número <strong>81</strong></h3>"},
-                {"slide": "¡Gloria a ti Jesús divino!<br />¡Gloria a ti<br />por tus bondades!<br />¡Gloria eterna<br />por tus piedades!<br />querido Salvador."},
+                {"slide": "¡Gloria a ti Jesús divino!<br />¡Gloria a ti<br />por tus bondades!<br />¡Gloria eterna a ti<br />por tus piedades!<br />querido Salvador."},
                 {"slide": "<h4>coro</h4>¡Gloria, Gloria Aleluya!,<br />¡Gloria, Gloria Aleluya!,<br />¡Gloria, Gloria Aleluya!,<br />a nuestro Salvador."},
                 {"slide": "Tú me amaste<br />con ternura,<br />y por mí en la<br />cruz moriste,<br />con ternura me quisiste,<br />querido Salvador."},
                 {"slide": "<h4>coro</h4>¡Gloria, Gloria Aleluya!,<br />¡Gloria, Gloria Aleluya!,<br />¡Gloria, Gloria Aleluya!,<br />a nuestro Salvador."},
@@ -2538,7 +2749,7 @@
                 {"slide": "<h4>himno</h4><h1>grandes y<br />maravillosas<br />son tus obras</h1>"},
                 {"slide": "Grandes y maravillosas<br />son tus obras,<br />Señor, Dios Todopoderoso;<br />justos y verdaderos<br />son tus caminos,<br /><i>///</i>Rey de los santos.<i>///</i>"},
                 {"slide": "Quien no te temerá<br />Oh Señor,<br />ni glorificará tu Nombre;<br />pues sólo tú eres Santo,<br />por lo cual todas<br />las naciones vendrán<br />"},
-                {"slide": "<i>//</i>y te adoraran.<i>//</i><br /><i>//</i>Aleluya, amén,<br />oh Gloria a Dios.<i>//</i>"},
+                {"slide": "<i>//</i>y te adorarán.<i>//</i><br /><i>//</i>Aleluya, amén,<br />oh Gloria a Dios.<i>//</i>"},
                 {"slide": "Temed a Dios<br />y dadle Gloria,<br />porque su<br />juicio a llegado;<br />y adorar a<br />aquel que hizo,"},
                 {"slide": "el cielo y la tierra,<br />el mar y la fuente<br />de las aguas.<br /><i>//</i>Aleluya, amén,<br />oh Gloria a Dios.<i>//</i>"},
                 {"slide": "<h1>fin</h1>"}
@@ -2632,11 +2843,13 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>has ganado<br />la victoria</h1><h3>página <strong>19</strong> número <strong>67</strong></h3>"},
-                {"slide": "Has ganado la victoria,<br />la victoria para mí.<br />Al pecado has vencido,<br />has ganado la batalla<br />tú por mí."},
-                {"slide": "<i>//</i>Porque tú eres mi Dios<br />en los cielos,<br />porque tú eres mi Dios<br />en la tierra.<i>//</i><br />Tú eres mi Dios<br />y te alabaré."},
+                {"slide": "<i>//</i>Has ganado la victoria,<br />la victoria para mí.<br />Al pecado has vencido,<br />has ganado la batalla<br />tú por mí.<i>//</i>"},
+                {"slide": "Porque tú<br />eres mi Dios<br />en los cielos,<br />porque tú<br />eres mi Dios<br />en la tierra."},
+				 {"slide": "Tú eres mi Dios<br />en los cielos,<br />tú eres mi Dios<br />en la tierra.<br />Tú eres mi Dios<br />y te alabaré."},
                 
-                {"slide": "Has ganado la victoria,<br />la victoria para mí.<br />Al pecado has vencido,<br />has ganado la batalla<br />tú por mí."},
-                {"slide": "<i>//</i>Porque tú eres mi Dios<br />en los cielos,<br />porque tú eres mi Dios<br />en la tierra.<i>//</i><br />Tú eres mi Dios<br />y te alabaré."},
+                {"slide": "<i>//</i>Has ganado la victoria,<br />la victoria para mí.<br />Al pecado has vencido,<br />has ganado la batalla<br />tú por mí.<i>//</i>"},
+                {"slide": "Porque tú<br />eres mi Dios<br />en los cielos,<br />porque tú<br />eres mi Dios<br />en la tierra."},
+				 {"slide": "Tú eres mi Dios<br />en los cielos,<br />tú eres mi Dios<br />en la tierra.<br />Tú eres mi Dios<br />y te alabaré."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -2653,7 +2866,7 @@
                 {"slide": "<h4>coro</h4>Oh mi Dios es real,<br />real en mí,<br />me ha lavado<br />con su<br />Sangre carmesí,"},
                 {"slide": "<h4>coro</h4>su dulce amor<br />es para mí,<br />oh mi Dios es real,<br />porque lo siento<br />en mi ser."},
                 
-                {"slide": "Yo no alcanzo<br />a comprender,<br />porqué Él me amo,<br />y me salvó<br />de vergüenzas mil,"},
+                {"slide": "Yo no alcanzo<br />a comprender,<br />porqué Él me amó,<br />y me salvó<br />de vergüenzas mil,"},
                 {"slide": "pero si sé,<br />y es verdad,<br />que mi Dios es real,<br />porque lo siento<br />en mí ser."},
                 {"slide": "<h4>coro</h4>Oh mi Dios es real,<br />real en mí,<br />me ha lavado<br />con su<br />Sangre carmesí,"},
                 {"slide": "<h4>coro</h4>su dulce amor<br />es para mí,<br />oh mi Dios es real,<br />porque lo siento<br />en mi ser."},
@@ -2762,10 +2975,10 @@
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>hay una<br />fuente<br />en mí</h1><h3>página <strong>72</strong> número <strong>53</strong></h3>"},
                 {"slide": "Hay una fuente en mí<br />que está brotando,<br />que está fluyendo<br />dentro de mí."},
-                {"slide": "Es un río de alabanza<br />y de adoración.<br />Dirigido hacia ti<br />Señor Jesús, recíbelo."},
+                {"slide": "Es un río de alabanza<br />y de adoración.<br />Dirigido hacia ti,<br />Señor Jesús, recíbelo."},
                 
                 {"slide": "Hay una fuente en mí<br />que está brotando,<br />que está fluyendo<br />dentro de mí."},
-                {"slide": "Es un río de alabanza<br />y de adoración.<br />Dirigido hacia ti<br />Señor Jesús, recíbelo.<h4>final</h4>Recíbelo."},
+                {"slide": "Es un río de alabanza<br />y de adoración.<br />Dirigido hacia ti,<br />Señor Jesús, recíbelo.<h4>final</h4>Recíbelo."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -2868,7 +3081,7 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>himno</h4><h1>he aquí<br />vengo<br />pronto</h1>"},
-                {"slide": "Yo recuerdo que en un<br />sueño en una montaña<br />yo estaba sentada<br />y atravez del cielo<br />azul oí una voz,"},
+                {"slide": "Yo recuerdo que en un<br />sueño en una montaña<br />yo estaba sentada<br />y a través del cielo<br />azul oí una voz,"},
                 {"slide": "que me llamaba y<br />era la voz de Dios,<br />que me hablaba,<br />ven y ora más,<br />el fin, el fin<br />está cercano."},
                 {"slide": "<h4>coro</h4><i>//</i>He aquí yo<br />vengo pronto,<br />retén lo que tienes<br />para que ninguno<br />robe tu corona.<i>//</i>"},
                 {"slide": "Escribiré tu nombre en<br />el libro Santo de la Vida,<br />y lo confesaré<br />delante de mi Padre<br />y de sus angeles,"},
@@ -2902,17 +3115,17 @@
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>hermoso eres</h1><h3>página <strong>62</strong> número <strong>6</strong></h3>"},
                 {"slide": "En mi corazón<br />hay una canción<br />que demuestra<br />mi pasión"},
-                {"slide": "para mi Rey<br />y mi Señor<br />para aquél<br />que me amo."},
+                {"slide": "para mi Rey<br />y mi Señor<br />para aquél<br />que me amó."},
                 {"slide": "En mi corazón<br />hay una canción<br />que demuestra<br />mi pasión"},
-                {"slide": "para mi Rey<br />y mi Señor<br />para aquél<br />que me amo."},
-                {"slide": "Hermoso eres<br />mi Señor<br />hermoso eres<br />amado mío"},
+                {"slide": "para mi Rey<br />y mi Señor<br />para aquél<br />que me amó."},
+                {"slide": "Hermoso eres<br />mi Señor<br />hermoso eres tú,<br />mi Señor"},
                 {"slide": "tu eres la fuente<br />de mi vida<br />y el anhelo de<br />mi corazón."},
-                {"slide": "Hermoso eres<br />mi Señor<br />hermoso eres<br />amado mío"},
+                {"slide": "Hermoso eres<br />mi Señor<br />hermoso eres tú,<br />mi Señor"},
                 {"slide": "tu eres la fuente<br />de mi vida<br />y el anhelo de<br />mi corazón."},
 
                 {"slide": "En mi corazón<br />hay una canción<br />que demuestra<br />mi pasión"},
-                {"slide": "para mi Rey<br />y mi Señor<br />para aquél<br />que me amo."},
-                {"slide": "Hermoso eres<br />mi Señor<br />hermoso eres<br />amado mío"},
+                {"slide": "para mi Rey<br />y mi Señor<br />para aquél<br />que me amó."},
+                {"slide": "Hermoso eres<br />mi Señor<br />hermoso eres tú,<br />mi Señor"},
                 {"slide": "tu eres la fuente<br />de mi vida<br />y el anhelo de<br />mi corazón."},
                 {"slide": "<h1>fin</h1>"}
             ]
@@ -2930,6 +3143,8 @@
                 
                 {"slide": "<i>//</i>¡Hey!, me siento feliz,<br />si Cristo está en mi,<br />Él me llena de amor.<i>//</i>"},
                 {"slide": "Canto, canto, canto,<br />porque Él llena de amor.<br />Canto, canto, canto,<br />porque Él me<br />llena de amor."},
+		{"slide": "<i>//</i>¡Hey!, me siento feliz,<br />si Cristo está en mi,<br />Él me llena de amor.<i>//</i>"},
+		{"slide": "<i>//</i>Cristo es el camino,<br />la verdad y la vida<i>//</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -3064,21 +3279,67 @@
                 {"slide": "Hubo quien<br />por mis culpas<br />muriera en la cruz<br />aún indigno<br />y vil como soy."},
                 {"slide": "Soy feliz,<br />pues, su Sangre<br />vertió mi Jesús,<br />y con ella<br />mis culpas borró."},
                 {"slide": "<h4>coro</h4>Mis pecados llevó,<br />en la cruz do murió<br />el sublime,<br />el tierno Jesús,"},
-                {"slide": "<h4>coro</h4>los desprecios sufrió<br />y mi alma salvó,<br />el cambió mis<br />tinieblas en luz."},
+                {"slide": "<h4>coro</h4>los desprecios sufrió<br />y mi alma salvó,<br />él cambió mis<br />tinieblas en luz."},
                 {"slide": "El es tierno y amante,<br />cual nadie lo fue<br />pues convierte al<br />infiel corazón;"},
                 {"slide": "y por esa paciencia<br />y ternura yo sé<br />que soy libre de<br />condenación."},
                 {"slide": "<h4>coro</h4>Mis pecados llevó,<br />en la cruz do murió<br />el sublime,<br />el tierno Jesús,"},
-                {"slide": "<h4>coro</h4>los desprecios sufrió<br />y mi alma salvó,<br />el cambió mis<br />tinieblas en luz."},
+                {"slide": "<h4>coro</h4>los desprecios sufrió<br />y mi alma salvó,<br />él cambió mis<br />tinieblas en luz."},
                 {"slide": "Es mi<br />anhelo constante<br />a Cristo seguir;<br />mi camino su<br />ejemplo marcó;"},
                 {"slide": "y por darme la vida<br />Él quiso morir.<br />En su cruz mi<br />pecado clavó."},
                 {"slide": "<h4>coro</h4>Mis pecados llevó,<br />en la cruz do murió<br />el sublime,<br />el tierno Jesús,"},
-                {"slide": "<h4>coro</h4>los desprecios sufrió<br />y mi alma salvó,<br />el cambió mis<br />tinieblas en luz."},
+                {"slide": "<h4>coro</h4>los desprecios sufrió<br />y mi alma salvó,<br />él cambió mis<br />tinieblas en luz."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+
+        {
+            "code": "H028",
+            "name": "hay un gran rio",
+            "info": "página 132 número 68",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>hay un<br />gran río</h1><h3>página <strong>132</strong> número <strong>68</strong></h3>"},
+                {"slide": "Hay un gran río<br>Que viene del Señor<br>Hay una fuente<br>Llena de su amor."},
+                {"slide": "Ven a esas aguas<br>Tu vida cambiará<br>Hay una fuente<br>Que nunca se secará."},
+                {"slide": "Hay un gran río<br>Que viene del Señor<br>Hay una fuente<br>Llena de su amor."},
+                {"slide": "Ven a esas aguas<br>Tu vida cambiará<br>Hay una fuente<br>Que nunca se secará."},
+                {"slide": "Hay un gran río<br>Que viene del Señor<br>Hay una fuente<br>Llena de su amor."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
 
 
+ {
+            "code": "I001",
+            "name": "iglesia pequeña",
+            "info": "",
+            "type": "alabanza",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>alabanza</h4><h1>iglesia pequeña</h1>"},
+                {"slide": "Recuerdo con nostalgia<br>a veces mi corazón llora,<br>ya llegó la noche,<br>no veo la hora de ir<br>a la iglesia a adorar a Dios,"},
+		{"slide": "y cuando llego miro al altar<br>y veo al pastor sentado<br>mirando a la iglesia<br>que está callada<br>veo en sus ojos su<br>mirar sufrido,"},
+		{"slide": "porque recuerdo<br>con nostalgia<br>la primera iglesita,<br>era pequeña y apretadita<br>y apenas había luz,<br>al clarear,"},
+		{"slide": "más cuando el<br>pastor predicaba<br>el cielo se abría<br>y la iglesia oraba<br>y el poder caía<br>y aquella si era<br>iglesia de oración."},
 
+
+
+                {"slide": "<h4>coro</h4>Iglesia pequeña<br>donde Dios hablaba,<br>su poder caía<br>y a su iglesia<br>Jesús visitaba,"},
+                {"slide": "<h4>coro</h4>donde está ahora<br>mi pequeña iglesia<br>la alabanza subía<br>y en el mismo instante<br>su poder caía."},
+
+
+                {"slide": "Y hoy aunque muchos<br>digan el tiempo ha cambiado<br>la gloria y el hombre<br>se han modernizado,<br>su palabra, dice<br>soy el mismo hoy y ayer"},
+                {"slide": "y muchos adorando<br>los templos han<br>hecho creer que<br>esto es una fábula<br>que en Él no hay poder<br> negando su Nombre<br>igual que ayer"},
+{"slide": "y hoy el pastor de la iglesia,<br>vela y ama al redíl<br>al Señor su palabra seguir<br>manteniendo su iglesia<br>firme y fiel"},
+                {"slide": "y toda iglesia<br>en oración prosigue<br>prudente en consagración<br>allá para el frente<br>velando y orando<br>al cielo volarán."},
+
+ {"slide": "<h4>coro</h4>Iglesia pequeña<br>donde Dios hablaba,<br>su poder caía<br>y a su iglesia<br>Jesús visitaba,"},
+                {"slide": "<h4>coro</h4>donde está ahora<br>mi pequeña iglesia<br>la alabanza subía<br>y en el mismo instante<br>su poder caía."},
+
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
         
         {
@@ -3089,13 +3350,13 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>jehová es<br />mi guerrero</h1><h3>página <strong>34</strong> número <strong>122</strong></h3>"},
-                {"slide": "<i>//</i>Jehova es<br />mi guerrero,<br />¡Oh, oh, oh!<i>//</i>"},
+                {"slide": "<i>//</i>Jehová es<br />mi guerrero,<br />¡Oh, oh, oh!<i>//</i>"},
                 {"slide": "Con mi alabanza pelearé,<br />pues no es mi guerra,<br />si no la de Dios.<br />Danza y pandero yo daré,<br />pues no es mi guerra,<br />si no la de Dios"},
-                {"slide": "Cimbalo y<br />trompeta sonaré,<br />pues no es mi guerra,<br />si no la de Dios<br />con fuerte y alta voz<br />yo gritaré."},
+                {"slide": "Címbalo y<br />trompeta sonaré,<br />pues no es mi guerra,<br />si no la de Dios<br />con fuerte y alta voz<br />yo gritaré."},
                 
-                {"slide": "<i>//</i>Jehova es<br />mi guerrero,<br />¡Oh, oh, oh!<i>//</i>"},
+                {"slide": "<i>//</i>Jehová es<br />mi guerrero,<br />¡Oh, oh, oh!<i>//</i>"},
                 {"slide": "Con mi alabanza pelearé,<br />pues no es mi guerra,<br />si no la de Dios.<br />Danza y pandero yo daré,<br />pues no es mi guerra,<br />si no la de Dios"},
-                {"slide": "Cimbalo y<br />trompeta sonaré,<br />pues no es mi guerra,<br />si no la de Dios<br />con fuerte y alta voz<br />yo gritaré."},
+                {"slide": "Címbalo y<br />trompeta sonaré,<br />pues no es mi guerra,<br />si no la de Dios<br />con fuerte y alta voz<br />yo gritaré."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -3192,7 +3453,7 @@
                 {"slide": "<h4>alabanza</h4><h1>jesús y el<br />leproso</h1><h3>roberto orellana</h3>"},
                 {"slide": "Un hombre leproso<br />se acerca a<br />Jesús meditando,<br />y es tanta la<br />pena que lleva<br />por su enfermedad."},
                 {"slide": "He oído que sanas<br />a muchos sin<br />nada cobrarles,<br />he oído que<br />haces el bien<br />donde quiera que vas."},
-                {"slide": "Por eso te ruego<br />que escuches mi<br />humilde plegaria,<br />si quieres, Señor,<br />limpiame..."},
+                {"slide": "Por eso te ruego<br />que escuches mi<br />humilde plegaria,<br />si quieres, Señor,<br />límpiame..."},
                 {"slide": "<h4>coro</h4>Quiero, quiero, quiero<br />curar tus heridas,<br />quiero curar tus heridas,<br />calmar tu dolor."},
                 {"slide": "<h4>coro</h4>Quiero, quiero, quiero<br />que tu tengas vida,<br />quiero curar el pecado<br />de la humanidad."},
                 {"slide": "De pronto un poder<br />muy extraño<br />recorre su cuerpo,<br />no sabe otra<br />cosa que hacer,<br />mas se pone a llorar."},
@@ -3228,11 +3489,11 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>la gran<br />tribulación</h1><h3>stanislao marino</h3>"},
-                {"slide": "Se oye un grito,<br />un lamento, Un solloso,<br />mucha gente está alarmada,<br />¿qué ha pasado?,<br />se preguntan,<br />¿qué ha pasado,<br />en el mundo? Mmmm..."},
+                {"slide": "Se oye un grito,<br />un lamento, Un sollozo,<br />mucha gente está alarmada,<br />¿qué ha pasado?,<br />se preguntan,<br />¿qué ha pasado,<br />en el mundo? Mmmm..."},
                 {"slide": "Una joven, va<br />gritando: mamá...<br />Un esposo va<br />buscando, su familia...<br />mmmm..."},
                 {"slide": "<h4>coro</h4>Unos dicen, que una nave,<br />mucha gente... se llevó,<br />pero escuchen, a lo lejos,<br />alguien grita, alguien grita:<br />"},
                 {"slide": "<h4>coro</h4><i>//</i>Cristo vino, Cristo vino<br />y su pueblo se llevo.<br />no hay remedio,<br />no hay salida,<br />es la gran tribulación.<i>//</i><br />mmmm..."},
-                {"slide": "Se oye un grito,<br />un lamento, Un solloso,<br />mucha gente está alarmada,<br />¿qué ha pasado?,<br />se preguntan,<br />¿qué ha pasado,<br />en el mundo? Mmmm..."},
+                {"slide": "Se oye un grito,<br />un lamento, Un sollozo,<br />mucha gente está alarmada,<br />¿qué ha pasado?,<br />se preguntan,<br />¿qué ha pasado,<br />en el mundo? Mmmm..."},
                 {"slide": "Una joven, va<br />gritando: mamá...<br />Un esposo va<br />buscando, su familia...<br />mmmm..."},
                 {"slide": "<h4>coro</h4>Unos dicen, que una nave,<br />mucha gente... se llevó,<br />pero escuchen, a lo lejos,<br />alguien grita, alguien grita:"},
                 {"slide": "<h4>coro</h4><i>//</i>Cristo vino, Cristo vino<br />y su pueblo se llevo.<br />no hay remedio,<br />no hay salida,<br />es la gran tribulación.<i>//</i><br />mmmm..."},
@@ -3247,18 +3508,18 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>himno</h4><h1>la iglesia<br />primera</h1>"},
-                {"slide": "¿Como poder volver<br />al tiempo ya olvidado?<br />¿como poder hacer<br />presente lo pasado?"},
+                {"slide": "¿Como poder volver<br />al tiempo ya olvidado?<br />¿cómo poder hacer<br />presente lo pasado?"},
                 {"slide": "¿Como decir a Dios<br />y Él nos respondiera?<br />volver al tiempo aquel,<br />volver al tiempo aquel,<br />de la iglesia primera."},
                 {"slide": "<h4>coro</h4>Todo era amor,<br />felicidad.<br />No había envidia<br />ni rencor en<br />la hermandad."},
-                {"slide": "<h4>coro</h4>Caía yo, me alzabas tu.<br />Tu honra era mi honra<br />y mi derrota tu dolor."},
+                {"slide": "<h4>coro</h4>Caía yo, me alzabas tú.<br />Tu honra era mi honra<br />y mi derrota tu dolor."},
                 {"slide": "Que hermoso era estar<br />toda la noche en vela,<br />alabando al Señor<br />como si Él volviera,"},
                 {"slide": "sin mirar el reloj<br />delante de quien fuera,<br />volver al tiempo aquel,<br />volver al tiempo aquel,<br />de la iglesia primera."},
                 {"slide": "<h4>coro</h4>Todo era amor,<br />felicidad.<br />No había envidia<br />ni rencor en<br />la hermandad."},
-                {"slide": "<h4>coro</h4>Caía yo, me alzabas tu.<br />Tu honra era mi honra<br />y mi derrota tu dolor."},
+                {"slide": "<h4>coro</h4>Caía yo, me alzabas tú.<br />Tu honra era mi honra<br />y mi derrota tu dolor."},
                 {"slide": "Esa iglesia pasó,<br />sólo queda el recuerdo,<br />que no se olvidará<br />por más que pase<br />el tiempo."},
                 {"slide": "Los hombres cambiarán,<br />lo ha sido así<br />por siempre,<br /><i>//</i>más este Dios jamás,<i>//</i><br />¡No es un Dios<br />que miente!"},
                 {"slide": "<h4>coro</h4>Todo era amor,<br />felicidad.<br />No había envidia<br />ni rencor en<br />la hermandad."},
-                {"slide": "<h4>coro</h4>Caía yo, me alzabas tu.<br />Tu honra era mi honra<br />y mi derrota tu dolor."},
+                {"slide": "<h4>coro</h4>Caía yo, me alzabas tú.<br />Tu honra era mi honra<br />y mi derrota tu dolor."},
                 {"slide": "Pidamos al Señor<br />con fe todos unidos,<br />que nos envíe otra vez<br />el don que<br />hemos perdido,"},
                 {"slide": "Él no se negará,<br />no nos pondrá<br />en espera,<br />si pedimos volver,<br />si pedimos volver,<br />a la iglesia primera."},
                 {"slide": "<h4>coro</h4>Todo era amor,<br />felicidad.<br />No había envidia<br />ni rencor en<br />la hermandad."},
@@ -3314,11 +3575,11 @@
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>la niña de<br />tus ojos</h1><h3>daniel calveti</h3>"},
                 {"slide": "<i>//</i>Me viste a mi,<br />cuando nadie me vio.<br />Me amaste a mi,<br />cuando nadie me amo.<i>//</i>"},
-                {"slide": "<i>//</i>Y me diste nombre,<br />yo soy tu niña.<br />La niña de tus ojos,<br />por que me<br />amaste a mi.<i>//</i>"},
+                {"slide": "<i>//</i>Y me diste nombre,<br />yo soy tu niña.<br />La niña de tus ojos,<br />porque me<br />amaste a mí.<i>//</i>"},
                 {"slide": "<i>////</i>Me amaste a mi...<i>////</i><br /><i>////</i>Me amaste a mi...<i>////</i>"},
                 {"slide": "<i>///</i>Te amo más que<br />a mi vida.<i>///</i> más...<br /><i>///</i>Te amo más que<br />a mi vida.<i>///</i> más..."},
                 {"slide": "<i>///</i>Te amo más que<br />a mi vida.<i>///</i> más...<br /><i>///</i>Te amo más que<br />a mi vida.<i>///</i> más..."},
-                {"slide": "<i>//</i>Y me diste nombre,<br />yo soy tu niña.<br />La niña de tus ojos,<br />por que me amaste a mi.<i>//</i><br />Me amaste a mi..."},
+                {"slide": "<i>//</i>Y me diste nombre,<br />yo soy tu niña.<br />La niña de tus ojos,<br />porque me amaste a mí.<i>//</i><br />Me amaste a mi..."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -3357,12 +3618,12 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>las bodas<br />del cordero</h1><h3>página <strong>7</strong> número <strong>10</strong></h3>"},
-                {"slide": "<i>//</i>Me gozaré, me alegaré,<br />y cantaré al Señor,<br />porque han<br />llegado las bodas<br />del Cordero de Dios.<i>//</i>"},
+                {"slide": "Me gozaré, me alegraré,<br />y cantaré al Señor,<br />porque han<br />llegado las bodas<br />del Cordero de Dios."},
                 {"slide": "<i>//</i>Y a su esposa<br />se le ha concedido<br />que se vista de lino fino.<br />Lino limpio y<br />resplandeciente<br />para recibir al Rey.<i>//</i>"},
                 {"slide": "<h4>coro</h4>Me gozaré ¡hey!<br />me alegraré ¡hey!<br />y cantaré al Señor."},
                 {"slide": "<h4>coro</h4>Porque han<br />llegado las bodas<br />del Cordero de Dios.<br />Me gozaré."},
                 
-                {"slide": "<i>//</i>Me gozaré, me alegaré,<br />y cantaré al Señor,<br />porque han<br />llegado las bodas<br />del Cordero de Dios.<i>//</i>"},
+                {"slide": "Me gozaré, me alegraré,<br />y cantaré al Señor,<br />porque han<br />llegado las bodas<br />del Cordero de Dios."},
                 {"slide": "<i>//</i>Y a su esposa<br />se le ha concedido<br />que se vista de lino fino.<br />Lino limpio y<br />resplandeciente<br />para recibir al Rey.<i>//</i>"},
                 {"slide": "<h4>coro</h4>Me gozaré ¡hey!<br />me alegraré ¡hey!<br />y cantaré al Señor."},
                 {"slide": "<h4>coro</h4>Porque han<br />llegado las bodas<br />del Cordero de Dios.<br />Me gozaré."},
@@ -3420,15 +3681,14 @@
                 {"slide": "día y noche yo<br />tengo sed de ti,<br />y sólo a ti buscaré."},
                 {"slide": "Lléname,<br />lléname Señor,<br />dame más,<br />más de tu amor,"},
                 {"slide": "yo tengo sed,<br />sólo de ti,<br />lléname Señor"},
-                {"slide": "Lléname,<br />lléname Señor,<br />dame más,<br />más de tu amor,"},
-                {"slide": "yo tengo sed,<br />sólo de ti,<br />lléname Señor"},
-                
-                {"slide": "Como el siervo,<br />busca por las aguas,<br />así clama mi alma<br />por ti Señor,"},
+
+				 {"slide": "Como el siervo,<br />busca por las aguas,<br />así clama mi alma<br />por ti Señor,"},
                 {"slide": "día y noche yo<br />tengo sed de ti,<br />y sólo a ti buscaré."},
                 {"slide": "Lléname,<br />lléname Señor,<br />dame más,<br />más de tu amor,"},
                 {"slide": "yo tengo sed,<br />sólo de ti,<br />lléname Señor"},
-                {"slide": "Lléname,<br />lléname Señor,<br />dame más,<br />más de tu amor,"},
-                {"slide": "yo tengo sed,<br />sólo de ti,<br />lléname Señor"},
+                
+                {"slide": "<i>//</i>Lléname,<br />lléname Señor...<i>//</i><br />yo tengo sed,<br />sólo de ti,<br />lléname Señor"},
+                
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -3553,7 +3813,75 @@
             ]
         },
 
+        {
+            "code": "L018",
+            "name": "la zarza",
+            "info": "",
+            "type": "himno",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>himno</h4><h1>la zarza</h1>"},
+                {"slide": "No alcanzo<br>a comprender<br>Porqué Dios me eligió<br>Para hablar a Moisés."},
+                {"slide": "Aquella humilde zarza<br>En medio del desierto<br>Habiendo tanta flor."},
+                {"slide": "La voz de su presencia<br>La llama de su gloria<br>Entre sus hojas ardió,"},
+                {"slide": "<i>//</i>Y parado<br>en esa zarza<i>//</i><br>Al mundo<br>se mostró."},
 
+                {"slide": "<h4>Coro:</h4>Quémame, quémame<br>quémame tan<br>solo una vez<br>Visítame, visítame<br>Visítame tan<br>solo una vez."},
+                
+                {"slide": "No puedo explicar<br>Porque Dios me eligió<br>Si no soy el mejor<br>Delante de sus ojos<br>Tanto nos parecemos"},
+                {"slide": "Aquella zarza y yo<br><i>//</i>No lo hubiera creído<i>//</i><br>Que Dios me quisiera más<br><i>//</i>Si una zarza pudo arder<i>//</i>,<br>Arder quiero yo también."},
+                
+                {"slide": "<h4>Coro:</h4>Quémame, quémame<br>quémame tan<br>solo una vez<br>Visítame, visítame<br>Visítame tan<br>solo una vez."},
+
+                {"slide": "Hay tanta zarza triste<br>Tirada en el camino<br>Que nadie mira ya"},
+                {"slide": "Los vientos<br>del desierto<br>La golpearon,<br>la quebraron<br>Y casi muerta está."},
+                {"slide": "Pero si vale poco<br>o si no vale nada<br>El cielo no la olvidó<br><i>//</i>Y aunque sea una zarza<i>//</i><br>La sigue mirando Dios."},
+                
+                {"slide": "<h4>Coro:</h4>Quémame, quémame<br>quémame tan<br>solo una vez<br>Visítame, visítame<br>Visítame tan<br>solo una vez."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+
+        {
+            "code": "L019",
+            "name": "lugar para cristo",
+            "info": "himnario antiguo",
+            "type": "himno",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>himno</h4><h1>lugar<br>para<br>cristo</h1>"},
+                {"slide": "Tú dejaste tu trono<br>y corona por mí<br>Al venir a<br>Belén a nacer;"},
+                {"slide": "Mas a ti no fue dado<br>el entrar al mesón,<br>Y en pesebre te<br>hicieron nacer."},
+
+                {"slide": "Ven a mí corazón,<br>¡oh, Cristo!<br>Pues en él<br>hay lugar para ti;"},
+                {"slide": "Ven a mí corazón,<br>¡oh, Cristo!, ven<br>Pues en él<br>hay lugar para ti."},
+
+                {"slide": "Alabanzas celestes,<br>los ángeles dan<br>En que rinden al<br>verbo loor"},
+                {"slide": "Mas humilde viniste<br>a la tierra. Señor<br>A dar vida al<br>más vil pecador."},
+
+                {"slide": "Ven a mí corazón,<br>¡oh, Cristo!<br>Pues en él<br>hay lugar para ti;"},
+                {"slide": "Ven a mí corazón,<br>¡oh, Cristo!, ven<br>Pues en él<br>hay lugar para ti."},
+
+                {"slide": "Siempre pueden<br>las zorras sus<br>cuevas tener,<br>y las aves sus<br>nidos también;"},
+                {"slide": "Mas el<br>Hijo del hombre<br>no tuvo un lugar,<br>en el cual<br>reclinara su sien."},
+
+                {"slide": "Ven a mí corazón,<br>¡oh, Cristo!<br>Pues en él<br>hay lugar para ti;"},
+                {"slide": "Ven a mí corazón,<br>¡oh, Cristo!, ven<br>Pues en él<br>hay lugar para ti."},
+
+                {"slide": "Tú viniste, Señor,<br>con tu gran<br>bendición,<br>para dar<br>libertad y salud;"},
+                {"slide": "Mas con odio<br>y desprecio<br>te hicieron morir,<br>aunque vieron<br>tu amor y virtud."},
+
+                {"slide": "Ven a mí corazón,<br>¡oh, Cristo!<br>Pues en él<br>hay lugar para ti;"},
+                {"slide": "Ven a mí corazón,<br>¡oh, Cristo!, ven<br>Pues en él<br>hay lugar para ti."},
+
+                {"slide": "Alabanzas sublimes<br>los cielos darán<br>Cuando vengas<br>glorioso de allí;"},
+                {"slide": "Y tu voz entre<br>nubes dirá:<br>“Ven a mí que<br>a mi lado<br>hay lugar para ti.”"},
+
+                {"slide": "Ven a mí corazón,<br>¡oh, Cristo!<br>Pues en él<br>hay lugar para ti;"},
+                {"slide": "Ven a mí corazón,<br>¡oh, Cristo!, ven<br>Pues en él<br>hay lugar para ti."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
 
 
@@ -3565,7 +3893,7 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>himno</h4><h1>maravilloso<br/>evento</h1>"},
-                {"slide": "Maravilloso evento,<br/>será aquel día<br/>cuando Cristo venga<br/>se abriran los cielos<br/>y el Hijo del<br/>Hombre aparecerá."},
+                {"slide": "Maravilloso evento,<br/>será aquel día<br/>cuando Cristo venga<br/>se abrirán los cielos<br/>y el Hijo del<br/>Hombre aparecerá."},
                 {"slide": "Ese rostro bendito<br/>que ha sido oculto<br/>al mundo entero<br/>ese día glorioso,<br/>yo lo veré,<br/>tú le veras."},
 
                 {"slide": "<h4>coro</h4>Hoy le veo venir<br/>con millares de ángeles<br/>oh que hermoso suena<br/>esa bella trompeta<br/>que brilla allí."},
@@ -3581,21 +3909,21 @@
         },
         {
             "code": "M002",
-            "name": "mas allá del sol",
+            "name": "más allá del sol",
             "info": "página 185 número 114",
             "type": "himno",
             "desc": "",
             "body": [
-                {"slide": "<h4>himno</h4><h1>mas allá<br />del sol</h1><h3>página <strong>185</strong> número <strong>114</strong></h3>"},
+                {"slide": "<h4>himno</h4><h1>más allá<br />del sol</h1><h3>página <strong>185</strong> número <strong>114</strong></h3>"},
                 {"slide": "Aunque en esta vida,<br />no tengo riquezas,<br />sé que allá en la Gloria,<br />tengo una mansión;"},
                 {"slide": "cual alma perdida<br />entre las pobrezas,<br />de mí, Jesucristo,<br />tuvo compasión."},
-                {"slide": "<h4>coro</h4><i>//</i>Mas allá del sol,<br />mas allá del sol,<br />yo tengo un hogar,<br />hogar, bello hogar,<br />mas allá del sol.<i>//</i>"},
+                {"slide": "<h4>coro</h4><i>//</i>Más allá del sol,<br />más allá del sol,<br />yo tengo un hogar,<br />hogar, bello hogar,<br />más allá del sol.<i>//</i>"},
                 {"slide": "Así por el mundo,<br />yo voy caminando,<br />de pruebas rodeado<br />y de tentación;"},
                 {"slide": "pero a mi lado<br />viene, consolando,<br />mi bendito Cristo<br />en la turbación."},
-                {"slide": "<h4>coro</h4><i>//</i>Mas allá del sol,<br />mas allá del sol,<br />yo tengo un hogar,<br />hogar, bello hogar,<br />mas allá del sol.<i>//</i>"},
+                {"slide": "<h4>coro</h4><i>//</i>Más allá del sol,<br />más allá del sol,<br />yo tengo un hogar,<br />hogar, bello hogar,<br />más allá del sol.<i>//</i>"},
                 {"slide": "A los pueblos todos<br />del linaje humano<br />Cristo quiere darles<br />plena salvación;"},
-                {"slide": "también una casa<br />para cada hermano<br />fue a prepararles<br />a la Santa Sion."},
-                {"slide": "<h4>coro</h4><i>//</i>Mas allá del sol,<br />mas allá del sol,<br />yo tengo un hogar,<br />hogar, bello hogar,<br />mas allá del sol.<i>//</i>"},
+                {"slide": "también una casa<br />para cada hermano<br />fue a prepararles<br />a la Santa Sión."},
+                {"slide": "<h4>coro</h4><i>//</i>Más allá del sol,<br />más allá del sol,<br />yo tengo un hogar,<br />hogar, bello hogar,<br />más allá del sol.<i>//</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -3696,10 +4024,10 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>mi pensamiento<br />eres tú, señor</h1><h3>página <strong>124</strong> número <strong>21</strong></h3>"},
-                {"slide": "<i>///</i>Mi pensamiento<br />eres tu Señor,<i>///</i><br />mi pensamiento<br />eres tú."},
+                {"slide": "<i>///</i>Mi pensamiento<br />eres tú Señor,<i>///</i><br />mi pensamiento<br />eres tú."},
                 {"slide": "<i>//</i>Porque tú me<br />has dado la vida,<br />porque tú me<br />has dado salud,<br />porque tú me<br />has dado victoria,<br />me has dado amor.<i>//</i>"},
                 
-                {"slide": "<i>///</i>Mi pensamiento<br />eres tu Señor,<i>///</i><br />mi pensamiento<br />eres tú."},
+                {"slide": "<i>///</i>Mi pensamiento<br />eres tú Señor,<i>///</i><br />mi pensamiento<br />eres tú."},
                 {"slide": "<i>//</i>Porque tú me<br />has dado la vida,<br />porque tú me<br />has dado salud,<br />porque tú me<br />has dado victoria,<br />me has dado amor.<i>//</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
@@ -3809,7 +4137,7 @@
                 {"slide": "<h4>coro</h4>Grande precio pagaste<br />en esa cruz por mi un día.<br />Con tu Sangre lavaste<br />con tus llagas curaste<br />mis heridas."},
                 {"slide": "<h4>coro</h4>Como he de pensar...<br />En quererte soltar<br />si tu me guías."},
                 {"slide": "<h4>coro</h4>Porque eres mi<br />razón de vivir<br />y es por eso que<br />te quiero decir:<br />mora en mi vida."},
-                {"slide": "Reconosco Señor<br />que tu amor garantiza<br />paz y seguridad,<br />que no podia hallar<br />pues no te conocía."},
+                {"slide": "Reconozco Señor<br />que tu amor garantiza<br />paz y seguridad,<br />que no podia hallar<br />pues no te conocía."},
                 {"slide": "Y a mi llegaste Tú<br />me cubriste en tu<br />manto de amor,<br />me compraste Señor<br />con la Sangre que hoy<br />lavas mi corazón."},
                 {"slide": "<h4>coro</h4>Grande precio pagaste<br />en esa cruz por mi un día.<br />Con tu Sangre lavaste<br />con tus llagas curaste<br />mis heridas."},
                 {"slide": "<h4>coro</h4>Como he de pensar...<br />En quererte soltar<br />si tu me guías."},
@@ -3818,9 +4146,75 @@
             ]
         },
 
+        {
+            "code": "M015",
+            "name": "mira lo que hizo mi jesús",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>mira lo<br />que hizo<br />mi jesús</h1>"},
+                {"slide": "<i>//</i>Mira lo que<br />hizo mi Jesús<i>//</i>"},
+                {"slide": "Me levantó<br />y me liberó<br>Mira lo que<br />hizo mi Jesús."},
+                
+                {"slide": "Mira lo que<br />hizo mi Jesús"},
+                {"slide": "Me levantó<br />y me liberó<br>Mira lo que<br />hizo mi Jesús."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
-
-
+        {
+            "code": "M016",
+            "name": "mi camino lo alumbra jesús",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>mi camino lo<br />alumbra Jesús</h1>"},
+                {"slide": "<h4>coro</h4><i>//</i>Mi camino lo<br>alumbra Jesús<i>//</i><br>En el día de<br>tinieblas me da luz<br>Mi camino lo<br>alumbra Jesús."},
+                {"slide": "Cuando vamos felices a orar<br>A la casa de nuestro Señor<br>No tememos a la oscuridad<br>Mi camino lo alumbra Jesús."},
+                {"slide": "<h4>coro</h4><i>//</i>Mi camino lo<br>alumbra Jesús<i>//</i><br>En el día de<br>tinieblas me da luz<br>Mi camino lo<br>alumbra Jesús."},
+                {"slide": "Al regreso podemos cantar<br>Embargados de felicidad<br>El mensaje llegó al corazón<br>Mi camino lo alumbra Jesús."},
+                {"slide": "<h4>coro</h4><i>//</i>Mi camino lo<br>alumbra Jesús<i>//</i><br>En el día de<br>tinieblas me da luz<br>Mi camino lo<br>alumbra Jesús."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+{
+            "code": "M017",
+            "name": "más allá del horizonte",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>más allá del<br />horizonte</h1>"},
+                {"slide": "Más allá del horizonte<br />Y de las nubes<br />habita un rey.<br />Más allá de las esferas<br />La luna y las estrellas"},
+                {"slide": "Vive Jehová.<br />Sobre su<br />trono sublime<br />Los Serafínes<br />Alabando están"},
+                {"slide": "Y los veinticuatro<br />ancianos<br />Dicen santo,<br />santo, santo<br />A su majestad. "},
+                {"slide": "<h4>coro</h4><i>//</i>Y su gloria está aquí<br />Y su gloria está sobre mi<br />Y me llena con su poder<br />Solo quiero adorarle a Él<i>//</i>"},
+                {"slide": "Más allá del horizonte<br />Y de las nubes<br />habita un rey.<br />Más allá de las esferas<br />La luna y las estrellas"},
+                {"slide": "Vive Jehová.<br />Sobre su<br />trono sublime<br />Los Serafínes<br />Alabando están"},
+                {"slide": "Y los veinticuatro<br />ancianos<br />Dicen santo,<br />santo, santo<br />A su majestad. "},
+                {"slide": "<h4>coro</h4><i>///</i>Y su gloria está aquí<br />Y su gloria está sobre mi<br />Y me llena con su poder<br />Solo quiero adorarle a Él<i>///</i>"},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+{
+            "code": "M018",
+            "name": "maravilloso es",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>maravilloso es</h1>"},
+                {"slide": "Que grandiosa es<br />la puesta del sol<br />Admirable cuál amanecer<br />Pero más grandioso<br />y conmovedor <br />El amor que me<br />tiene el Señor."},
+                {"slide": "<i>//</i>Maravilloso es,<br />Maravilloso es<br />Cuando pienso que<br />Dios me ama a mi<i>//</i>"},
+                {"slide": "Maravilla de un<br />sol que se oculta<br />Maravilla la aurora que vi<br />Maravilla que en mi<br />alma Resulta hoy cuando<br />pienso que Dios<br />me ama a mi"},
+		{"slide": "<i>//</i>Maravilloso es,<br />Maravilloso es<br />Cuando pienso que<br />Dios me ama a mi<i>//</i>"},
+                {"slide": "Que grandioso<br />el verano opioso<br />El cielo la luna y el sol<br />Pero más grandioso<br/>y conmovedor<br />El amor que me<br />tiene el Señor."},
+                {"slide": "<i>//</i>Maravilloso es,<br />Maravilloso es<br />Cuando pienso que<br />Dios me ama a mi<i>//</i>"},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
         {
             "code": "N001",
             "name": "nadie pudo amarme como cristo",
@@ -3838,10 +4232,10 @@
         },
         {
             "code": "N002",
-            "name": "no hay dios tan grande como tu",
+            "name": "no hay dios tan grande como tú",
             "info": "popurrí",
             "type": "mix",
-            "desc": "no hay dios tan grande como tu<br/>señor te alabo<br/>esta alegría que yo siento en mi ser<br/>está alegría no va a salir<br/>viva la fe, viva la esperanza, viva el amor",
+            "desc": "no hay dios tan grande como tú<br/>señor te alabo<br/>esta alegría que yo siento en mi ser<br/>está alegría no va a salir<br/>viva la fe, viva la esperanza, viva el amor",
             "body": [
                 {"slide": "<h4>mix</h4><h1>no hay dios<br />tan grande<br />como tu</h1><h3>popurrí</h3>"},
                 {"slide": "<i>//</i>No hay Dios,<br />tan grande<br />como Tú,<br />no lo hay,<br />no lo hay.<i>//</i>"},
@@ -3908,19 +4302,18 @@
             "body": [
                 {"slide": "<h4>coro</h4><h1>no me importa<br />la iglesia<br />que vayas</h1>"},
 
-                {"slide": "No me importa la<br />Iglesia que vayas,<br />si destrás del<br />calvario tú estás."},
+                {"slide": "No me importa la<br />Iglesia que vayas,<br />si detrás del<br />calvario tú estás."},
                 {"slide": "Si tú corazón<br />es como el mío,<br />dame la mano y<br />mi hermano serás."},
                 {"slide": "<h4>coro</h4><i>//</i>Dame la mano<br />querido hermano,<br />dame la mano y mi<br />hermano serás.<i>//</i>"},
                 {"slide": "En la Biblia hay<br />un texto que dice,<br />y se encuentra en<br />Primera de Juan:"},
                 {"slide": "El que no ama<br />a su hermano en<br />la Tierra, mentiroso<br />le han de llamar."},
-                {"slide": "Si tú corazón<br />es como el mío,<br />dame la mano y<br />mi hermano serás."},
-
-                {"slide": "No me importa la<br />Iglesia que vayas,<br />si destrás del<br />calvario tú estás."},
+		{"slide": "<h4>coro</h4><i>//</i>Dame la mano<br />querido hermano,<br />dame la mano y mi<br />hermano serás.<i>//</i>"},
+		{"slide": "No me importa la<br />Iglesia que vayas,<br />si detrás del<br />calvario tú estás."},
                 {"slide": "Si tú corazón<br />es como el mío,<br />dame la mano y<br />mi hermano serás."},
                 {"slide": "<h4>coro</h4><i>//</i>Dame la mano<br />querido hermano,<br />dame la mano y mi<br />hermano serás.<i>//</i>"},
                 {"slide": "En la Biblia hay<br />un texto que dice,<br />y se encuentra en<br />Primera de Juan:"},
                 {"slide": "El que no ama<br />a su hermano en<br />la Tierra, mentiroso<br />le han de llamar."},
-                {"slide": "Si tú corazón<br />es como el mío,<br />dame la mano y<br />mi hermano serás."},
+		{"slide": "<h4>coro</h4><i>//</i>Dame la mano<br />querido hermano,<br />dame la mano y mi<br />hermano serás.<i>//</i>"},
 
                 {"slide": "<h1>fin</h1>"}
             ]
@@ -3949,7 +4342,7 @@
             "desc": "no sé por qué<br/>me has librado de la muerte",
             "body": [
                 {"slide": "<h4>mix</h4><h1>no sé por qué</h1><h3>popurrí</h3>"},
-                {"slide": "No sé por qué,<br/>Señor, tu me tocaste.<br/>No sé por qué<br/>en mí tú te fijaste,<br/>pero sí sé que grande<br/>es tu amor por mí."},
+                {"slide": "No sé por qué,<br/>Señor, tú me tocaste.<br/>No sé por qué<br/>en mí tú te fijaste,<br/>pero sí sé que grande<br/>es tu amor por mí."},
                 {"slide": "Mi corazón<br/>está agradecido,<br/>mi corazón<br/>está a ti rendido,<br/>contigo siempre<br/>quiero, Señor, estar."},
                 {"slide": "<h4>coro</h4><i>//</i>Porque fuera de ti<br/>nada deseo en la Tierra,<br/>tu Presencia<br/>es más hermosa<br/>que cualquier cosa.<i>//</i>"},
                 {"slide": "Eres Señor,<br/>mi gozo y mi alegría.<br/>Tú estás, Señor,<br/>conmigo todo el día<br/>y en ti,<br/>yo siempre quiero,<br/>Señor, estar."},
@@ -3970,7 +4363,7 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>no sé por qué</h1><h3>página <strong>114</strong> número <strong></strong>244</h3>"},
-                {"slide": "No sé por qué,<br/>Señor, tu me tocaste.<br/>No sé por qué<br/>en mí tú te fijaste,<br/>pero sí sé que grande<br/>es tu amor por mí."},
+                {"slide": "No sé por qué,<br/>Señor, tú me tocaste.<br/>No sé por qué<br/>en mí tú te fijaste,<br/>pero sí sé que grande<br/>es tu amor por mí."},
                 {"slide": "Mi corazón<br/>está agradecido,<br/>mi corazón<br/>está a ti rendido,<br/>contigo siempre<br/>quiero, Señor, estar."},
                 {"slide": "<h4>coro</h4><i>//</i>Porque fuera de ti<br/>nada deseo en la Tierra,<br/>tu Presencia<br/>es más hermosa<br/>que cualquier cosa.<i>//</i>"},
                 {"slide": "Eres Señor,<br/>mi gozo y mi alegría.<br/>Tú estás, Señor,<br/>conmigo todo el día<br/>y en ti,<br/>yo siempre quiero,<br/>Señor, estar."},
@@ -3980,6 +4373,18 @@
         },
         {
             "code": "N009",
+            "name": "no te averguenzes y alaba a tu señor",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro de adoración</h4><h1>No te averguenzes<br/>y alaba a tu Señor</h1><h3>página <strong>114</strong> número <strong></strong>244</h3>"},
+                {"slide": "No te avergüences y<br />alaba a tu Señor.<br /><i>//</i>La Gloria a Él,<i>//</i><br />no te avergüences y<br />alaba a tu Señor."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+        {
+            "code": "N010",
             "name": "¡noche de paz, noche de amor!",
             "info": "página 164 número 63",
             "type": "himno",
@@ -3992,6 +4397,24 @@
                 {"slide": "gracias y glorias<br />en gran plenitud.<br /><i>//</i>Por nuestro<br />buen Redentor.<i>//</i>"},
                 {"slide": "¡Noche de paz,<br />noche de amor!<br />ved que bello<br />resplandor<br />luce el rostro<br />del niño Jesús;"},
                 {"slide": "en el pesebre,<br />del mundo la luz;<br /><i>//</i>astro de<br />eterno fulgor.<i>//</i>"},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+{
+            "code": "N011",
+            "name": "no sabéis que somos templo",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>no sabéis<br />que somos<br/>pueblo</h1>"},
+                {"slide": "<i>///</i>No sabéis,<br />no sabéis<br>que somos<br />templo<i>///</i>"},
+                {"slide": "que somos<br />templo<br />del Espíritu<br />de Dios."},
+                {"slide": "<i>///</i>Llenos de poder,<br />llenos de gloria<br />y alabanza<i>///</i><br>que somos templo<br />del Espíritu de Dios."},
+
+{"slide": "<i>///</i>No sabéis,<br />no sabéis<br>que somos<br />templo<i>///</i>"},
+                {"slide": "que somos<br />templo<br />del Espíritu<br />de Dios."},
+                {"slide": "<i>///</i>Llenos de poder,<br />llenos de gloria<br />y alabanza<i>///</i><br>que somos templo<br />del Espíritu de Dios."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -4063,16 +4486,16 @@
                 {"slide": "<h4>himno</h4><h1>¡oh, sí,<br />quiero<br />verle!</h1><h3>página <strong>158</strong> número <strong>47</strong></h3>"},
                 {"slide": "Voy feliz al<br />dulce hogar,<br />por fe en Jesús,<br />y luchando a traer<br />almas a la luz;"},
                 {"slide": "dardos encendidos mil<br />vienen contra mí,<br />mas yo sé por la fe,<br />venceré aquí."},
-                {"slide": "<h4>coro</h4>¡Oh, sí, quiere verle,<br />ver al Salvador.<br />Quiero ver su rostro<br />lleno de amor!"},
-                {"slide": "<h4>coro</h4>En aquel gran día<br />yo he de cantar,<br />ya pasó todo afán,<br />todo mi pesar."},
+                {"slide": "<h4>coro</h4>¡Oh, sí, quiero verle,<br />ver al Salvador.<br />Quiero ver su rostro<br />lleno de amor!"},
+                {"slide": "<h4>coro</h4>En aquél gran día<br />yo he de cantar,<br />ya pasó todo afán,<br />todo mi pesar."},
                 {"slide": "En las olas del turbión<br />Cristo guardará<br />mi barquilla y guiará<br />hasta el puerto allá;"},
                 {"slide": "yo tranquilo<br />puedo estar,<br />mi piloto es Él,<br />es mi Rey, tengo fe,<br />se que Él es fiel."},
-                {"slide": "<h4>coro</h4>¡Oh, sí, quiere verle,<br />ver al Salvador.<br />Quiero ver su rostro<br />lleno de amor!"},
-                {"slide": "<h4>coro</h4>En aquel gran día<br />yo he de cantar,<br />ya pasó todo afán,<br />todo mi pesar."},
+                {"slide": "<h4>coro</h4>¡Oh, sí, quiero verle,<br />ver al Salvador.<br />Quiero ver su rostro<br />lleno de amor!"},
+                {"slide": "<h4>coro</h4>En aquél gran día<br />yo he de cantar,<br />ya pasó todo afán,<br />todo mi pesar."},
                 {"slide": "En servir al Salvador<br />por los valles voy,<br />donde muchas<br />sombras hay,<br />más seguro estoy;"},
                 {"slide": "muchos triunfos<br />obtendré,<br />nunca faltará<br />mi Jesús es la luz,<br />Él me sostendrá."},
-                {"slide": "<h4>coro</h4>¡Oh, sí, quiere verle,<br />ver al Salvador.<br />Quiero ver su rostro<br />lleno de amor!"},
-                {"slide": "<h4>coro</h4>En aquel gran día<br />yo he de cantar,<br />ya pasó todo afán,<br />todo mi pesar."},
+                {"slide": "<h4>coro</h4>¡Oh, sí, quiero verle,<br />ver al Salvador.<br />Quiero ver su rostro<br />lleno de amor!"},
+                {"slide": "<h4>coro</h4>En aquél gran día<br />yo he de cantar,<br />ya pasó todo afán,<br />todo mi pesar."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -4108,10 +4531,10 @@
             "body": [
                 {"slide": "<h4>coro</h4><h1>orando<br />sin cesar</h1><h3>grupo de oración</h3>"},
                 {"slide": "<i>//</i>Orando sin cesar,<br />venceremos<i>//</i><br />para poder vencer<br />necesitas el poder,<br />orando sin cesar<br />venceremos."},
-                {"slide": "Venceré por que<br />Él está conmigo,<br />venceré porque<br />es mi amigo fiel."},
+                {"slide": "Venceré porque<br />Él está conmigo,<br />venceré porque<br />es mi amigo fiel."},
                 {"slide": "<i>//</i>Venceré, venceré,<br />vencerás, vencerás,<br />venceremos en el<br />Nombre del Señor.<i>//</i>"},
                 {"slide": "<i>//</i>Orando sin cesar,<br />venceremos<i>//</i><br />para poder vencer<br />necesitas el poder,<br />orando sin cesar<br />venceremos."},
-                {"slide": "Venceré por que<br />Él está conmigo,<br />venceré porque<br />es mi amigo fiel."},
+                {"slide": "Venceré porque<br />Él está conmigo,<br />venceré porque<br />es mi amigo fiel."},
                 {"slide": "<i>///</i>Venceré, venceré,<br />vencerás, vencerás,<br />venceremos en el<br />Nombre del Señor.<i>///</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
@@ -4130,11 +4553,11 @@
                 {"slide": "<h4>coro de alabanza</h4><h1>para ti<br />quiero<br />cantar</h1><h3>página <strong>48</strong> número <strong>180</strong></h3>"},
                 {"slide": "<i>//</i>Para ti, Oh Jehová,<br />para ti quiero cantar,<br />siento gozo en mi alma<br />cuando canto para ti.<i>//</i>"},
                 {"slide": "<i>//</i>Por tu grande amor,<br />eres lo máximo;<br />y mi alma se goza<br />cuando canto para ti.<i>//</i>"},
-                {"slide": "<i>//</i>¿Quién es el Rey?<br />¿Quién es el Rey<br />de Israel?<i>//</i>"},
+                {"slide": "<i>//</i>¿Quién es el Rey?<i>//</i><br />¿Quién es el Rey<br />de Israel?"},
                 {"slide": "Jehová, es<br />fuerte y poderoso,<br />Jehová, es<br />fuerte en poder,<br />Jehová, es<br />fuerte y poderoso,"},
-                {"slide": "<i>//</i>¿Quién es el Rey?<i>//</i><br />¿Quién es el Rey<br />de Israel?<br />La la, la la, la la..."},
+	          {"slide": "<i>//</i>¿Quién es el Rey?<i>//</i><br />¿Quién es el Rey<br />de Israel?<br />La la, la la, la la..."},
                 {"slide": "Jehová, es<br />fuerte y poderoso,<br />Jehová, es<br />fuerte en poder,<br />Jehová, es<br />fuerte y poderoso,"},
-                {"slide": "<i>//</i>¿Quién es el Rey?<br />¿Quién es el Rey<br />de Israel?<i>//</i>"},
+                {"slide": "<i>//</i>¿Quién es el Rey?<i>//</i><br />¿Quién es el Rey<br />de Israel?"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -4179,13 +4602,13 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>paz en la<br />tormenta</h1><h3>renan carias</h3>"},
-                {"slide": "Cuando lloras<br />por las veces<br />que intentaste,<br />y tratas de olvidar<br />las lagrimas<br />que lloraste.<br />"},
+                {"slide": "Cuando lloras<br />por las veces<br />que intentaste,<br />y tratas de olvidar<br />las lágrimas<br />que lloraste.<br />"},
                 {"slide": "Sólo tienes,<br />pena y tristeza<br />el futuro<br />incierto espera,<br />puedes tener<br />paz en la tormenta."},
                 {"slide": "Muchas veces,<br />yo me siento<br />igual que tu.<br />Mi corazón anhela<br />algo real."},
                 {"slide": "El Señor viene a mí<br />y me ayuda a seguir.<br />Ten paz en medio<br />de la tormenta."},
                 {"slide": "<h4>coro</h4>Puedes tener,<br />paz en la tormenta.<br />Fé y esperanza<br />cuando no<br />puedas seguir."},
                 {"slide": "<h4>coro</h4>A un con tu mundo<br />hecho pedazos.<br />El Señor guiará<br />tus pasos.<br />En paz, en medio<br />de la tormenta."},
-                {"slide": "Cuando lloras<br />por las veces<br />que intentaste,<br />y tratas de olvidar<br />las lagrimas<br />que lloraste.<br />"},
+                {"slide": "Cuando lloras<br />por las veces<br />que intentaste,<br />y tratas de olvidar<br />las lágrimas<br />que lloraste.<br />"},
                 {"slide": "Sólo tienes,<br />pena y tristeza<br />el futuro<br />incierto espera,<br />puedes tener<br />paz en la tormenta."},
                 {"slide": "Muchas veces,<br />yo me siento<br />igual que tu.<br />Mi corazón anhela<br />algo real."},
                 {"slide": "El Señor viene a mí<br />y me ayuda a seguir.<br />Ten paz en medio<br />de la tormenta."},
@@ -4337,7 +4760,7 @@
                 {"slide": "<h4>himno</h4><h1>precioso jesús</h1><h3>página <strong>177</strong> número <strong>95</strong></h3>"},
                 {"slide": "Jesús es precioso,<br />mi buen Salvador,<br />por siempre le alabo<br />por su gran amor;<br />si débil me encuentro,<br />su fuerza me da.<br />Él es mi precioso Jesús."},
                 {"slide": "<h4>coro</h4><i>//</i>Precioso es<br />Jesús mi Jesús,<i>//</i><br />mi Gloria será<br />su rostro mirar,<br />Él es mi precioso Jesús."},
-                {"slide": "Y cuando en pecado<br />muy triste me vi,<br />llamando a las puertas<br />de mi corazón,<br />me dijo: “tu alma yo<br />quiero salvar.”<br />Él es mi precioso Jesús."},
+                {"slide": "Y cuando en pecado<br />muy triste me ví,<br />llamando a las puertas<br />de mi corazón,<br />me dijo: “tu alma yo<br />quiero salvar.”<br />Él es mi precioso Jesús."},
                 {"slide": "<h4>coro</h4><i>//</i>Precioso es<br />Jesús mi Jesús,<i>//</i><br />mi Gloria será<br />su rostro mirar,<br />Él es mi precioso Jesús."},
                 {"slide": "Mas yo por su gracia<br />la luz puedo ver,<br />quitó mi tristeza,<br />mi llanto enjugó,<br />por fe yo contemplo<br />mi dulce hogar.<br />Él es mi precioso Jesús."},
                 {"slide": "<h4>coro</h4><i>//</i>Precioso es<br />Jesús mi Jesús,<i>//</i><br />mi Gloria será<br />su rostro mirar,<br />Él es mi precioso Jesús."},
@@ -4354,15 +4777,15 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>prepara<br />tu pasaporte</h1><h3>hna. irene</h3>"},
-                {"slide": "Entre la vida y la muerte,<br />solamente hay un suspiro,<br />hoy luces activo y fuerte,<br />y tal vez mañana ya<br />te hallas ido."},
+                {"slide": "Entre la vida y la muerte,<br />solamente hay un suspiro,<br />hoy luces activo y fuerte,<br />y tal vez mañana ya<br />te hayas ido."},
                 {"slide": "Es por eso que te exhorto,<br />a que ya no pierdas tiempo,<br />prepara tu pasaporte<br />y arregla cuentas<br />con el Eterno."},
                 {"slide": "<h4>coro</h4>Para entrar en la Gloria<br />sólo una cosa puedes hacer:<br />busca al que ha pagado<br />tu entrada al cielo<br />con su poder."},
                 {"slide": "<h4>coro</h4>Vemos en la Palabra<br />que Jesucristo el<br />camino es,<br />si entras por esa puerta<br />tu ya no tienes<br />porqué temer."},
-                {"slide": "Entre la vida y la muerte,<br />solamente hay un suspiro,<br />hoy luces activo y fuerte,<br />y tal vez mañana ya<br />te hallas ido."},
+                {"slide": "Entre la vida y la muerte,<br />solamente hay un suspiro,<br />hoy luces activo y fuerte,<br />y tal vez mañana ya<br />te hayas ido."},
                 {"slide": "Es por eso que te exhorto,<br />a que ya no pierdas tiempo,<br />prepara tu pasaporte<br />y arregla cuentas<br />con el Eterno."},
                 {"slide": "<h4>coro</h4>La vida eterna comienza<br />cuando esta vida<br />se acabe aquí,<br />la Gloria y el paraíso<br />están preparada pa' ti<br />pa' mí."},
                 {"slide": "<h4>coro</h4>No lo dejes pa' mañana<br />porque tal vez ya<br />no puedas ir,<br />pues no tenemos horario<br />ni calendario para partir."},
-                {"slide": "Entre la vida y la muerte,<br />solamente hay un suspiro,<br />hoy luces activo y fuerte,<br />y tal vez mañana ya<br />te hallas ido."},
+                {"slide": "Entre la vida y la muerte,<br />solamente hay un suspiro,<br />hoy luces activo y fuerte,<br />y tal vez mañana ya<br />te hayas ido."},
                 {"slide": "Es por eso que te exhorto,<br />a que ya no pierdas tiempo,<br />prepara tu pasaporte<br />y arregla cuentas<br />con el Eterno."},
                 {"slide": "<h4>coro</h4>Tu decides, tu decides,<br />yo solamente te advierto:<br />prepara tu pasaporte<br />y arregla cuentas<br />con el Eterno."},
                 {"slide": "<h4>coro</h4>Dos caminos, dos caminos,<br />la Gloria o el infierno.<br />prepara tu pasaporte y<br />arregla cuentas<br />con el Eterno."},
@@ -4446,7 +4869,42 @@
             ]
         },
 
+        {
+            "code": "P017",
+            "name": "padre del cielo te adoramos",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>padre del cielo<br />te adoramos</h1>"},
+                {"slide": "Padre del Cielo<br>te adoramos<br>Alzamos hoy<br>Tu Nombre en alto"},
+                {"slide": "Que tu Reino<br>se establezca<br>en alabanza<br>Que su pueblo que<br>declara tu poder."},
+                {"slide": "Bendito sea el Señor<br>Dios poderoso<br>Quién es, quién era<br>y quién vendrá."},
+                {"slide": "Bendito sea el Señor<br>Dios poderoso<br>Por siempre reinará."},
+                
+                {"slide": "Padre del Cielo<br>te adoramos<br>Alzamos hoy<br>Tu Nombre en alto"},
+                {"slide": "Que tu Reino<br>se establezca<br>en alabanza<br>Que su pueblo que<br>declara tu poder."},
+                {"slide": "Bendito sea el Señor<br>Dios poderoso<br>Quién es, quién era<br>y quién vendrá."},
+                {"slide": "Bendito sea el Señor<br>Dios poderoso<br>Por siempre reinará."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
+{
+            "code": "P018",
+            "name": "procura con diligencia",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>procura<br />con<br>diligencia</h1>"},
+                {"slide": "<i>//</i>Procura<br>con diligencia<br>presentarte<br>a Dios<i>//</i>"},
+                {"slide": "aprobado, como obrero<br>que no tiene de<br>qué avergonzarse,<br>que usa bien la<br>palabra de verdad."},
+		{"slide": "<i>//</i>Procura<br>con diligencia<br>presentarte<br>a Dios<i>//</i>"},
+                {"slide": "aprobado, como obrero<br>que no tiene de<br>qué avergonzarse,<br>que usa bien la<br>palabra de verdad."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
 
 
@@ -4524,7 +4982,7 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>coro</h4><h1>quiero<br />cantar<br />una linda<br />canción</h1>"},
-                {"slide": "Quiero canta una<br />linda canción,<br />a aquel que mi<br />vida cambio,"},
+                {"slide": "Quiero cantar una<br />linda canción,<br />a aquél que mi<br />vida cambió,"},
                 {"slide": "quiero cantar una<br />linda canción,<br />de aquél que mi<br />vida cambió."},
                 {"slide": "<i>//</i>Es mi<br />amigo Jesús;<i>//</i><br />Él es Dios;<br />Él es Rey, es<br />amor y verdad."},
                 {"slide": "Sólo en Él encontré<br />esa paz que busqué<br />sólo en Él encontré<br />la felicidad."},
@@ -4566,7 +5024,61 @@
             ]
         },
 
+        {
+            "code": "Q007",
+            "name": "¿que es eso que me hace cantar?",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>¿Qué es eso<br />que me<br />hace cantar?</h1>"},
+                {"slide": "<i>//</i>¿Qué es eso que<br />me hace cantar?<i>//</i>"},
+                {"slide": "De todos mis<br />pecados Libre soy<br />y al cielo voy<br>¿Qué es eso que<br />me hace cantar?."},
 
+                {"slide": "<i>//</i>¿Qué es eso que<br />me hace cantar?<i>//</i>"},
+                {"slide": "De todos mis<br />pecados Libre soy<br />y al cielo voy<br>¿Qué es eso que<br />me hace cantar?."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+
+{
+            "code": "Q008",
+            "name": "quise huir de ti",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>Quise<br />huir<br />de ti</h1>"},
+                {"slide": "Quise huir de ti<br />Pero tu mano<br />fue sobre mi<br />Al saber que tus<br />caminos iba a dejar<br />"},
+                {"slide": "Como hombre<br />fui a buscar<br />Mejor vida,<br />mejor vida para mi."},
+                {"slide": "Y he recorrido<br />largos senderos<br />al caminar<br />Y te puedo decir"},
+                {"slide": "que no hay,<br />mejor amor<br />Mejor amor,<br />que el de Dios."},
+
+                {"slide": "<h4>coro</h4>Creo en ti,<br />porque tu eres<br />mi esperanza<br />para vivir."},
+                {"slide": "<h4>coro</h4>Porque me hiciste<br />a tu imagen oh Señor<br />Porque tu eres mis<br />pasos al caminar."},
+                {"slide": "<h4>coro</h4>Creo en ti,<br />porque tu eres<br />mi voz al cantar.<br />Porque tu eres<br />mi voz al hablar."},
+                {"slide": "<h4>coro</h4>Porque tu eres<br />mi mente al pensar<br />Creo en ti, creo en ti<br />Oh Señor Creo en ti"},
+
+                {"slide": "Y ahora que pienso<br />En los que quedan<br />En los que quedan<br />Sin salvación."},
+                {"slide": "Que pena me<br />da, al saber<br />Que para ellos,<br />la salvación.<br />También fue."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+{
+            "code": "Q009",
+            "name": "qué maravilla es tener una familia",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>Qué maravilla<br />es tener<br />una familia</h1>"},
+                {"slide": "<i>//</i>Qué maravilla es<br />tener una familia,<br />una familia en<br />Cristo Jesús.<i>//</i>"},
+                {"slide": "<i>//</i>Una familia unida,<br />una familia real,<br />una familia que ama,<br />una familia celestial.<i>//</i>"},
+		{"slide": "<i>//</i>Qué maravilla es<br />tener una familia,<br />una familia en<br />Cristo Jesús.<i>//</i>"},
+                {"slide": "<i>//</i>Una familia unida,<br />una familia real,<br />una familia que ama,<br />una familia celestial.<i>//</i>"},                
+		{"slide": "<h1>fin</h1>"}
+            ]
+        },
 
 
         {
@@ -4590,20 +5102,43 @@
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>remolineando</h1><h3>página <strong>26</strong> número <strong>96</strong></h3>"},
                 {"slide": "<i>//</i>Hay muchas formas<br />de alabar tu Nombre,<br />y de exaltarte, Jehová.<br />Hay muchas formas<br />de magnificarte,<br />pero ahora lo haré así.<i>//</i>"},
-                {"slide": "<h4>coro</h4><i>//</i>Remolineando<i>//</i><br />celebraré a Jehová.<br /><i>//</i>Remolineando<i>//</i><br /><i>//</i>me haré más vil<br />por causa de Jehová.<i>//</i>"},
+                {"slide": "<h4>coro</h4><i>//</i>Remolineando<i>//</i><br />celebraré a Jehová.<br /><i>//</i>Remolineando<i>//</i><br />me haré más vil<br />por causa de Jehová."},
                 {"slide": "Sacó mi vida<br />del anonimato,<br />me dio corona,<br />vestido real.<br />Así es Jehová que<br />exalta al pequeño."},
-                {"slide": "<i>//</i>Por causa de Él,<br />yo me haré<br />más vil.<i>//</i><br/>Lara, lara, lara..."},
+                {"slide": "<i>///</i>Por causa de Él,<br />yo me haré<br />más vil.<i>///</i><br/>Lara, lara, lara..."},
                 
                 {"slide": "<i>//</i>Hay muchas formas<br />de alabar tu Nombre,<br />y de exaltarte, Jehová.<br />Hay muchas formas<br />de magnificarte,<br />pero ahora lo haré así.<i>//</i>"},
-                {"slide": "<h4>coro</h4><i>//</i>Remolineando<i>//</i><br />celebraré a Jehová.<br /><i>//</i>Remolineando<i>//</i><br /><i>//</i>me haré más vil<br />por causa de Jehová.<i>//</i>"},
+                {"slide": "<h4>coro</h4><i>//</i>Remolineando<i>//</i><br />celebraré a Jehová.<br /><i>//</i>Remolineando<i>//</i><br />me haré más vil<br />por causa de Jehová."},
                 {"slide": "Sacó mi vida<br />del anonimato,<br />me dio corona,<br />vestido real.<br />Así es Jehová que<br />exalta al pequeño."},
-                {"slide": "<i>//</i>Por causa de Él,<br />yo me haré<br />más vil.<i>//</i><br/>Lara, lara, lara..."},
+                {"slide": "<i>///</i>Por causa de Él,<br />yo me haré<br />más vil.<i>///</i><br/>Lara, lara, lara..."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
         {
             "code": "R003",
-            "name": "renuévame",
+            "name": "renuévame (Himnario)",
+            "info": "página 67 número 33",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro de adoración</h4><h1>renuévame</h1><h3>página <strong>67</strong> número <strong>33</strong></h3>"},
+                {"slide": "Renuévame,<br />Señor Jesús,<br />ya no quiero ser igual.<br />Renuévame,<br />Señor Jesús,<br />pon en mí tu corazón."},
+                {"slide": "Porque todo<br />lo que hay<br />dentro de mí,<br />necesita ser<br />cambiado, Señor."},
+                {"slide": "Porque todo<br />lo que hay<br />dentro de<br />mí corazón,<br />necesita más de ti."},
+                {"slide": "Porque todo<br />lo que hay<br />dentro de mí,<br />necesita ser<br />cambiado, Señor."},
+                {"slide": "Porque todo<br />lo que hay<br />dentro de<br />mí corazón,<br />necesita más de ti."},
+
+				 {"slide": "Renuévame,<br />Señor Jesús,<br />ya no quiero ser igual.<br />Renuévame,<br />Señor Jesús,<br />pon en mí tu corazón."},
+                {"slide": "Porque todo<br />lo que hay<br />dentro de mí,<br />necesita ser<br />cambiado, Señor."},
+                {"slide": "Porque todo<br />lo que hay<br />dentro de<br />mí corazón,<br />necesita más de ti."},
+                {"slide": "Porque todo<br />lo que hay<br />dentro de mí,<br />necesita ser<br />cambiado, Señor."},
+                {"slide": "Porque todo<br />lo que hay<br />dentro de<br />mí corazón,<br/><i>///</i>necesita más de ti.<i>///</i>"},
+
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+		{
+            "code": "R003-1",
+            "name": "renuévame (abreviada)",
             "info": "página 67 número 33",
             "type": "coro",
             "desc": "",
@@ -4645,7 +5180,31 @@
                 {"slide": "<h4>himno</h4><h1>roca de la<br />eternidad</h1><h3>página <strong>168</strong> número <strong>72</strong></h3>"},
                 {"slide": "Roca de la eternidad<br />fuiste abierta para mí<br />sé mi escondedero fiel;<br />sólo encuentro paz en ti,<br />rico, limpio, manantial,<br />en el cual lavado fui."},
                 {"slide": "Aunque fuese<br />siempre fiel,<br />aunque llore sin cesar,<br />del pecado no podré<br />justificación lograr;<br />sólo en ti teniendo fe<br />deuda tal podré pagar."},
-                {"slide": "Mientras tenga que vivir<br />mi últmo suspiro dar,<br />cuando vaya a responder<br />en tu augusto tribunal,<br />sé mi escondedero fiel,<br />roca de la eternidad."},
+                {"slide": "Mientras tenga que vivir<br />mi último suspiro dar,<br />cuando vaya a responder<br />en tu augusto tribunal,<br />sé mi escondedero fiel,<br />roca de la eternidad."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+{
+            "code": "R006",
+            "name": "recíbeme",
+            "info": "",
+            "type": "alabanza",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>himno</h4><h1>recíbeme</h1>"},
+                {"slide": "Recíbeme como uno<br>de tus jornaleros,<br>recíbeme tan solo<br>quiero tu perdón"},
+		{"slide": "no soy Señor ya no<br>soy digno que me digas,<br>me digas hijo de mi vida<br>porque he pecado contra ti"},
+		{"slide": "dejame tan solo estar aquí,<br>en tu mesa no me des lugar,<br>ya tengo bastante con que tú<br>me des tu perdón."},
+
+		{"slide": "<h4>coro</h4>Recíbeme no con<br>honores ni con fiesta,<br>recíbeme porque a<br>tu lado soy feliz,<br>pues me he dado cuenta,"},
+		{"slide": "<h4>coro</h4>que es mejor un día<br>en la casa del Señor<br>que vivir mil días<br>separado de tu amor."},
+
+{"slide": "Recíbeme como uno<br>de tus jornaleros,<br>recíbeme tan solo<br>quiero tu perdón"},
+		{"slide": "no soy Señor ya no<br>soy digno que me digas,<br>me digas hijo de mi vida<br>porque he pecado contra ti"},
+		{"slide": "dejame tan solo estar aquí,<br>en tu mesa no me des lugar,<br>ya tengo bastante con que tú<br>me des tu perdón."},
+
+		{"slide": "<h4>coro</h4>Recíbeme no con<br>honores ni con fiesta,<br>recíbeme porque a<br>tu lado soy feliz,<br>pues me he dado cuenta,"},
+		{"slide": "<h4>coro</h4>que es mejor un día<br>en la casa del Señor<br>que vivir mil días<br>separado de tu amor."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -4663,7 +5222,7 @@
                 {"slide": "<h4>coro de adoración</h4><h1>salmo 9<br />te alabaré,<br />oh jehová</h1><h3>página <strong>110</strong> número <strong>223</strong></h3>"},
                 {"slide": "<i>//</i>Te alabaré, Oh Jehová,<br />con todo mi corazón<br />y contaré tus maravillas.<br />Me alegraré y me<br />regocijaré en ti<br />y cantaré a tu Nombre,<br />oh Altísimo.<i>//</i>"},
                 {"slide": "<i>////</i>Mis enemigos<br />quedaron atrás,<br />y cayeron, y perecieron,<br />y te has sentado<br />en tu Trono<br />juzgando con justicia<br />y has mantenido<br />tu causa.<i>////</i>"},
-                {"slide": "<i>////</i>Tus enemigos<br />ya han muerto<br />han quedado desolados,<br />y de las naciones<br />que derribaste<br />ya no queda mas memoria.<br />pero Jehová permanecerá<br />para siempre.<i>////</i>"},
+                {"slide": "<i>////</i>Tus enemigos<br />ya han muerto<br />han quedado desolados,<br />y de las naciones<br />que derribaste<br />ya no queda más memoria.<br />pero Jehová permanecerá<br />para siempre.<i>////</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -4707,7 +5266,7 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>coro</h4><h1>salmo 27<br />jehová es mi<br />luz y mi<br />salvación</h1>"},
-                {"slide": "Jehová es mi luz<br />y mi salvación<br /><i>//</i>¿de quién temere?<i>//</i><br />Jehová es la fortaleza<br />de mi vida;<br />¿de quién he<br />de atemorizarme?"},
+                {"slide": "Jehová es mi luz<br />y mi salvación<br /><i>//</i>¿de quién temeré?<i>//</i><br />Jehová es la fortaleza<br />de mi vida;<br />¿de quién he<br />de atemorizarme?"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -4865,7 +5424,7 @@
                 {"slide": "Entonces<br />nuestra boca,<br />se llenará de risa,<br /><i>//</i>y nuestra lengua<br />de alabanza.<i>//</i>"},
                 {"slide": "Entonces dirán entre<br />las naciones,<br />grandes cosas<br />ha hecho<br />Jehová con estos,<br />"},
                 {"slide": "<i>//</i>Grandes cosas<br />ha hecho Jehová<br />con nosotros.<i>//</i><br /><i>///</i>Estaremos<br />alegres<i>///</i> ¡Aleluya!"},
-                {"slide": "<i>//</i>Grandes cosas<br />ha hecho Jehová<br />con nosotros.<i>//</i><br /><i>///</i>Estaremos<br />alegres<i>///</i> ¡Aleluya!"},
+                {"slide": "<i>//</i>Grandes cosas<br />ha hecho Jehová<br />con nosotros.<i>//</i><br />Estaremos alegres<br />¡Aleluya!"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -4909,7 +5468,7 @@
                 {"slide": "Eternamente y<br />para siempre.<br />cada día te<br />bendeciré."},
                 {"slide": "Y alabaré<br />tu Nombre<br />eternamente y<br />para siempre."},
                 {"slide": "Grande es<br />Jehová<br />y digno de<br />suprema<br />alabanza."},
-                {"slide": "Y su Grandeza<br />es inescrutable<br /><i>//</i>Cada día te<br />bendeciré.<i>//</i>"},
+                {"slide": "Y su Grandeza<br />es inescrutable<br />Cada día te<br />bendeciré."},
                 
                 {"slide": "Te exaltaré<br />mi Dios mi Rey,<br />y bendeciré<br />tu Nombre."},
                 {"slide": "Eternamente y<br />para siempre.<br />cada día te<br />bendeciré."},
@@ -5173,12 +5732,12 @@
         },
         {
             "code": "S028",
-            "name": "si tu hablas con dios",
+            "name": "si tú hablas con dios",
             "info": "",
             "type": "coro",
             "desc": "",
             "body": [
-                {"slide": "<h4>coro</h4><h1>si tu hablas<br />con dios</h1>"},
+                {"slide": "<h4>coro</h4><h1>si tú hablas<br />con dios</h1>"},
                 {"slide": "Si tu hablas<br />con Dios,<br />las cosas<br />cambiaran,<br />orando."},
                 {"slide": "Cualquier<br />necesidad,<br />Dios la<br />responderá,<br />orando."},
                 {"slide": "Descansa en<br />el Señor,<br />toda tu petición,<br />orando."},
@@ -5193,12 +5752,12 @@
         },
         {
             "code": "S029",
-            "name": "si tu quieres sentir",
+            "name": "si tú quieres sentir",
             "info": "popurrí",
             "type": "mix",
             "desc": "si tu quieres sentir<br />esa zarza que en el monte<br />fuego ha bajado del cielo<br />yo quiero padre querido<br/>únete más, únete más",
             "body": [
-                {"slide": "<h4>mix</h4><h1>si tu<br />quieres<br />sentir</h1><h3>popurrí</h3>"},
+                {"slide": "<h4>mix</h4><h1>si tú<br />quieres<br />sentir</h1><h3>popurrí</h3>"},
                 {"slide": "<i>//</i>Si tu quieres sentir<br />el Espíritu de Dios<br />olvídate de las pruebas<br />y comienza a<br />alabar a Dios.<i>//</i>"},
                 {"slide": "Si tu alabas a Dios<br />la paloma va<br />a descender<br />y vas a sentir<br />el poder del<br />Santo de Israel."},
                 {"slide": "Las malicias,<br />los demonios<br />y los yugos se van a ir,<br />las cadenas se romperán<br />en el Nombre de Jesús."},
@@ -5215,7 +5774,7 @@
                 {"slide": "<i>////</i>Señor yo<br />quiero reverdecer<br />como la vara<br />de Aarón.<i>////</i>"},
                 {"slide": "<i>////</i>Señor yo<br />quiero reverdecer,<br />quiero ser lleno<br />de tu poder.<i>////</i>"},
 
-                {"slide" : "<i>//</i>Únete más,<br />únete más<br />y alabarémos,<br />al Dios del cielo<br />a Jehová de<br />los ejércitos.<i>//</i>"},
+                {"slide" : "<i>//</i>Únete más,<br />únete más<br />y alabaremos,<br />al Dios del cielo<br />a Jehová de<br />los ejércitos.<i>//</i>"},
                 {"slide" : "<i>//</i>Mi alma se goza,<br />cuando está,<br />alabando a Jehová,<i>//</i><br /><i>//</i>estarás tu velando,<br />como las diez vírgenes<i>//</i>"},
                 {"slide" : "<i>//</i>Y a media noche,<br />llega el esposo,<br />y las que<br />estaban apercibidas<br />fueron con Él.<i>//</i>"},
                 {"slide": "<h1>fin</h1>"}
@@ -5223,12 +5782,12 @@
         },
         {
             "code": "S030",
-            "name": "si tu quieres sentir",
+            "name": "si tú quieres sentir",
             "info": "",
             "type": "coro",
             "desc": "",
             "body": [
-                {"slide": "<h4>coro</h4><h1>si tu<br />quieres<br />sentir</h1>"},
+                {"slide": "<h4>coro</h4><h1>si tú<br />quieres<br />sentir</h1>"},
                 {"slide": "<i>//</i>Si tu quieres sentir<br />el Espíritu de Dios<br />olvídate de las pruebas<br />y comienza a<br />alabar a Dios.<i>//</i>"},
                 {"slide": "Si tu alabas a Dios<br />la paloma va<br />a descender<br />y vas a sentir<br />el poder del<br />Santo de Israel."},
                 {"slide": "Las malicias,<br />los demonios<br />y los yugos se van a ir,<br />las cadenas se romperán<br />en el Nombre de Jesús."},
@@ -5253,7 +5812,7 @@
                 {"slide": "<h4>alabanza</h4><h1>si yo<br />descendiera<br />del mono</h1><h3>infantil</h3>"},
                 {"slide": "Si yo descendiera<br />del mono<br />caminaría por las<br />calles así,"},
                 {"slide": "tendría una cola<br />muy larga<br />y también me<br />rascaría así."},
-                {"slide": "Entonces la Biblia diría:<br />¿Papá mono en que<br />palmeras tu estás?<br />provee siempre banana,<br />yo no desciendo del mono,<br />¡que va!"},
+                {"slide": "Entonces la Biblia diría:<br />¿Papá mono en que<br />palmeras tu estás?<br />provee siempre banana,<br />yo no desciendo del mono,<br />¡qué va!"},
                 {"slide": "Si alguien te<br />pregunta: niñito,<br />¿si tu desciendes del<br />mono Titi?<br />contesta ¡Qué raro!,<br />yo no tengo rabo<br />ni tampoco camino así."},
                 {"slide": "Contesta: Qué raro yo<br />no tengo rabo<br />ni tampoco me rasco así,<br /><i>//</i>Contesta que somos<br />creados por Dios<br />y la Biblia lo dice así.<i>//</i>"},
                 {"slide": "<h1>fin</h1>"}
@@ -5450,10 +6009,10 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>coro</h4><h1>su gloria</h1>"},
-                {"slide": "<i>//</i>Su Gloria<br />cubrio los cielos<br />y la tierra se lleno<br />de su alabanza.<i>//</i>"},
+                {"slide": "<i>//</i>Su Gloria<br />cubrio los cielos<br />y la tierra se llenó<br />de su alabanza.<i>//</i>"},
                 {"slide": "<i>//</i>Y el resplandor<br />fue como la luz<br />rayos brillantes<br />salían de sus manos<i>//</i><br />y allí estaba<br />escondido su poder."},
                 
-                {"slide": "<i>//</i>Su Gloria<br />cubrio los cielos<br />y la tierra se lleno<br />de su alabanza.<i>//</i>"},
+                {"slide": "<i>//</i>Su Gloria<br />cubrio los cielos<br />y la tierra se llenó<br />de su alabanza.<i>//</i>"},
                 {"slide": "<i>//</i>Y el resplandor<br />fue como la luz<br />rayos brillantes<br />salían de su mano<i>//</i><br />y allí estaba<br />escondido su poder."},
                 {"slide": "<h1>fin</h1>"}
             ]
@@ -5535,7 +6094,7 @@
                 {"slide": "<h4>coro</h4>que mucho tiempo<br />me esperaste<br />y no llegué."},
                 {"slide": "<h4>coro</h4>Supe que me amabas,<br />aunque huí<br />lejos de tu casa,<br />yo me fuí"},
                 {"slide": "<h4>coro</h4>y con un beso<br />y con amor<br />me regalaste tu perdón,<br />y estoy aquí."},
-                {"slide": "Y cuando lejos me<br />encontraba te sentí<br />sabia que entonces<br />me cuidabas y te oí<br />como un susurro fue tu voz<br />en el silencio<br />cada día me atraías hacia ti."},
+                {"slide": "Y cuando lejos me<br />encontraba te sentí<br />sabía que entonces<br />me cuidabas y te oí<br />como un susurro fue tu voz<br />en el silencio<br />cada día me atraías hacia ti."},
                 {"slide": "<h4>coro</h4>Supe que me amabas,<br />lo entendí<br />supe que buscabas,<br />más de mi"},
                 {"slide": "<h4>coro</h4>que mucho tiempo<br />me esperaste<br />y no llegué."},
                 {"slide": "<h4>coro</h4>Supe que me amabas,<br />aunque huí<br />lejos de tu casa,<br />yo me fuí"},
@@ -5549,7 +6108,61 @@
             ]
         },
 
+        {
+            "code": "S047",
+            "name": "salmo 34",
+            "info": "página 133 número 70",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro tradicional</h4><h1>salmo 34<br />bendeciré<br>a Jehová<h3>página <strong>133</strong> número <strong>70</strong></h3>"},
+                {"slide": "Bendeciré a Jehová<br>en todo tiempo<br>Su alabanza en<br>mi boca estará"},
+                {"slide": "En Jehová se<br>gloriará mi alma<br>Lo oirán los mansos<br>y se alegrarán."},
+                {"slide": "Engrandeced a<br>Jehová conmigo<br>Y exaltemos aun<br>a su Nombre."},
+                {"slide": "Busqué a Jehová<br>y Él me oyó<br>Y de todos mis<br>temores me libró."},
+                
+                {"slide": "Bendeciré a Jehová<br>en todo tiempo<br>Su alabanza en<br>mi boca estará"},
+                {"slide": "En Jehová se<br>gloriará mi alma<br>Lo oirán los mansos<br>y se alegrarán."},
+                {"slide": "Engrandeced a<br>Jehová conmigo<br>Y exaltemos aun<br>a su Nombre."},
+                {"slide": "Busqué a Jehová<br>y Él me oyó<br>Y de todos mis<br>temores me libró."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
+ 	{
+            "code": "S048",
+            "name": "suenen dulces himnos",
+            "info": "página 164 número 64",
+            "type": "himno",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>himno</h4><h1>suenen<br />dulces<br>himnos<h3>página <strong>164</strong> número <strong>64</strong></h3>"},
+                {"slide": "¡Suenen dulces himnos<br>gratos al Señor,<br>y óiganse en<br>concierto universal!"},
+                {"slide": "Desde el alto cielo<br>baja el Salvador<br>para beneficio<br>del mortal."},
+
+                {"slide": "<h4>coro</h4>¡Gloria! ¡gloria sea<br>a nuestro Dios!<br>¡Gloria! sí, cantemos<br>a una voz,"},
+                {"slide": "<h4>coro</h4>y el cantar de gloria<br>que se oyó en Belén,<br>sea nuestro<br>cántico también."},
+                
+                {"slide": "Montes y collados<br>fluyan leche y miel,<br>y abundancia<br>esparzan y solaz."},
+                {"slide": "Gócense los pueblos,<br>gócese Israel,<br>que a la tierra<br>viene ya la paz."},
+
+		{"slide": "<h4>coro</h4>¡Gloria! ¡gloria sea<br>a nuestro Dios!<br>¡Gloria! sí, cantemos<br>a una voz,"},
+                {"slide": "<h4>coro</h4>y el cantar de gloria<br>que se oyó en Belén,<br>sea nuestro<br>cántico también."},
+
+                {"slide": "Salte, de alegría<br>lleno el corazón,<br>la abatida y<br>pobre humanidad;"},
+                {"slide": "Dios se compadece<br>viendo su aflicción<br>y le muestra<br>buena voluntad."},
+
+		{"slide": "<h4>coro</h4>¡Gloria! ¡gloria sea<br>a nuestro Dios!<br>¡Gloria! sí, cantemos<br>a una voz,"},
+                {"slide": "<h4>coro</h4>y el cantar de gloria<br>que se oyó en Belén,<br>sea nuestro<br>cántico también."},
+
+		{"slide": "Lata en nuestros<br>pechos noble gratitud<br>hacia quíen nos<br>brinda redención;"},
+                {"slide": "y a Jesús el Cristo,<br>que nos da salud,<br>tributemos<br>nuestra adoración."},
+
+		{"slide": "<h4>coro</h4>¡Gloria! ¡gloria sea<br>a nuestro Dios!<br>¡Gloria! sí, cantemos<br>a una voz,"},
+                {"slide": "<h4>coro</h4>y el cantar de gloria<br>que se oyó en Belén,<br>sea nuestro<br>cántico también."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
 
         {
@@ -5581,18 +6194,18 @@
                 {"slide": "<h4>alabanza</h4><h1>te busqué</h1><h3>gladys muñoz</h3>"},
                 {"slide": "Te busqué Señor<br />por todas partes<br />no he podido ni<br />siquiera oír tu voz."},
                 {"slide": "¿Dónde estás?,<br />¿dónde moras<br />dime pronto?<br />Encontrarte para<br />mí es bendición."},
-                {"slide": "Me han contado que en<br />todas partes moras,<br />pero ¿donde no te<br />he buscado ya?"},
+                {"slide": "Me han contado que en<br />todas partes moras,<br />pero ¿dónde no te<br />he buscado ya?"},
                 {"slide": "En palacios, en las<br />mesas con los ricos,<br />en las grandes<br />catedrales<br />y no estás."},
                 {"slide": "<h4>coro</h4>Dios está en los<br />templos más sencillos<br />Dios está en el<br />corazón de un niño"},
                 {"slide": "<h4>coro</h4>Dios está en el<br />trino de las aves,<br />en el color<br />de las flores,<br />donde nace y<br />muere el sol."},
-                {"slide": "<h4>coro</h4>Dios está, donde<br />dos o tres orando<br />y su Nombre invocando,<br />Dios está en este lugar."},
+                {"slide": "<h4>coro</h4>Dios está, donde hoy<br />dos o tres orando<br />y su Nombre invocando,<br />Dios está en este lugar."},
                 {"slide": "Un hombre que quiso<br />cruzar el cielo<br />y la ciencia con su<br />magia lo impulsó."},
                 {"slide": "Y un día como un ave<br />emprendió el vuelo,<br />y el espacio con<br />astucia conquistó."},
                 {"slide": "Miró a este<br />mundo indiferente,<br />y se sintió ser el<br />más grande<br />triunfador"},
                 {"slide": "Y en lo alto<br />buscó a Dios<br />por todas partes,<br />y al no verlo pregonó:<br />“no existe Dios”."},
                 {"slide": "<h4>coro</h4>Dios está en los<br />templos más sencillos<br />Dios está en el<br />corazón de un niño"},
                 {"slide": "<h4>coro</h4>Dios está en el<br />trino de las aves,<br />en el color<br />de las flores,<br />donde nace y<br />muere el sol."},
-                {"slide": "<h4>coro</h4>Dios está, donde<br />dos o tres orando<br />y su Nombre invocando,<br />Dios está en este lugar."},
+                {"slide": "<h4>coro</h4>Dios está, donde hoy<br />dos o tres orando<br />y su Nombre invocando,<br />Dios está en este lugar."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -5682,15 +6295,15 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>tengo<br />hambre<br />de ti</h1><h3>jesús adrían romero</h3>"},
-                {"slide": "Por un momento en<br />tu presencia<br />por un instante de tu amor<br />por un destello de tu Gloria<br />por un minuto nada mas."},
+                {"slide": "Por un momento en<br />tu presencia<br />por un instante de tu amor<br />por un destello de tu Gloria<br />por un minuto nada más."},
                 {"slide": "<h4>coro</h4>Todo daría<br />no importaria<br />lo que tenga<br />que pasar<br />lo que tenga<br />que esperar."},
-                {"slide": "Por un momento en<br />tu presencia<br />por un instante de tu amor<br />por un destello de tu Gloria<br />por un minuto nada mas."},
+                {"slide": "Por un momento en<br />tu presencia<br />por un instante de tu amor<br />por un destello de tu Gloria<br />por un minuto nada más."},
                 {"slide": "<h4>coro</h4>Todo daría<br />no importaria<br />lo que tenga<br />que pasar<br />lo que tenga<br />que esperar."},
                 {"slide": "<h4>coro</h4>Tengo hambre de ti<br />de tu presencia<br />de tu fragancia<br />de tu poder."},
                 {"slide": "<h4>coro</h4>Hambre que duele<br />que debilita<br />que desespera<br />por ti."},
                 {"slide": "<h4>coro</h4>Tengo hambre de ti<br />de tu presencia<br />de tu fragancia<br />de tu poder."},
                 {"slide": "<h4>coro</h4>Hambre que duele<br />que debilita<br />que desespera<br />por ti."},
-                {"slide": "Por un momento en<br />tu presencia<br />por un instante de tu amor<br />por un destello de tu Gloria<br />por un minuto nada mas."},
+                {"slide": "Por un momento en<br />tu presencia<br />por un instante de tu amor<br />por un destello de tu Gloria<br />por un minuto nada más."},
                 {"slide": "<h4>coro</h4>Todo daría<br />no importaria<br />lo que tenga<br />que pasar<br />lo que tenga<br />que esperar."},
                 {"slide": "<h4>coro</h4>Tengo hambre de ti<br />de tu presencia<br />de tu fragancia<br />de tu poder."},
                 {"slide": "<h4>coro</h4>Hambre que duele<br />que debilita<br />que desespera<br />por ti."},
@@ -5708,14 +6321,14 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>tengo un<br />nuevo amor</h1><h3>roberto orellana</h3>"},
-                {"slide": "Yo tengo un nuevo amor,<br />el corazón me late sin parar,<br />hay uno que me ha dicho:<br />te amo de verdad,<br />Jesús mi amor<br />y mas que amor<br />mi dulce paz."},
+                {"slide": "Yo tengo un nuevo amor,<br />el corazón me late sin parar,<br />hay uno que me ha dicho:<br />te amo de verdad,<br />Jesús mi amor<br />y más que amor<br />mi dulce paz."},
                 {"slide": "Yo tengo un nuevo amor<br />jamas imaginé poder hallar,<br />aquel que le dio a mi vida<br />una razón para amar,<br />Jesús mi amor<br />y más que amor<br />mi dulce paz."},
                 {"slide": "Siento que tengo ganas de<br />volar al firmamento,<br />gritarle al mundo entero<br />lo que estoy sintiendo,<br />que ya encontré mi dulce amor,<br />Jesús es toda mi Verdad,<br />y nunca yo me cansare<br />de repetir hasta el final."},
-                {"slide": "<h4>coro</h4>Yo tengo un nuevo amor,<br />el corazón me late sin parar,<br />hay uno que me ha dicho:<br />te amo de verdad,<br />Jesús mi amor<br />y mas que amor mi dulce paz."},
+                {"slide": "<h4>coro</h4>Yo tengo un nuevo amor,<br />el corazón me late sin parar,<br />hay uno que me ha dicho:<br />te amo de verdad,<br />Jesús mi amor<br />y más que amor mi dulce paz."},
                 {"slide": "<h4>coro</h4>Yo tengo un nuevo amor<br />jamas imaginé poder hallar,<br />aquel que le dio a mi vida<br />una razón para amar,<br />Jesús mi amor<br />y más que amor mi dulce paz."},
-                {"slide": "<h4>coro</h4>Yo tengo un nuevo amor,<br />el corazón me late sin parar,<br />hay uno que me ha dicho:<br />te amo de verdad,<br />Jesús mi amor<br />y mas que amor mi dulce paz."},
+                {"slide": "<h4>coro</h4>Yo tengo un nuevo amor,<br />el corazón me late sin parar,<br />hay uno que me ha dicho:<br />te amo de verdad,<br />Jesús mi amor<br />y más que amor mi dulce paz."},
                 {"slide": "<h4>coro</h4>Yo tengo un nuevo amor<br />jamas imaginé poder hallar,<br />aquel que le dio a mi vida<br />una razón para amar,<br />Jesús mi amor<br />y más que amor mi dulce paz."},
-                {"slide": "<h4>coro</h4>Yo tengo un nuevo amor,<br />el corazón me late sin parar,<br />hay uno que me ha dicho:<br />te amo de verdad,<br />Jesús mi amor<br />y mas que amor mi dulce paz."},
+                {"slide": "<h4>coro</h4>Yo tengo un nuevo amor,<br />el corazón me late sin parar,<br />hay uno que me ha dicho:<br />te amo de verdad,<br />Jesús mi amor<br />y más que amor mi dulce paz."},
                 {"slide": "<h4>coro</h4>Yo tengo un nuevo amor<br />jamas imaginé poder hallar,<br />aquel que le dio a mi vida<br />una razón para amar,<br /><i>///</i>Jesús mi amor<br />y más que amor mi dulce paz.<i>///</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
@@ -5878,16 +6491,16 @@
         },
         {
             "code": "T017",
-            "name": "tu eres dios",
+            "name": "tú eres dios",
             "info": "página 62 número 8",
             "type": "coro",
             "desc": "",
             "body": [
-                {"slide": "<h4>coro de adoración</h4><h1>tu eres dios</h1><h3>página <strong>62</strong> número <strong>8</strong></h3>"},
-                {"slide": "<i>//</i>Tú eres Dios,<br />tú eres mi Rey,<br />eres Señor, Jesús.<br />Y con mi voz declararé,<br />que tu eres Rey,<br />y eres Señor.<i>//</i>"},
+                {"slide": "<h4>coro de adoración</h4><h1>tú eres dios</h1><h3>página <strong>62</strong> número <strong>8</strong></h3>"},
+                {"slide": "<i>//</i>Tú eres Dios,<br />tú eres mi Rey,<br />eres Señor, Jesús.<br />Y con mi voz declararé,<br />que tú eres Rey,<br />y eres Señor.<i>//</i>"},
                 {"slide": "<i>//</i>Sobre un Trono<br />de Justicia<br />te haz sentado<br />en majestad,<br />tu Palabra de autoridad,<br />en mi vida reinará.<i>//</i>"},
                 
-                {"slide": "<i>//</i>Tú eres Dios,<br />tú eres mi Rey,<br />eres Señor, Jesús.<br />Y con mi voz declararé,<br />que tu eres Rey,<br />y eres Señor.<i>//</i>"},
+                {"slide": "<i>//</i>Tú eres Dios,<br />tú eres mi Rey,<br />eres Señor, Jesús.<br />Y con mi voz declararé,<br />que tú eres Rey,<br />y eres Señor.<i>//</i>"},
                 {"slide": "<i>//</i>Sobre un Trono<br />de Justicia<br />te haz sentado<br />en majestad,<br />tu Palabra de autoridad,<br />en mi vida reinará.<i>//</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
@@ -5915,7 +6528,7 @@
             "desc": "",
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>tu fidelidad</h1><h3>página <strong>78</strong> número <strong>80</strong></h3>"},
-                {"slide": "<i>//</i>Tu fidelidad<br />es grande, tu fidelidad<br />incomparable es<br />nadie como tú,<br />bendito oh Dios,<br />grande es tu fidelidad.<i>//</i>"},
+                {"slide": "<i>//</i>Tu fidelidad<br />es grande, tu fidelidad<br />incomparable es.<br />Nadie como tú,<br />bendito Dios,<br />grande es tu fidelidad.<i>//</i>"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -5972,6 +6585,71 @@
                 {"slide": "<h4>coro</h4>Podría estar perdido<br />como un náufrago<br />en el mar<br />y aun perderlo todo<br />hasta el aliento."},
                 {"slide": "<h4>coro</h4>Podría estar hambriento<br />como un niño sin hogar<br />pero yo sé que tu Palabra<br />siempre a mí."},
                 {"slide": "<h4>coro</h4><i>//</i>Pero yo sé que tu Palabra<br />siempre a mí...<i>//</i><br />me sostendrá.<br/>Tu palabra...<br />Siempre me sostendrá."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+	{
+            "code": "T023",
+            "name": "tu eres, tu eres",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>tu eres,<br>tu eres</h1>"},
+                {"slide": "Tu eres, tu eres Señor<br>el lirio de los valles,<br>tu eres, tu eres<br>la rosa de Sarón.<br>Tu eres, tu eres Señor<br>el amado de mi corazón.<br><i>//</i>Porque tu eres Señor<br>el Hijo de Dios<i>//</i>"},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+
+        {
+            "code": "T024",
+            "name": "tu cerca de mí",
+            "info": "página 91 número 146",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro de adoración</h4><h1>tan cerca,<br>de mí</h1>"},
+                {"slide": "Tan cerca de mí,<br>tan cerca de mí<br>que hasta te<br>puedo tocar,<br>Jesús está aquí."},
+                {"slide": "Le hablaré sin<br>miedo al oído,<br>le contaré cosas<br>que hay en mí"},
+                {"slide": "y que sólo a él<br>le interesarán.<br>Él es más que<br>un mito para mí."},
+                {"slide": "Mírale en las<br>calles caminando<br>y paseándose<br>en la multitud,"},
+                {"slide": "muchos ciegos van<br>porque no le ven,<br>ciegos de<br>ceguera espiritual."},
+
+                {"slide": "<h4>coro de adoración</h4><h1>tan cerca,<br>de mí</h1>"},
+                {"slide": "Tan cerca de mí,<br>tan cerca de mí<br>que hasta te<br>puedo tocar,<br>Jesús está aquí."},
+                {"slide": "Le hablaré sin<br>miedo al oído,<br>le contaré cosas<br>que hay en mí"},
+                {"slide": "y que sólo a él<br>le interesarán.<br>Él es más que<br>un mito para mí."},
+                {"slide": "Mírale en las<br>calles caminando<br>y paseándose<br>en la multitud,"},
+                {"slide": "muchos ciegos van<br>porque no le ven,<br>ciegos de<br>ceguera espiritual."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+
+{
+            "code": "T025",
+            "name": "te necesito",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>te necesito</h1>"},
+                {"slide": "<i>//</i>Te necesito,<br>Dios, te necesito<i>//</i><br>Para poder<br>vivir te necesito<br>Y para ser<br>feliz te necesito"},
+                
+                {"slide": "El aire que<br>respiro eres Tú<br>El sol que me da<br>su calor es su amor<br>La luna que<br>anuncia ya su faz"},
+                {"slide": "Las estrellas,<br>su hermoso resplandor<br>El rugido del mar,<br>su gran poder<br>El tronar de los<br>vientos es su voz"},
+                {"slide": "Ya siento la<br>lluvia descender<br>Sobre la tierra<br>alimento Tú me das"},
+
+                {"slide": "Yo quiero verte<br>descender en<br>esa nube<br>Yo necesito, Señor,<br>que Tú me ayudes"},
+                {"slide": "Yo quiero<br>andar, Señor,<br>por calles de oro<br>Y estar allí, Señor,<br>frente a tu trono."},
+
+                {"slide": "Quiero llegar, Señor,<br>donde Tú estás<br>De tus labios<br>oírte pronunciar<br>Si en lo poco<br>Tú has sido fiel"},
+                {"slide": "En lo mucho,<br>hijo mío, te pondré<br>Ya no habrá más<br>tristeza para mí<br>Has vencido ese<br>pago es para ti"},
+                {"slide": "La corona de<br>vida te daré<br>Hijo mío, jamás<br>te dejaré."},
+
+                {"slide": "El aire que<br>respiro eres Tú<br>El sol que me da<br>su calor es su amor<br>La luna que<br>anuncia ya su faz"},
+                {"slide": "Las estrellas,<br>su hermoso resplandor<br>El rugido del mar,<br>su gran poder<br>El tronar de los<br>vientos es su voz"},
+                {"slide": "Ya siento la<br>lluvia descender<br>Sobre la tierra<br>alimento Tú me das"},
+
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -6088,7 +6766,46 @@
             ]
         },
 
+        {
+            "code": "U007",
+            "name": "una cosa estoy sintiendo aqui ahora",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>una cosa estoy<br>sintiendo<br>aquí ahora</h1>"},
+                {"slide": "Una cosa estoy<br>sintiendo<br>aquí ahora<br>Que Dios está<br>en este lugar."},
+                {"slide": "El Espíritu Santo<br>me revela<br>Que Dios está<br>en este lugar."},
+                {"slide": "<i>//</i>Dios está<br>en este lugar<i>//</i><br>El Espíritu Santo<br>me revela<br>Que Dios está<br>en este lugar."},
+                
+                {"slide": "Una cosa estoy<br>sintiendo<br>aquí ahora<br>Que Dios está<br>en este lugar."},
+                {"slide": "El Espíritu Santo<br>me revela<br>Que Dios está<br>en este lugar."},
+                {"slide": "<i>//</i>Dios está<br>en este lugar<i>//</i><br>El Espíritu Santo<br>me revela<br>Que Dios está<br>en este lugar."},
+                {"slide": "<i>//</i>Dios está<br>en este lugar<i>//</i><br>El Espíritu Santo<br>me revela<br>Que Dios está<br>en este lugar."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
+        {
+            "code": "U008",
+            "name": "un hombre que anduvo en galilea",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>un hombre<br>que anduvo<br>en Galilea</h1>"},
+                {"slide": "Un hombre que<br>anduvo en Galilea<br>Se llamaba<br>Jesús de Nazareth."},
+                {"slide": "Ahora está conmigo<br>Renueva así mi vida<br>Aumenta cada día<br>más y más mi fe."},
+                {"slide": "<h4>coro</h4>Fe más fe<br>Amor más amor<br>El que no tenga vida<br>pídale al Señor."},
+                {"slide": "<h4>coro</h4>Fe sin fe<br>Amor sin amor<br>No puedes<br>agradar al Señor."},
+
+                {"slide": "Un hombre que<br>anduvo en Galilea<br>Se llamaba<br>Jesús de Nazareth."},
+                {"slide": "Ahora está conmigo<br>Renueva así mi vida<br>Aumenta cada día<br>más y más mi fe."},
+                {"slide": "<h4>coro</h4>Fe más fe<br>Amor más amor<br>El que no tenga vida<br>pídale al Señor."},
+                {"slide": "<h4>coro</h4>Fe sin fe<br>Amor sin amor<br>No puedes<br>agradar al Señor."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
 
         {
@@ -6311,7 +7028,49 @@
             ]
         },
 
+        {
+            "code": "V012",
+            "name": "va bajando va",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>va bajando va</h1>"},
+                {"slide": "Va bajando va<br>Va bajando va<br>Va bajando<br>La gloria de Jehová"},
+                {"slide": "Si su pueblo<br>empieza a orar<br>Y dejar al Señor entrar<br>Va a bajar la<br>Gloria de Jehová."},
 
+                {"slide": "La gloria de Jehová<br>Cayó en el Sinaí<br>Y aquel monte temblaba<br>Porque Dios estaba allí."},
+
+                {"slide": "Dios estaba allí<br>Dios estaba allí<br>Y aquel monte temblaba<br>Porque Dios estaba allí."},
+
+                {"slide": "Va bajando va<br>Va bajando va<br>Va bajando<br>La gloria de Jehová"},
+                {"slide": "Si su pueblo<br>empieza a orar<br>Y dejar al Señor entrar<br>Va a bajar la<br>Gloria de Jehová."},
+                
+                {"slide": "La gloria de Jehová<br>Cayó en el Sinaí<br>Y aquel monte temblaba<br>Porque Dios estaba allí."},
+
+                {"slide": "Dios estaba allí<br>Dios estaba allí<br>Y aquel monte temblaba<br>Porque Dios estaba allí."},
+
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+
+	{
+            "code": "V013",
+            "name": "venid pastorcillos",
+            "info": "página 148 número 20",
+            "type": "himno",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>himno</h4><h1>venid<br />pastorcillos</h1><h3>página <strong>148</strong> número <strong>20</strong></h3>"},
+                {"slide": "Venid, pastorcillos,<br>venir a adorar<br>al Rey de los cielos<br>que nace en Judá."},
+                {"slide": "Sin ricas ofrendas<br>podemos llegar,<br>que el niño prefiere<br>la fe y la bondad"},
+                {"slide": "Un rústico techo<br>abrigo le da,<br>por cuna un pesebre,<br>por templo un portal;"},
+                {"slide": "en lecho de pajas,<br>incógnito está,<br>quien quizo<br>a los astros<br>su gloria prestar."},
+                {"slide": "Hermoso lucero<br>le vino a anunciar,<br>y magos de oriente<br>buscándole van,"},
+                {"slide": "delante se postran<br>del Rey de Judá,<br>de incienso,<br>oro y mirra<br>tributo le dan."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
 
         {
             "code": "Y001",
@@ -6327,7 +7086,7 @@
                 {"slide": "Pero un poquito dudando<br />yo me he preguntado:<br />¿Si Cristo piensa<br />dejarme o me llevará?"},
                 {"slide": "<h4>coro</h4>Ah, ah, ah,<br />ah, ah ya viene;<br />Cristo en una<br />nube blanca<br />a su Iglesia a buscar."},
                 {"slide": "<h4>coro</h4>Ah, ah, ah,<br />ah, ah ya viene;<br />Cristo en una<br />nube blanca<br />aparecerá."},
-                {"slide": "Dos estarán en el campo<br />arando la tierra,<br />dos estarán en sus casas<br />quizas sin velar."},
+                {"slide": "Dos estarán en el campo<br />arando la tierra,<br />dos estarán en sus casas<br />quizás sin velar."},
                 {"slide": "Yo me paso preguntando<br />si Cristo hoy volviera:<br />¿a cuantos piensa dejarnos<br />o nos llevara?"},
                 {"slide": "<h4>coro</h4>Ah, ah, ah,<br />ah, ah ya viene;<br />Cristo en una<br />nube blanca<br />a su Iglesia a buscar."},
                 {"slide": "<h4>coro</h4>Ah, ah, ah,<br />ah, ah ya viene;<br />Cristo en una<br />nube blanca<br />aparecerá."},
@@ -6344,9 +7103,11 @@
                 {"slide": "<h4>coro</h4><h1>ya viene cristo,<br />señales hay</h1>"},
                 {"slide": "Ya viene Cristo,<br />señales hay,<br />almas salvadas,<br />viene a buscar,<br />los que durmieron,<br />se quedarán,"},
                 {"slide": "Los que velaron<br />se irán con Él.<br /><i>////</i>Me voy con Él<i>////</i><br />yo no me quedo,<br />me voy con Él."},
+ 		{"slide": "<i>////</i>Me voy con Él<i>////</i><br />yo no me quedo,<br />me voy con Él."},
                 
                 {"slide": "Ya viene Cristo,<br />señales hay,<br />almas salvadas,<br />viene a buscar,<br />los que durmieron,<br />se quedarán,"},
                 {"slide": "Los que velaron<br />se irán con Él.<br /><i>////</i>Me voy con Él<i>////</i><br />yo no me quedo,<br />me voy con Él."},
+		{"slide": "<i>////</i>Me voy con Él<i>////</i><br />yo no me quedo,<br />me voy con Él."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -6571,9 +7332,6 @@
                 {"slide": "Echó a la mar los<br />carros del Faraón.<br />¡Hey!, ¡hey!<br />lara, lara, lara..."},
                 {"slide": "<i>//</i>Mi padre es Dios,<br />y yo le exalto.<br />Mi padre es Dios,<br />y le exaltaré.<i>//</i>"},
                 {"slide": "Echó a la mar los<br />carros del Faraón.<br />¡Hey!, ¡hey!<br />lara, lara, lara..."},
-                {"slide": "<i>//</i>Cantaré al Señor<br />por siempre.<br />Su diestra<br />es todo poder.<i>//</i>"},
-                {"slide": "<i>//</i>Ha echado a la mar,<br />quien los perseguía,<br />jinete y caballo<br />ha echado a la mar.<i>//</i>"},
-                {"slide": "Echó a la mar los<br />carros del Faraón.<br />¡Hey!, ¡hey!<br />lara, lara, lara..."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -6618,6 +7376,8 @@
                 {"slide": "<h4>alabanza</h4><h1>yo tengo<br />un amigo<br />que me ama</h1><h3>infantil</h3>"},
                 {"slide": "Yo tengo un amigo<br />que me ama,<br />me ama, me ama.<br />yo tengo un amigo<br />que me ama,<br />su Nombre es Jesús."},
                 {"slide": "<i>//</i>Que me ama,<i>//</i><br />que me ama<br />si con tierno amor.<br /><i>//</i>Que me ama,<i>//</i><br />su Nombre es Jesús."},
+		{"slide": "Tú tienes un amigo<br />que te ama,<br />te ama, te ama.<br />tú tienes un amigo<br />que te ama,<br />su Nombre es Jesús."},
+                {"slide": "<i>//</i>Que te ama,<i>//</i><br />que te ama<br />si con tierno amor.<br /><i>//</i>Que te ama,<i>//</i><br />su Nombre es Jesús."},
                 {"slide": "Tenemos un amigo<br />que nos ama,<br />nos ama, nos ama.<br />Tenemos un amigo<br />que nos ama,<br />su Nombre es Jesús.<br />"},
                 {"slide": "<i>//</i>Que nos ama,<i>//</i><br />que nos ama<br />si con tierno amor.<br /><i>//</i>Que nos ama,<i>//</i><br />su Nombre es Jesús."},
                 {"slide": "<h1>fin</h1>"}
@@ -6633,11 +7393,27 @@
                 {"slide": "<h4>coro</h4><h1>yo tengo<br />un gozo<br />en mi alma</h1>"},
                 {"slide": "Yo tengo un<br /><i>///</i>gozo en<br />mi alma,<i>///</i><br />y en mi ser.<br />"},
                 {"slide": "Es como un río<br />de agua viva,<br />río de agua viva,<br />río de agua viva<br />en mi ser."},
-                {"slide": "No te avergüences y<br />alaba a tu Señor.<br /><i>//</i>La Gloria a Él,<i>//</i><br />no te avergüences y<br />alaba a tu Señor."},
                 
                 {"slide": "Yo tengo un<br /><i>///</i>gozo en<br />mi alma,<i>///</i><br />y en mi ser.<br />"},
                 {"slide": "Es como un río<br />de agua viva,<br />río de agua viva,<br />río de agua viva<br />en mi ser."},
-                {"slide": "No te avergüences y<br />alaba a tu Señor.<br /><i>//</i>La Gloria a Él,<i>//</i><br />no te avergüences y<br />alaba a tu Señor."},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },
+		{
+            "code": "Y017-2",
+            "name": "yo tengo un gozo en mi alma (antigua)",
+            "info": "",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>yo tengo<br />un gozo<br />en mi alma<br/>(Antigua)</h1>"},
+                {"slide": "Yo tengo un<br /><i>///</i>gozo en<br />mi alma,<i>///</i><br />y en mi ser.<br />"},
+                {"slide": "Es como un río<br />de agua viva,<br />ríos de agua viva,<br />ríos de agua viva<br />en mi ser."},
+                {"slide": "Hemos orado y<br />ha bajado el<br />poder de Dios<br/><i>//</i>¡Oh Gloria a Él!<i>//</i><br />Hemos orado y<br />ha bajado el<br />poder de Dios"},
+                
+                {"slide": "Yo tengo un<br /><i>///</i>gozo en<br />mi alma,<i>///</i><br />y en mi ser.<br />"},
+                {"slide": "Es como un río<br />de agua viva,<br />ríos de agua viva,<br />ríos de agua viva<br />en mi ser."},
+                {"slide": "Hemos orado y<br />ha bajado el<br />poder de Dios<br/><i>//</i>¡Oh Gloria a Él!<i>//</i><br />Hemos orado y<br />ha bajado el<br />poder de Dios"},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
@@ -6651,24 +7427,35 @@
                 {"slide": "<h4>alabanza</h4><h1>yo venceré</h1>"},
                 {"slide": "Sé que es difícil<br />esta batalla<br />ya no aguanto<br />esta angustia<br />y yo siento desmayar."},
                 {"slide": "Yo me siento perdido<br />en esta tormenta,<br />pero en medio de ella<br />escucho una voz que<br />me dice: “no te rindas”."},
-                {"slide": "<h4>coro</h4><i>//</i>Yo venceré, caminaré,<br />pelearé esta batalla,<br />porque tu me sostienes<br />tú me das la fuerza<br />para seguir peleando.<i>//</i>"},
+                {"slide": "<h4>coro</h4><i>//</i>Yo venceré, caminaré,<br />pelearé esta batalla,<br />porque tú me sostienes<br />tú me das la fuerza<br />para seguir peleando.<i>//</i>"},
                 {"slide": "Sé que es difícil<br />esta batalla<br />ya no aguanto<br />esta angustia<br />y yo siento desmayar."},
                 {"slide": "Yo me siento perdido<br />en esta tormenta,<br />pero en medio de ella<br />escucho una voz que<br />me dice: “no te rindas”."},
-                {"slide": "<h4>coro</h4><i>//</i>Yo venceré, caminaré,<br />pelearé esta batalla,<br />porque tu me sostienes<br />tú me das la fuerza<br />para seguir peleando.<i>//</i>"},
+                {"slide": "<h4>coro</h4><i>//</i>Yo venceré, caminaré,<br />pelearé esta batalla,<br />porque tú me sostienes<br />tú me das la fuerza<br />para seguir peleando.<i>//</i>"},
                 {"slide": "Por encima<br />de la prueba<br />¡Yo venceré!"},
                 {"slide": "Por encima<br />de la tormenta<br />¡Yo venceré!"},
                 {"slide": "Por encima<br />de mi soledad<br />¡Yo venceré!"},
                 {"slide": "<i>////</i>Aunque el<br />diablo no quiera<br />¡Yo venceré!<i>////</i><br />y ¡Yo venceré!<br />y ¡Yo venceré!"},
-                {"slide": "<h4>coro</h4><i>//</i>Yo venceré, caminaré,<br />pelearé esta batalla,<br />porque tu me sostienes<br />tú me das la fuerza<br />para seguir peleando.<i>//</i>"},
+                {"slide": "<h4>coro</h4><i>//</i>Yo venceré, caminaré,<br />pelearé esta batalla,<br />porque tú me sostienes<br />tú me das la fuerza<br />para seguir peleando.<i>//</i>"},
                 {"slide": "Por encima<br />de la prueba<br />¡Yo venceré!"},
                 {"slide": "Por encima<br />de la tormenta<br />¡Yo venceré!<br />Por encima<br />de mi soledad."},
                 {"slide": "<i>///</i>Aunque el<br />diablo no quiera<br />¡Yo venceré!<i>///</i><br /><i>////</i>¡Yo venceré!<i>////</i>"},
                 {"slide": "Oh<i>////</i>si Cristo<br />está conmigo,<i>////</i><br /><i>//</i>¡Yo venceré!<i>//</i><br /><i>//</i>y ¡Yo venceré!<i>//</i>"},
-                {"slide": "<h4>coro</h4>Yo venceré, caminaré,<br />pelearé esta batalla,<br />porque tu me sostienes<br />tú me das la fuerza<br />para seguir peleando."},
+                {"slide": "<h4>coro</h4>Yo venceré, caminaré,<br />pelearé esta batalla,<br />porque tú me sostienes<br />tú me das la fuerza<br />para seguir peleando."},
                 {"slide": "<h1>fin</h1>"}
             ]
         },
-
+	{
+            "code": "Y019",
+            "name": "yo te alabaré señor",
+            "info": "página 130 número 50",
+            "type": "coro",
+            "desc": "",
+            "body": [
+                {"slide": "<h4>coro</h4><h1>yo te<br/>alabaré<br/>señor</h1><h3>página <strong>130</strong> número <strong>50</strong></h3>"},
+                {"slide": "<i>//</i>Yo te alabaré Señor,<br />con todo mi corazón.<i>//</i><br /><i>//</i>Y en presencia de<br />los ángeles<br />a ti cantaré, loores.<i>//</i>"},
+                {"slide": "<h1>fin</h1>"}
+            ]
+        },       
 
         {
             "code": "NOTE01",

@@ -32,7 +32,7 @@ body > #app > #main > #header > .center{
 body > #app > #main > #header > .center > .label{
     line-height: calc(var(--header-hg) - 20px);
     font-size: var(--title-fnsz);
-    color: var(--color-black-extra-dark);
+    color: var(--color-white-extra-light);
 }
 
 body > #app > #main > #header > .center > .label > span{
@@ -47,11 +47,11 @@ body > #app > #main > #header > .right{
 }
 
 body > #app > #main > #header > .right > .actionButton:hover:not(:disabled){
-    background-color: var(--color-white-medium);
+    background-color: var(--color-black-extra-dark);
 }
 
 body > #app > #main > #header > .right > .actionButton:active:not(:disabled){
-    background-color: var(--color-white-dark);
+    background-color: var(--color-black-dark);
 }
 
 body > #app > #main > #main{
@@ -64,8 +64,8 @@ body > #app > #main > #main{
 
 body > #app > #main > #main > .screen{
     background-color: var(--color-white-medium);
-    background-image: url(../../../public/images/background.jpg);
-    background-position: center;
+    background-image: url(../../../public/images/background2.jpg);
+    background-position: top left;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -94,33 +94,33 @@ body > #app > #main > #footer > .inner:last-child{
 
 body > #app > #main > #footer > .inner > .label{
     height: auto;
-    color: var(--color-gray-dark);
+    color: var(--color-gray-light);
     margin-bottom: 5px;
 }
 
 body > #app > #main > #footer > .inner > .box{
-    background-color: var(--color-white-medium);
+    background-color: var(--color-black-extra-dark);
     height: calc(100% - (var(--label-fnsz) + 9px));
 }
 
 body > #app > #main > #footer > .inner > .box .actionButton:hover:not(:disabled){
-    background-color: var(--color-white-dark);
+    background-color: var(--color-black-dark);
 }
 
 body > #app > #main > #footer > .inner > .box .actionButton:active:not(:disabled){
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #main > #footer > .inner > .box .index{
-    color: var(--color-black-extra-dark);
+    color: var(--color-white-extra-light);
 }
 
 body > #app > #main > #footer > .inner > .box .total{
-    color: var(--color-black-extra-light);
+    color: var(--color-gray-extra-light);
 }
 
 body > #app > #main > #footer > .inner > .box .slider{
-    background-color: var(--color-white-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #main > #footer > .inner > .box .slider > .progress{

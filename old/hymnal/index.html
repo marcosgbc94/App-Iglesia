@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" href="../public/images/hymnal-icon.ico" type="image/x-icon">
+    <title>Himnario</title>
+    <!-- CONFIG CSS -->
+    <link rel="stylesheet" href="../config/public.config.css">
+    <link rel="stylesheet" href="../config/colors.config.css">
+    <link rel="stylesheet" href="../config/hymnal.config.css">
+    <!-- PUBLIC CSS -->
+    <link rel="stylesheet" href="../public/css/fonts.css">
+    <link rel="stylesheet" href="../public/css/standard.css">
+    <link rel="stylesheet" href="../public/css/base.css">
+    <link rel="stylesheet" href="../public/css/icons.css">
+    <link rel="stylesheet" href="../public/css/animate.css">
+    <!-- LOCAL CSS -->
+    <link rel="stylesheet" href="core/css/main.css">
+    <link rel="stylesheet" href="core/css/menu.css">
+    <link rel="stylesheet" href="core/css/alert.css">
+    <link rel="stylesheet" href="core/css/list.css">
+    <link rel="stylesheet" href="core/css/screen.css">
+</head>
+
+<body>
+    <!-- START -->
+    <div id="start" class="icon-hymnal-full active"></div>
+    <!-- APP -->
+    <div id="app">
+        <!-- MENU -->
+        <div id="menu">
+            <!-- FIRST -->
+            <div id="first">
+                <div id="header">
+                    <input type="text" onfocus="javascript:inputTextFocused = true" onfocusout="javascript:inputTextFocused = false" oninput="searchItem(event.target.value)" placeholder="Buscar una Alabanza" class="inputText" oninput="searchSongItem(value)">
+                </div>
+                <div id="main">
+                    <div class="container">
+                        <div class="header">
+                            <button onclick="upScroll('first')" class="scrollButton icon-up-white" disabled></button>
+                        </div>
+                        <div class="main">
+                            <div onscroll="checkScrollingList('first')" class="list"></div>
+                        </div>
+                        <div class="footer">
+                            <button onclick="downScroll('first')" class="scrollButton icon-down-white" disabled></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- SECOND -->
+            <div id="second">
+                <div id="header">
+                    <span class="label">diapositivas</span>
+                </div>
+                <div id="main">
+                    <div class="container">
+                        <div class="header">
+                            <button onclick="upScroll('second')" class="scrollButton icon-up-black" disabled></button>
+                        </div>
+                        <div class="main">
+                            <div onscroll="checkScrollingList('second')" class="list"></div>
+                        </div>
+                        <div class="footer">
+                            <button onclick="downScroll('second')" class="scrollButton icon-down-black" disabled></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- ALERT -->
+            <div id="alert" class="inactive">
+                <div>
+                    <div>
+                        <div id="message" class="inactive">
+                            <span id="title" class="label"></span>
+                            <span id="desc" class="label"></span>
+                            <div id="list"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- MAIN -->
+        <div id="main" class="mainApp">
+            <!-- HEADER -->
+            <div id="header">
+                <div class="left">
+                    <button onclick="openPrevItem()" id="backButton" class="actionButton icon-back-black" disabled></button>
+                </div>
+                <div class="center">
+                    <span id="elementTitle" onmouseover="this.title = this.innerText" class="label"></span>
+                </div>
+                <div class="right inactive">
+                    <button onclick="closeItem()" class="actionButton icon-close-black"></button>
+                </div>
+            </div>
+            <!-- MAIN -->
+            <div id="main">
+                <div class="screen"></div>
+            </div>
+            <!-- FOOTER -->
+            <div id="footer" class="inactive">
+                <div class="inner">
+                    <span class="label">diseño</span>
+                    <!-- BOX -->
+                    <div class="box design">
+                        <div></div>
+                    </div>
+                </div>
+                <div class="inner">
+                    <span class="label">diapositiva</span>
+                    <!-- BOX -->
+                    <div class="box">
+                        <div class="main">
+                            <div>
+                                <button onclick="controlManager('first')" class="actionButton icon-first-black"></button>
+                                <button onclick="controlManager('prev')" class="actionButton icon-prev-black"></button>
+                                <h1 class="index"></h1>
+                                <button onclick="controlManager('next')" class="actionButton icon-next-black"></button>
+                                <button onclick="controlManager('last')" class="actionButton icon-last-black"></button>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <div class="slider">
+                                <div class="progress"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="data/data.hymnal.min.js"></script>
+    <script src="data/data.colors.js"></script>
+    <script src="core/js/base.js"></script>
+    <script src="core/js/more.js"></script>
+    <script src="core/js/alert.js"></script>
+    <script src="core/js/scrollAssistant.js"></script>
+    <script src="core/js/items.js"></script>
+    <script src="core/js/diapositives.js"></script>
+    <script src="core/js/memory.js"></script>
+    <script src="core/js/screen.js"></script>
+    <script src="core/js/controls.js"></script>
+    <script src="core/js/keys.js"></script>
+    <script src="core/js/design.js"></script>
+</body>
+
+</html>

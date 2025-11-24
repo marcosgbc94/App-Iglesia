@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" href="../public/images/bible-icon.ico" type="image/x-icon">
+    <title>Santa Biblia</title>
+    <!-- CONFIG CSS -->
+    <link rel="stylesheet" href="../config/public.config.css">
+    <link rel="stylesheet" href="../config/colors.config.css">
+    <link rel="stylesheet" href="../config/bible.config.css">
+    <!-- PUBLIC CSS -->
+    <link rel="stylesheet" href="../public/css/fonts.css">
+    <link rel="stylesheet" href="../public/css/standard.css">
+    <link rel="stylesheet" href="../public/css/base.css">
+    <link rel="stylesheet" href="../public/css/icons.css">
+    <link rel="stylesheet" href="../public/css/animate.css">
+    <!-- LOCAL CSS -->
+    <link rel="stylesheet" href="core/css/main.css">
+    <link rel="stylesheet" href="core/css/menu.css">
+    <link rel="stylesheet" href="core/css/alert.css">
+    <link rel="stylesheet" href="core/css/list.css">
+    <link rel="stylesheet" href="core/css/screen.css">
+</head>
+<body>
+    <!-- START -->
+    <div id="start" class="icon-bible-full active"></div>
+    <!-- APP -->
+    <div id="app">
+        <!-- MENU -->
+        <div id="menu">
+            <!-- FIRST -->
+            <div id="first">
+                <div id="header">
+                    <span class="label">lecturas</span>
+                    <button onclick="addReader()" class="actionButton icon-add-white" title="Agregar una Nueva Lectura [F2]"></button>
+                </div>
+                <div id="main">
+                    <div id="readers" class="container">
+                        <div class="header">
+                            <button onclick="upScroll('first')" class="scrollButton icon-up-white" disabled></button>
+                        </div>
+                        <div class="main">
+                            <div ondrop="dropFirst(event)" ondragover="allowDrop(event)" class="list" onscroll="checkScrollingList('first')"></div>
+                        </div>
+                        <div class="footer">
+                            <button onclick="downScroll('first')" class="scrollButton icon-down-white" disabled></button>
+                        </div>
+                    </div>
+                </div>
+                <div id="preview" class="inactive fade-in"></div>
+            </div>
+            <!-- SECOND -->
+            <div id="second">
+                <div id="header">
+                    <div class="inputTextButton">
+                        <input onfocus="javascript:inputTextFocused = true; toggleConcord(this.value)" onfocusout="javascript:inputTextFocused = false" id="textConcord" type="text" placeholder="Concordancia" class="inputText">
+                        <button onclick="concordManager()" class="actionButton icon-search-gray" title="Buscar Concordancia"></button>
+                    </div>
+                    <div id="results" class="inactive fade-in">
+                        <div id="main">
+                            <div class="container">
+                                <div class="header">
+                                    <button onclick="upScroll('results')" class="scrollButton icon-up-black"></button>
+                                </div>
+                                <div class="main">
+                                    <div onscroll="checkScrollingList('results')" class="list"></div>
+                                </div>
+                                <div class="footer">
+                                    <button onclick="downScroll('results')" class="scrollButton icon-down-black"></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="footer">
+                            <button onclick="closeConcord()" class="textbreak">Cancelar</button>
+                        </div>
+                    </div>
+                </div>
+                <div id="main">
+                    <div class="tab">
+                        <div class="header">
+                            <button onclick="viewMenu('books')" class="books textbreak">libros</button>
+                            <button onclick="viewMenu('chapters')" class="chapters textbreak">capitulos</button class="textbreak">
+                            <button onclick="viewMenu('verses')" class="verses textbreak">versiculos</button class="textbreak">
+                        </div>
+                        <div class="main">
+                            <!-- BOOKS -->
+                            <div class="books inactive fade-in">
+                                <div class="main">
+                                    <div id="booksTab" class="container">
+                                        <div class="header">
+                                            <button onclick="upScroll('booksTab')" class="scrollButton icon-up-black" disabled></button>
+                                        </div>
+                                        <div class="main">
+                                            <div onscroll="checkScrollingList('booksTab')" class="list"></div>
+                                        </div>
+                                        <div class="footer">
+                                            <button onclick="downScroll('booksTab')" class="scrollButton icon-down-black" disabled></button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="footer">
+                                    <span class="label">busqueda rápida</span>
+                                    <div class="inputTextButton">
+                                        <input id="textBook" onfocus="javascript:inputTextFocused = true" onfocusout="javascript:inputTextFocused = false" type="text" placeholder="Escribir un Libro" class="inputText">
+                                        <button onclick="writeBook()" title="Buscar Libro" class="actionButton icon-search-gray"></button>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- CHAPTERS -->
+                            <div class="chapters inactive fade-in">
+                                <div class="main">
+                                    <div id="chaptersTab" class="container">
+                                        <div class="header">
+                                            <button onclick="upScroll('chaptersTab')" class="scrollButton icon-up-black" disabled></button>
+                                        </div>
+                                        <div class="main">
+                                            <div onscroll="checkScrollingList('chaptersTab')" class="list"></div>
+                                        </div>
+                                        <div class="footer">
+                                            <button onclick="downScroll('chaptersTab')" class="scrollButton icon-down-black" disabled></button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="footer">
+                                    <span class="label">busqueda rápida</span>
+                                    <div class="inputTextButton">
+                                        <input id="textChapter" onfocus="javascript:inputTextFocused = true" onfocusout="javascript:inputTextFocused = false" type="text" placeholder="Escribir un Capítulo" class="inputText">
+                                        <button onclick="writeChapter()" title="Buscar Capítulo" class="actionButton icon-search-gray"></button>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- VERSES -->
+                            <div class="verses inactive fade-in">
+                                <div class="main">
+                                    <div id="versesTab" class="container">
+                                        <div class="header">
+                                            <button onclick="upScroll('versesTab')" class="scrollButton icon-up-black" disabled></button>
+                                        </div>
+                                        <div class="main">
+                                            <div onscroll="checkScrollingList('versesTab')" class="list"></div>
+                                        </div>
+                                        <div class="footer">
+                                            <button onclick="downScroll('versesTab')" class="scrollButton icon-down-black" disabled></button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="footer">
+                                    <span class="label">busqueda rápida</span>
+                                    <div class="inputTextButton">
+                                        <input id="textVerse" onfocus="javascript:inputTextFocused = true" onfocusout="javascript:inputTextFocused = false" type="text" placeholder="Escribir un Versículo" class="inputText">
+                                        <button onclick="writeVerse()" title="Buscar Versículo" class="actionButton icon-search-gray"></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- ALERT -->
+            <div id="alert" class="inactive">
+                <div>
+                    <div>
+                        <div id="message" class="inactive">
+                            <span id="title" class="label"></span>
+                            <span id="desc" class="label"></span>
+                            <div id="list"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- MAIN -->
+        <div id="main" class="mainApp">
+            <div id="header" class="inactive">
+                <div class="center">
+                    <span id="elementTitle" onmouseover="this.title = this.innerText" class="label textbreak"></span>
+                </div>
+                <div class="right">
+                    <button onclick="closeAllOpened()" class="actionButton icon-close-black"></button>
+                </div>
+            </div>
+            <div id="main">
+                <div class="screen"></div>
+            </div>
+            <!-- FOOTER -->
+            <div id="footer" class="inactive">
+                <div class="inner">
+                    <span class="label">capítulo</span>
+                    <!-- BOX -->
+                    <div class="box boxChapters">
+                        <div class="main">
+                            <div>
+                                <button onclick="first('chapter')" title="Primer Capítulo" class="actionButton icon-first-black"></button>
+                                <button onclick="prev('chapter')" title="Retroceder un Capítulo" class="actionButton icon-prev-black"></button>
+                                <h1 class="index"></h1>
+                                <button onclick="next('chapter')" title="Avanzar un Capítulo" class="actionButton icon-next-black"></button>
+                                <button onclick="last('chapter')" title="Último Capítulo" class="actionButton icon-last-black"></button>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <div class="slider">
+                                <div class="progress"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="inner">
+                    <span class="label">versículo</span>
+                    <!-- BOX -->
+                    <div class="box boxVerses">
+                        <div class="main">
+                            <div>
+                                <button onclick="first('verse')" title="Primer Versículo" class="actionButton icon-first-black"></button>
+                                <button onclick="prev('verse')" title="Retroceder un Versículo" class="actionButton icon-prev-black"></button>
+                                <h1 class="index"></h1>
+                                <button onclick="next('verse')" title="Avanzar un Versículo" class="actionButton icon-next-black"></button>
+                                <button onclick="last('verse')" title="Último Versículo" class="actionButton icon-last-black"></button>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <div class="slider">
+                                <div class="progress"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="data/data.bible.min.js"></script>
+    <script src="core/js/more.js"></script>
+    <script src="core/js/scrollAssistant.js"></script>
+    <script src="core/js/elementManager.js"></script>
+    <script src="core/js/screens.js"></script>
+    <script src="core/js/readers.js"></script>
+    <script src="core/js/controls.js"></script>
+    <script src="core/js/concord.js"></script>
+    <script src="core/js/items.js"></script>
+    <script src="core/js/alert.js"></script>
+    <script src="core/js/base.js"></script>
+    <script src="core/js/keys.js"></script>
+</body>
+</html>

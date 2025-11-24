@@ -1,0 +1,84 @@
+/***** ICONS *****/
+
+/* BLACK */
+
+body .icon-up-black{
+    background-image: url(../images/up-black-32.png);
+}
+
+body .icon-down-black{
+    background-image: url(../images/down-black-32.png);
+}
+
+body .icon-prev-black{
+    background-image: url(../images/prev-black-32.png);
+}
+
+body .icon-next-black{
+    background-image: url(../images/next-black-32.png);
+}
+
+body .icon-first-black{
+    background-image: url(../images/first-black-32.png);
+}
+
+body .icon-last-black{
+    background-image: url(../images/last-black-32.png);
+}
+
+body .icon-close-black{
+    background-image: url(../images/close-black-32.png);
+}
+
+body .icon-back-black{
+    background-image: url(../images/back-black-32.png);
+    background-size: 22px;
+}
+
+body .icon-openItem-black{
+    background-image: url(../images/openitem-black-32.png);
+    background-size: 24px;
+}
+
+body .icon-openNewItem-black{
+    background-image: url(../images/opennewitem-black-32.png);
+    background-size: 24px;
+}
+
+/* WHITE */
+
+body .icon-up-white{
+    background-image: url(../images/up-white-32.png);
+}
+
+body .icon-down-white{
+    background-image: url(../images/down-white-32.png);
+}
+
+body .icon-add-white{
+    background-image: url(../images/add-white-32.png);
+}
+
+body .icon-close-white{
+    background-image: url(../images/close-white-32.png);
+}
+
+/* OTHERS */
+
+body .icon-search-gray{
+    background-image: url(../images/search-gray-32.png);
+}
+
+body .icon-bible-full{
+    background-image: url(../images/bible-full.png);
+}
+
+body .icon-hymnal-full{
+    background-image: url(../images/hymnal-full.png);
+}
+
+/* IMAGE ICONS */
+
+body .image-icon-saron{
+    background-image: url(../images/saron-icon.png);
+}

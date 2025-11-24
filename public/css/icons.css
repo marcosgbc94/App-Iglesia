@@ -63,6 +63,38 @@ body .icon-close-white{
     background-image: url(../images/close-white-32.png);
 }
 
+body .icon-back-white{
+    background-image: url(../images/back-white-32.png);
+    background-size: 22px;
+}
+
+body .icon-prev-white{
+    background-image: url(../images/prev-white-32.png);
+}
+
+body .icon-next-white{
+    background-image: url(../images/next-white-32.png);
+}
+
+body .icon-first-white{
+    background-image: url(../images/first-white-32.png);
+}
+
+body .icon-last-white{
+    background-image: url(../images/last-white-32.png);
+}
+
+body .icon-openItem-white{
+    background-image: url(../images/openitem-white-32.png);
+    background-size: 24px;
+}
+
+body .icon-openNewItem-white{
+    background-image: url(../images/opennewitem-white-32.png);
+    background-size: 24px;
+}
+
+
 /* OTHERS */
 
 body .icon-search-gray{

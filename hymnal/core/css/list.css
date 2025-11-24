@@ -112,7 +112,7 @@ body > #app > #menu > #second > #main > .container > .main > .list > button{
     margin-bottom: 5px;
     padding-bottom: 5px;
     border-radius: 10px;
-    background-color: var(--color-white-dark);
+    background-color: var(--color-black-dark);
     border: 1px solid transparent;
 }
 
@@ -121,16 +121,16 @@ body > #app > #menu > #second > #main > .container > .main > .list > button:last
 }
 
 body > #app > #menu > #second > #main > .container > .main > .list > button:hover:not(:disabled):not(.selected){
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #main > .container > .main > .list > button:active:not(:disabled):not(.selected){
-    background-color: var(--color-white-darker);
+    background-color: var(--color-black-light);
 }
 
 body > #app > #menu > #second > #main > .container > .main > .list > button.selected{
     border-color: var(--color-blue-medium);
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #main > .container > .main > .list > button > .text{
@@ -161,13 +161,13 @@ body > #app > #menu > #second > #main > .container > .main > .list > button > .t
     font-weight: 300;
     font-size: var(--second-list-text-fnsz);
     line-height: var(--second-list-text-fnsz);
-    color: var(--color-black-extra-dark);
+    color: var(--color-white-extra-light);
 }
 
 body > #app > #menu > #second > #main > .container > .main > .list > button > .text h1{
     font-size: calc(var(--second-list-text-fnsz) + 4px);
     line-height: calc(var(--second-list-text-fnsz) + 4px);
-    color: var(--color-black-extra-dark);
+    color: var(--color-white-extra-light);
     text-transform: uppercase;
 }
 
@@ -195,7 +195,7 @@ body > #app > #menu > #second > #main > .container > .main > .list > button > .l
     height: auto;
     margin-top: 5px;
     text-align: center;
-    color: var(--color-gray-extra-dark);
+    color: var(--color-gray-extra-light);
 }
 
 body > #app > #menu > #second > #main > .container > .main > .list > button.selected > .label{

@@ -249,7 +249,8 @@ let hymnal = {
             "favorite": "No",
             "internals": "",
             "body": [
-                {"diapositive": ""}
+                {"diapositive": "gfgfgfgf"},
+                {"diapositive": "dfdfdfd"}
             ]
         },
         {

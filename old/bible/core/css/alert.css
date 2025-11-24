@@ -1,0 +1,100 @@
+/***** ALERT *****/
+
+body > #app > #menu > #alert{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+body > #app > #menu > #alert > div{
+    display: table;
+    width: 100%;
+    height: 100%;
+    padding: 10px var(--alert-pd);
+}
+
+body > #app > #menu > #alert > div > div{
+    display: table-cell;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+body > #app > #menu > #alert > div > div > #message{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: var(--color-white-extra-light);
+}
+
+body > #app > #menu > #alert > div > div > #message > #title{
+    font-size: var(--alert-title-fnsz);
+    padding: 0;
+    color: var(--color-black-extra-dark);
+    margin-bottom: 5px;
+}
+
+body > #app > #menu > #alert > div > div > #message > #desc{
+    font-size: var(--alert-desc-fnsz);
+    padding: 0;
+    text-transform: none;
+    color: var(--color-black-light);
+    margin-bottom: 5px;
+}
+
+body > #app > #menu > #alert > div > div > #message > #list{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding-top: 5px;
+}
+
+body > #app > #menu > #alert > div > div > #message > #list > button{
+    display: inline-block;
+    width: calc(50% - 5px);
+    height: var(--actionButton-sz);
+    padding: 0 15px;
+    border-radius: 10px;
+    background-color: var(--color-white-medium);
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--color-black-extra-dark);
+}
+
+body > #app > #menu > #alert > div > div > #message > #list > button:last-child{
+    margin-left: 5px;
+}
+
+body > #app > #menu > #alert > div > div > #message > #list > button:first-child{
+    margin-left: 0;
+}
+
+body > #app > #menu > #alert > div > div > #message > #list > button:hover:not(:disabled):not(.cancel){
+    background-color: var(--color-white-dark);
+}
+
+body > #app > #menu > #alert > div > div > #message > #list > button:active:not(:disabled):not(.cancel){
+    background-color: var(--color-white-extra-dark);
+}
+
+body > #app > #menu > #alert > div > div > #message > #list > button.accept:hover:not(:disabled){
+    background-color: var(--color-blue-light);
+    color: var(--color-white-extra-light);
+}
+
+body > #app > #menu > #alert > div > div > #message > #list > button.accept:active:not(:disabled){
+    background-color: var(--color-blue-medium);
+}
+
+body > #app > #menu > #alert > div > div > #message > #list > button.cancel:hover:not(:disabled){
+    background-color: var(--color-red-light);
+    color: var(--color-white-extra-light);
+}
+
+body > #app > #menu > #alert > div > div > #message > #list > button.cancel:active:not(:disabled){
+    background-color: var(--color-red-medium);
+}

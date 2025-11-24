@@ -2,7 +2,7 @@
 
 :root{
     /* FIRST MENU */
-    --first-wd: 250px;
+    --first-wd: 300px;
     /* RESULTS */
     --results-cancel-fnsz: 16px;
     --results-item-title-fnsz: 16px;
@@ -12,7 +12,7 @@
     /* SECOND LIST */
     --second-list-fnsz: 16px;
     /* SCREEN */
-    --screen-fnsz: 6vw;
+    --screen-fnsz: 5vw;
     --screen-h1-fnsz: 4vw;
     --screen-h1-span-fnsz: 2vw;
     --screen-h4-fnsz: 2vw;

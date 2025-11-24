@@ -5,7 +5,7 @@ body > #app > #menu{
     width: var(--menu-wd);
     height: 100%;
     left: 0;
-    background-color: var(--color-white-medium);
+    background-color: var(--color-black-extra-dark);
 }
 
 /*** FIRST ***/
@@ -96,7 +96,7 @@ body > #app > #menu > #second > #header{
 }
 
 body > #app > #menu > #second > #header > .label{
-    color: var(--color-gray-extra-dark);
+    color: var(--color-gray-extra-light);
     line-height: calc(var(--header-hg) - (((var(--header-hg) - var(--actionButton-sz)) / 2) * 2));
     text-align: center;
 }
@@ -109,21 +109,21 @@ body > #app > #menu > #second > #main{
 }
 
 body > #app > #menu > #second > #main .scrollButton:hover:not(:disabled){
-    background-color: var(--color-white-dark);
+    background-color: var(--color-black-dark);
 }
 
 body > #app > #menu > #second > #main .scrollButton:active:not(:disabled){
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #main > .container > .main > .list::-webkit-scrollbar-thumb{
-    background-color: var(--color-white-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #main > .container > .main > .list::-webkit-scrollbar-thumb:hover{
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-light);
 }
 
 body > #app > #menu > #second > #main > .container > .main > .list::-webkit-scrollbar-thumb:active{
-    background-color: var(--color-white-darker);
+    background-color: var(--color-black-extra-light);
 }

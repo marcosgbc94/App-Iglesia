@@ -1,0 +1,39 @@
+/***** PUBLIC CONFIG *****/
+
+:root{
+    /* SCROLL */
+    --scroll-wd: 8px;
+    /* BODY */
+    --body-bgcl: white;
+    /* ACTION BUTTON */
+    --actionButton-sz: 46px;
+    --actionButton-bgsz: 28px;
+    /* SCROLL BUTTON */
+    --scrollButton-sz: 36px;
+    --scrollButton-bgsz: 26px;
+    /* LABEL */
+    --label-fnsz: 14px;
+    /* INPUT TEXT */
+    --inputText-hg: 50px;
+    --inputText-fnsz: 16px;
+    /* TAB */
+    --tab-header-fnsz: 16px;
+    --tab-header-bgsz: 28px;
+    /* HEADER */
+    --header-hg: 65px;
+    /* FOOTER */
+    --footer-hg: 145px;
+    /* MENU */
+    --menu-wd: 590px;
+    /* BOX */
+    --box-total-fnsz: 18px;
+    --box-slider-hg: 10px;
+    /* SCREEN */
+    --screen-br: 10px;
+    /* TITLE */
+    --title-fnsz: 24px;
+    /* ALERT */
+    --alert-pd: 20px;
+    --alert-title-fnsz: 22px;
+    --alert-desc-fnsz: 16px;
+}

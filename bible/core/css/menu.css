@@ -5,7 +5,7 @@ body > #app > #menu{
     width: var(--menu-wd);
     height: 100%;
     left: 0;
-    background-color: var(--color-white-medium);
+    background-color: var(--color-black-extra-dark);
 }
 
 /*** FIRST ***/
@@ -131,24 +131,24 @@ body > #app > #menu > #second > #header > .inputTextButton{
 }
 
 body > #app > #menu > #second > #header > .inputTextButton > .inputText{
-    background-color: var(--color-white-dark);
-    color: var(--color-black-extra-dark);
+    background-color: var(--color-black-dark);
+    color: var(--color-white-extra-light);
 }
 
 body > #app > #menu > #second > #header > .inputTextButton > .inputText:focus{
-    background-color: var(--color-white-extra-light);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #header > .inputTextButton > .actionButton{
-    background-color: var(--color-white-dark);
+    background-color: var(--color-black-dark);
 }
 
 body > #app > #menu > #second > #header > .inputTextButton > .actionButton:hover:not(:disabled){
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #header > .inputTextButton > .actionButton:active:not(:disabled){
-    background-color: var(--color-white-darker);
+    background-color: var(--color-black-light);
 }
 
 body > #app > #menu > #second > #header > #results{
@@ -158,16 +158,16 @@ body > #app > #menu > #second > #header > #results{
     left: calc(var(--first-wd) + 10px);
     top: var(--header-hg);
     border-radius: 10px;
-    background-color: var(--color-white-dark);
+    background-color: var(--color-black-dark);
     z-index: 10;
 }
 
 body > #app > #menu > #second > #header > #results .scrollButton:hover:not(:disabled){
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #header > #results .scrollButton:active:not(:disabled){
-    background-color: var(--color-white-darker);
+    background-color: var(--color-black-light);
 }
 
 body > #app > #menu > #second > #header > #results > #main{
@@ -178,19 +178,19 @@ body > #app > #menu > #second > #header > #results > #main{
 }
 
 body > #app > #menu > #second > #header > #results > #main > .container > .main > .list::-webkit-scrollbar-thumb{
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #header > #results > #main > .container > .main > .list::-webkit-scrollbar-thumb:hover{
-    background-color: var(--color-white-darker);
+    background-color: var(--color-black-light);
 }
 
 body > #app > #menu > #second > #header > #results > #main > .container > .main > .list::-webkit-scrollbar-thumb:active{
-    background-color: var(--color-gray-extra-light);
+    background-color: var(--color-black-extra-light);
 }
 
 body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .header{
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #header > #results > #footer{
@@ -204,8 +204,9 @@ body > #app > #menu > #second > #header > #results > #footer{
 body > #app > #menu > #second > #header > #results > #footer > button{
     width: 100%;
     height: var(--actionButton-sz);
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-medium);
     border-radius: 10px;
+	color: var(--color-white-extra-light);
     padding: 0 10px;
     font-family: "Montserrat";
     font-weight: 400;
@@ -214,7 +215,6 @@ body > #app > #menu > #second > #header > #results > #footer > button{
 
 body > #app > #menu > #second > #header > #results > #footer > button:hover:not(:disabled){
     background-color: var(--color-red-light);
-    color: var(--color-white-extra-light);
 }
 
 body > #app > #menu > #second > #header > #results > #footer > button:active:not(:disabled){
@@ -229,20 +229,20 @@ body > #app > #menu > #second > #main{
 }
 
 body > #app > #menu > #second > #main > .tab > .header > button{
-    color: var(--color-gray-medium);
+    color: var(--color-gray-extra-light);
 }
 
 body > #app > #menu > #second > #main > .tab > .header > button:hover:not(:disabled):not(.selected){
-    background-color: var(--color-white-dark);
+    background-color: var(--color-black-dark);
 }
 
 body > #app > #menu > #second > #main > .tab > .header > button:active:not(:disabled):not(.selected){
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #main > .tab > .header > button.selected{
-    color: var(--color-black-extra-dark);
-    background-color: var(--color-white-dark);
+    color: var(--color-white-extra-light);
+    background-color: var(--color-black-dark);
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .main{
@@ -256,7 +256,7 @@ body > #app > #menu > #second > #main > .tab > .main > div > .main *{
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .main > .container{
-    background-color: var(--color-white-dark);
+    background-color: var(--color-black-dark);
     border-radius: 10px;
 }
 
@@ -269,23 +269,23 @@ body > #app > #menu > #second > #main > .tab > .main > div > .main > #booksTab >
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .main > .container .scrollButton:hover:not(:disabled){
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .main > .container .scrollButton:active:not(:disabled){
-    background-color: var(--color-white-darker);
+    background-color: var(--color-black-light);
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .main > .container .list::-webkit-scrollbar-thumb{
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .main > .container .list::-webkit-scrollbar-thumb:hover{
-    background-color: var(--color-white-darker);
+    background-color: var(--color-black-light);
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .main > .container .list::-webkit-scrollbar-thumb:active{
-    background-color: var(--color-gray-extra-light);
+    background-color: var(--color-black-extra-light);
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .footer{
@@ -296,7 +296,7 @@ body > #app > #menu > #second > #main > .tab > .main > div > .footer{
 
 body > #app > #menu > #second > #main > .tab > .main > div > .footer > .label{
     height: auto;
-    color: var(--color-gray-extra-dark);
+    color: var(--color-gray-extra-light);
     margin-bottom: 5px;
 }
 
@@ -305,22 +305,22 @@ body > #app > #menu > #second > #main > .tab > .main > div > .footer > .inputTex
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .footer > .inputTextButton > .inputText{
-    background-color: var(--color-white-dark);
-    color: var(--color-black-extra-dark);
+    background-color: var(--color-black-dark);
+    color: var(--color-white-extra-light);
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .footer > .inputTextButton > .inputText:focus{
-    background-color: var(--color-white-extra-light);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .footer > .inputTextButton > .actionButton{
-    background-color: var(--color-white-dark);
+    background-color: var(--color-black-dark);
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .footer > .inputTextButton > .actionButton:hover:not(:disabled){
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .footer > .inputTextButton > .actionButton:active:not(:disabled){
-    background-color: var(--color-white-darker);
+    background-color: var(--color-black-light);
 }

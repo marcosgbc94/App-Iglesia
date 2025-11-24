@@ -1,0 +1,201 @@
+/***** LIST *****/
+
+/* FIRST LIST */
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader{
+    display: block;
+    width: 100%;
+    height: var(--actionButton-sz);
+    border-radius: 10px;
+    margin-bottom: 5px;
+    transition: .25s all;
+    background-position: center -10px;
+    background-repeat: no-repeat;
+    background-size: 28px;
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader.over{
+   background-image: url(../../../public/images/minus-white-32.png);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader.selected.over{
+    background-image: url(../../../public/images/minus-black-32.png);
+ }
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader:last-child{
+    margin-bottom: 0;
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader:hover:not(:disabled):not(.selected){
+    background-color: var(--color-red-dark);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader:active:not(:disabled):not(.selected){
+    background-color: var(--color-red-extra-dark);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader.selected{
+    background-color: var(--color-white-extra-light);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader > .openReaderButton{
+    display: block;
+    float: left;
+    width: calc(100% - var(--actionButton-sz));
+    height: 100%;
+    text-align: left;
+    padding: 0 10px;
+    font-family: "Quicksand";
+    font-weight: 500;
+    font-size: var(--first-list-fnsz);
+    color: var(--color-white-extra-light);
+    text-transform: uppercase;
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader.selected > .openReaderButton{
+    color: var(--color-red-medium);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader > .actionButton{
+    display: block;
+    float: left;
+    border-radius: 10px;
+    background-image: url(../../../public/images/close-white-32.png);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader > .actionButton:hover:not(:disabled):not(.selected){
+    background-color: var(--color-red-extra-dark);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader > .actionButton:active:not(:disabled):not(.selected){
+    background-color: var(--color-red-darker);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader.selected > .actionButton{
+    background-image: url(../../../public/images/close-black-32.png);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader.selected > .actionButton:hover:not(:disabled){
+    background-color: var(--color-white-light);
+}
+
+body > #app > #menu > #first > #main > .container > .main > .list > .reader.selected > .actionButton:active:not(:disabled){
+    background-color: var(--color-white-medium);
+}
+
+/* SECOND LIST */
+
+body > #app > #menu > #second > #main > .tab > .main > div > .main > #booksTab .list > .label{
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    color: var(--color-gray-dark);
+}
+
+body > #app > #menu > #second > #main > .tab > .main > div > .main > .container .list > button{
+    display: inline-block;
+    width: var(--actionButton-sz);
+    height: var(--actionButton-sz);
+    border-radius: 100%;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: var(--second-list-fnsz);
+    color: var(--color-black-extra-dark);
+    text-transform: capitalize;
+    margin-bottom: 4px;
+    margin-left: 4px;
+}
+
+body > #app > #menu > #second > #main > .tab > .main > div > .main > .container .list > button:last-child{
+    margin-bottom: 0;
+}
+
+body > #app > #menu > #second > #main > .tab > .main > div > .main > .container .list > button:hover:not(:disabled):not(.selected){
+    background-color: var(--color-white-extra-dark);
+}
+
+body > #app > #menu > #second > #main > .tab > .main > div > .main > .container .list > button:active:not(:disabled):not(.selected){
+    background-color: var(--color-white-darker);
+}
+
+body > #app > #menu > #second > #main > .tab > .main > div > .main > .container .list > button.selected{
+    background-color: var(--color-red-medium);
+    color: var(--color-white-extra-light);
+}
+
+body > #app > #menu > #second > #main > .tab > .main > div > .main > #booksTab .list > button{
+    width: calc(50% - 5px);
+    padding: 0 10px;
+    border-radius: 10px;
+}
+
+/* RESULTS LIST */
+
+body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: 5px;
+}
+
+body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div:last-child{
+    margin-bottom: 0;
+}
+
+body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .header{
+    display: block;
+    width: 100%;
+    height: calc(var(--actionButton-sz) + 10px);
+    padding: 5px 0;
+    border-radius: 100px;
+}
+
+body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .header > .label{
+    float: left;
+    width: calc(100% - ((var(--actionButton-sz) * 2) + 10px));
+    font-size: var(--results-item-title-fnsz);
+    line-height: var(--actionButton-sz);
+}
+
+body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .header > .actionButton{
+    float: right;
+    margin-right: 5px;
+}
+
+body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .header > .actionButton:hover:not(:disabled){
+    background-color: var(--color-white-darker);
+}
+
+body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .header > .actionButton:active:not(:disabled){
+    background-color: var(--color-white-darkest);
+}
+
+body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .text{
+    display: block;
+    width: 100%;
+    height: auto;
+    font-family: "Heebo";
+    font-weight: 300;
+    font-size: var(--results-item-text-fnsz);
+    color: var(--color-gray-extra-dark);
+    padding: 5px 10px;
+}
+
+body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .text > span{
+    display: block;
+    margin-left: 20px;
+    width: calc(100% - 20px);
+}
+
+body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .text > h1{
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: calc(var(--results-item-text-fnsz) + 4px);
+    line-height: calc(var(--results-item-text-fnsz) + 10px);
+    padding: 10px 0;
+}
+
+body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .text > h1 > span{
+    display: none;
+}

@@ -136,7 +136,7 @@ body .tab > .header > button{
 }
 
 body .tab > .header > button.selected{
-    background-image: url(../images/minus-black-32.png);
+    background-image: url(../images/minus-white-32.png);
 }
 
 body .tab > .main{

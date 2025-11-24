@@ -59,13 +59,13 @@
                 <div id="main">
                     <div class="container">
                         <div class="header">
-                            <button onclick="upScroll('second')" class="scrollButton icon-up-black" disabled></button>
+                            <button onclick="upScroll('second')" class="scrollButton icon-up-white" disabled></button>
                         </div>
                         <div class="main">
                             <div onscroll="checkScrollingList('second')" class="list"></div>
                         </div>
                         <div class="footer">
-                            <button onclick="downScroll('second')" class="scrollButton icon-down-black" disabled></button>
+                            <button onclick="downScroll('second')" class="scrollButton icon-down-white" disabled></button>
                         </div>
                     </div>
                 </div>
@@ -88,13 +88,13 @@
             <!-- HEADER -->
             <div id="header">
                 <div class="left">
-                    <button onclick="openPrevItem()" id="backButton" class="actionButton icon-back-black" disabled></button>
+                    <button onclick="openPrevItem()" id="backButton" class="actionButton icon-back-white" disabled></button>
                 </div>
                 <div class="center">
                     <span id="elementTitle" onmouseover="this.title = this.innerText" class="label"></span>
                 </div>
                 <div class="right inactive">
-                    <button onclick="closeItem()" class="actionButton icon-close-black"></button>
+                    <button onclick="closeItem()" class="actionButton icon-close-white"></button>
                 </div>
             </div>
             <!-- MAIN -->
@@ -116,11 +116,11 @@
                     <div class="box">
                         <div class="main">
                             <div>
-                                <button onclick="controlManager('first')" class="actionButton icon-first-black"></button>
-                                <button onclick="controlManager('prev')" class="actionButton icon-prev-black"></button>
+                                <button onclick="controlManager('first')" class="actionButton icon-first-white"></button>
+                                <button onclick="controlManager('prev')" class="actionButton icon-prev-white"></button>
                                 <h1 class="index"></h1>
-                                <button onclick="controlManager('next')" class="actionButton icon-next-black"></button>
-                                <button onclick="controlManager('last')" class="actionButton icon-last-black"></button>
+                                <button onclick="controlManager('next')" class="actionButton icon-next-white"></button>
+                                <button onclick="controlManager('last')" class="actionButton icon-last-white"></button>
                             </div>
                         </div>
                         <div class="footer">
@@ -133,8 +133,9 @@
             </div>
         </div>
     </div>
-
-    <script src="data/data.hymnal.min.js"></script>
+	
+    <!-- Se cambia por data.hymnal sin compresion -->
+    <script src="data/data.hymnal.js"></script>
     <script src="data/data.colors.js"></script>
     <script src="core/js/base.js"></script>
     <script src="core/js/more.js"></script>

@@ -1,0 +1,81 @@
+/***** STANDARD *****/
+
+/* ALL */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scrollbar-width: thin;
+    scroll-behavior: smooth;
+    vertical-align: baseline;
+    background: transparent;
+    cursor: default;
+    border: none;
+    outline: none;
+}
+
+/* SCROLL */
+
+::-webkit-scrollbar{
+    width: var(--scroll-wd);
+}
+
+::-webkit-scrollbar-thumb{
+    width: var(--scroll-wd);
+    border-radius: var(--scroll-wd);
+}
+
+/* DRAGGABLE */
+
+[draggable] {
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -khtml-user-drag: element;
+    -webkit-user-drag: element;
+}
+
+/* ELEMENTS */
+
+button, a{
+    cursor: pointer;
+    background-color: transparent;
+    transition: .25s all;
+    text-decoration: none;
+}
+
+button *, a *{
+    cursor: pointer;
+}
+
+button:disabled, a:disabled{
+    cursor: not-allowed;
+    opacity: .4;
+}
+
+button:disabled *, a:disabled *{
+    cursor: not-allowed;
+}
+
+textarea, input[type="text"], input[type="number"]{
+    cursor: pointer;
+    transition: .25s all;
+}
+
+textarea:focus, input[type="text"]:focus, input[type="number"]:focus{
+    cursor: text;
+}
+
+/* BODY */
+
+title{
+    text-transform: capitalize;
+}
+
+body{
+    scroll-behavior: smooth;
+    background-color: var(--body-bgcl);
+    overflow: hidden;
+}

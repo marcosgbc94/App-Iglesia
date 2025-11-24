@@ -90,7 +90,7 @@ body > #app > #menu > #second > #main > .tab > .main > div > .main > #booksTab .
     margin-top: 5px;
     margin-bottom: 5px;
     text-align: center;
-    color: var(--color-gray-dark);
+    color: var(--color-gray-light);
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .main > .container .list > button{
@@ -101,7 +101,7 @@ body > #app > #menu > #second > #main > .tab > .main > div > .main > .container 
     font-family: "Montserrat";
     font-weight: 400;
     font-size: var(--second-list-fnsz);
-    color: var(--color-black-extra-dark);
+    color: var(--color-white-extra-light);
     text-transform: capitalize;
     margin-bottom: 4px;
     margin-left: 4px;
@@ -112,11 +112,11 @@ body > #app > #menu > #second > #main > .tab > .main > div > .main > .container 
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .main > .container .list > button:hover:not(:disabled):not(.selected){
-    background-color: var(--color-white-extra-dark);
+    background-color: var(--color-black-medium);
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .main > .container .list > button:active:not(:disabled):not(.selected){
-    background-color: var(--color-white-darker);
+    background-color: var(--color-black-light);
 }
 
 body > #app > #menu > #second > #main > .tab > .main > div > .main > .container .list > button.selected{
@@ -156,6 +156,7 @@ body > #app > #menu > #second > #header > #results > #main > .container > .main 
     width: calc(100% - ((var(--actionButton-sz) * 2) + 10px));
     font-size: var(--results-item-title-fnsz);
     line-height: var(--actionButton-sz);
+	color: var(--color-white-extra-light);
 }
 
 body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .header > .actionButton{
@@ -164,11 +165,11 @@ body > #app > #menu > #second > #header > #results > #main > .container > .main 
 }
 
 body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .header > .actionButton:hover:not(:disabled){
-    background-color: var(--color-white-darker);
+    background-color: var(--color-black-light);
 }
 
 body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .header > .actionButton:active:not(:disabled){
-    background-color: var(--color-white-darkest);
+    background-color: var(--color-black-extra-light);
 }
 
 body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .text{
@@ -178,7 +179,7 @@ body > #app > #menu > #second > #header > #results > #main > .container > .main 
     font-family: "Heebo";
     font-weight: 300;
     font-size: var(--results-item-text-fnsz);
-    color: var(--color-gray-extra-dark);
+    color: var(--color-white-extra-light);
     padding: 5px 10px;
 }
 
@@ -194,6 +195,7 @@ body > #app > #menu > #second > #header > #results > #main > .container > .main 
     font-size: calc(var(--results-item-text-fnsz) + 4px);
     line-height: calc(var(--results-item-text-fnsz) + 10px);
     padding: 10px 0;
+	color: var(--color-white-dark);
 }
 
 body > #app > #menu > #second > #header > #results > #main > .container > .main > .list > div > .text > h1 > span{

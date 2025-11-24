@@ -182,11 +182,11 @@ function concordItem(book, chapter, verse, content, titleVerse){
                 title.className = "label textbreak";
                 title.innerHTML = book + " " + (chapter + 1) + ":" + (verse + 1);
                 let openHere = document.createElement("button");
-                openHere.className = "actionButton icon-openItem-black";
+                openHere.className = "actionButton icon-openItem-white";
                 openHere.setAttribute("title", "Abrir en esta lectura");
                 openHere.setAttribute("onclick", "openConcordItemHere('" + book + "', " + chapter + ", " + verse + ")");
                 let openNewTab = document.createElement("button");
-                openNewTab.className = "actionButton icon-openNewItem-black";
+                openNewTab.className = "actionButton icon-openNewItem-white";
                 openNewTab.setAttribute("onclick", "openConcordItemNewTab('" + book + "', " + chapter + ", " + verse + ")");
                 openNewTab.setAttribute("title", "Abrir en una nueva lectura");
                 header.appendChild(title);

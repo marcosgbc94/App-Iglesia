@@ -4,7 +4,7 @@
     /* SCROLL */
     --scroll-wd: 8px;
     /* BODY */
-    --body-bgcl: white;
+    --body-bgcl: black;
     /* ACTION BUTTON */
     --actionButton-sz: 46px;
     --actionButton-bgsz: 28px;
@@ -20,11 +20,11 @@
     --tab-header-fnsz: 16px;
     --tab-header-bgsz: 28px;
     /* HEADER */
-    --header-hg: 65px;
+    --header-hg: 55px;
     /* FOOTER */
-    --footer-hg: 145px;
+    --footer-hg: 210px;
     /* MENU */
-    --menu-wd: 590px;
+    --menu-wd: 660px;
     /* BOX */
     --box-total-fnsz: 18px;
     --box-slider-hg: 10px;
