@@ -702,7 +702,7 @@
         },
 
         {
-            "code": "B007",
+            "code": "B008",
             "name": "basta que me toques, señor",
             "info": "",
             "type": "coro",
