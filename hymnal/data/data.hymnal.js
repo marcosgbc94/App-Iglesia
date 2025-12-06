@@ -1,11 +1,12 @@
 ﻿let data = {
     "praise": [
-{
+        {
             "code": "A001",
             "name": "a cada instante de mi vida",
             "info": "página 88 número 131",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>a cada<br/>instante<br/>de mi vida</h1><h3>página <strong>88</strong> número <strong>131</strong></h3>"},
                 {"slide": "<i>//</i>Señor yo<br />quiero construir<br />una habitación y<br />vivir junto a ti.<i>//</i>"},
@@ -30,6 +31,7 @@
             "info": "andrae crouch",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>a dios<br />sea la<br />gloria</h1><h3>andrae crouch</h3>"},
                 {"slide": "Como podré agradecer<br />tanto amor que<br />me has dado a mi<br />cosas tan maravillosas<br />que no logro<br />comprender."},
@@ -53,6 +55,7 @@
             "info": "página 148 número 18",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>a jesucristo<br/>ven sin tardar</h1><h3>página <strong>148</strong> número <strong>18</strong></h3>"},
                 {"slide": "A Jesucristo<br />ven sin tardar,<br />que entre nosotros<br />hoy Él está,<br />y te convida<br />con dulce afán,<br />tierno diciendo: “Ven”"},
@@ -70,6 +73,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>a la casa<br />de jairo<br />iba jesús</h1>"},
                 {"slide": "A la casa de<br />Jairo iba Jesús,<br />una gran multitud<br />iba tras Él,"},
@@ -93,6 +97,7 @@
             "info": "página 164 número 62",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>a solas<br />con jesús</h1><h3>página <strong>164</strong> número <strong>62</strong></h3>"},
                 {"slide": "A solas al<br />huerto yo voy,<br />cuando duerme<br />aún la floresta;"},
@@ -113,6 +118,7 @@
             "info": "marcela gándara",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>a tí sea<br />la gloria</h1><h3>marcela gándara<br/>abel zavala</h3>"},
                 {"slide": "No existen más<br />motivos Señor<br />venimos hoy<br />rendidos a tí"},
@@ -134,6 +140,7 @@
             "info": "página 5 número 3",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>adonai</h1><h3>página <strong>5</strong> número <strong>3</strong></h3>"},
                 {"slide": "<i>//</i>¡Oh, Adonai,<br />oh, Adonai!<br />Dios del universo,<br />Señor de la creación.<i>//</i>"},
@@ -150,6 +157,7 @@
             "info": "página 135 número 82",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>ahora que<br />estoy en tu<br />presencia</h1><h3>página <strong>135</strong> número <strong>82</strong></h3>"},
                 {"slide": "Ahora que estoy<br />en tu presencia,<br />quiero decirte<br />cuánto te amo."},
@@ -168,6 +176,7 @@
             "info": "página 72 número 54",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>al estar aquí</h1><h3>página <strong>72</strong> número <strong>54</strong></h3>"},
 
@@ -193,6 +202,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>al mundo paz</h1>"},
                 {"slide": "¡Al mundo paz,<br />nació Jesús,<br />nació ya<br />nuestro Rey!"},
@@ -210,6 +220,7 @@
             "info": "página 28 número 103",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>al que está<br />sentado en<br />el trono</h1><h3>página <strong>28</strong> número <strong>103</strong></h3>"},
                 {"slide": "Vi una gran multitud<br />de todo pueblo y nación,<br />postrados sobre<br />su rostro<br />adoran al que Vive."},
@@ -225,9 +236,10 @@
         {
             "code": "A012",
             "name": "alaba a dios",
-            "info": "hna. irene",
+            "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>alaba a dios</h1><h3>hna. irene</h3>"},
                 {"slide": "Dios no<br />rechaza oración,<br />oración es<br />alimento."},
@@ -262,6 +274,7 @@
             "info": "página 121 número 2",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>alabad<br />a jehová</h1><h3>página <strong>121</strong> número <strong>2</strong></h3>"},
 
@@ -280,6 +293,7 @@
             "info": "página 121 número 1",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>alabaré</h1><h3>página <strong>121</strong> número <strong>1</strong></h3>"},
 
@@ -300,6 +314,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>allí no habrá<br />tribulación</h1>"},
                 {"slide": "En la mansión,<br />do Cristo está<br />allí no habrá tribulación<br />ningún pesar,<br />ningún dolor<br />que me quebrante<br />el corazón."},
@@ -319,6 +334,7 @@
             "info": "infantil",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>alzad<br />las manos</h1><h3>infantil</h3>"},
                 {"slide": "<i>//</i>Alzad las manos,<br />y dadle la<br />Gloria a Dios.<i>//</i><br />Alzad las manos<br />y alabadle<br />como niños del Señor."},
@@ -336,6 +352,7 @@
             "info": "marcos witt",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>amante<br />de tí, señor</h1><h3>marcos witt<br/>gadiel espinoza</h3>"},
                 {"slide": "Bendito Salvador<br />has conquistado<br />mi corazón<br />has enamorado<br />todo lo que soy."},
@@ -356,6 +373,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>amémonos<br/>de corazón</h1>"},
                 {"slide": "<i>//</i>Amémonos<br />de corazón,<br />no de labios<br />ni fingido.<i>//</i>"},
@@ -379,6 +397,7 @@
             "info": "página 126 número 28",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>amor<br />tan<br />grande</h1><h3>página <strong>126</strong> número <strong>28</strong></h3>"},
                 {"slide": "Amor tan grande,<br />profundo y sublime<br />es el amor<br />de mi Creador."},
@@ -398,6 +417,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>ángeles<br />cantando<br />están</h1>"},
                 {"slide": "Ángeles cantando están<br />tan dulcísima canción;<br />las montañas su eco dan<br />como fiel contestación."},
@@ -415,6 +435,7 @@
             "info": "luigi castro",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>anhelo<br />conocerte<br />espíritu santo</h1><h3>luigi castro</h3>"},
                 {"slide": "Anhelo conocerte<br />Espíritu Santo<br />anhelo siempre estar<br />cerca de tí."},
@@ -443,6 +464,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>ardiendo<br />en fuego</h1>"},
                 {"slide": "<i>//</i>Ardiendo en fuego,<br />en mi alma está,<br />gloriosa llama<br />me limpiará;<br />oh Aleluya en mi alma<br />ardiendo está.<i>//</i>"},
@@ -460,6 +482,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>alegre en<br>la semana</h1>"},
                 {"slide": "El Domingo<br>estoy contento<br>El Lunes tengo paz<br>El Martes lleno<br>de su amor<br>y todo lo demás"},
@@ -476,6 +499,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>allá en<br>el cielo</h1>"},
                 {"slide": "<i>///</i>Allá en el cielo<i>///</i>"},
@@ -494,6 +518,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>alguien está <br>aquí, y yo sé<br> que es Cristo</h1>"},
                 {"slide": "Alguien está aquí<br>Y yo sé que es Cristo<br>Alguien está aquí<br>Y yo sé que es el Señor"},
@@ -512,6 +537,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>abre mis ojos,<br/>oh cristo</h1>"},
                 {"slide": "<i>//</i>Abre mis ojos, oh, Cristo<br/>Abre mis ojos, te pido<br/>Yo quiero verte<br/>Yo quiero verte<i>//</i>"},
@@ -527,6 +553,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>babilonia</h1>"},
                 {"slide": "Babilonia con<br />todo su esplendor<br />bajo el mando del<br />rey soberano"},
@@ -562,6 +589,7 @@
             "info": "gladys muñoz",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>bautízame</h1><h3>gladys muñoz</h3>"},
                 {"slide": "Señor has de mi vida<br />un instrumento afinado<br />quiero servirte Señor,<br />con poder,<br />con estusiasmo"},
@@ -579,6 +607,7 @@
             "info": "página 147 número 16",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>bellas<br />mansiones</h1><h3>página <strong>147</strong> número <strong>16</strong></h3>"},
 
@@ -604,6 +633,7 @@
             "info": "página 170 número 78",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>bellas<br />palabras<br />de vida</h1><h3>página <strong>170</strong> número <strong>78</strong></h3>"},
 
@@ -623,6 +653,7 @@
             "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>bendito dios</h1>"},
                 {"slide": "No sabía que<br />Cristo me amaba,<br />no sabia que<br />Él murió por mi,"},
@@ -643,6 +674,7 @@
             "info": "página 121 número 3",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>bendito<br />sea jehová<br />la roca</h1><h3>página <strong>121</strong> número <strong>3</strong></h3>"},
                 {"slide": "Bendito sea Jehová la roca,<br />por toda la eternidad,<br />escondedero y mi refugio,<br />eres tú, Bendito Jehová.<br />En tu palabra esperaré,<br />y mi confianza en tí pondré,<br />oh Gloria, oh Aleluya,<br /><i>////</i>Amén<i>////</i>"},
@@ -655,6 +687,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>busca la<br />bendición<br />de dios</h1>"},
                 {"slide": "<i>///</i>Busca la<br />bendición<br />de Dios,<i>///</i><br /><i>//</i>Él te la dará,<br />te la dará.<i>//</i>"},
@@ -674,6 +707,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>basta<br />que me toques,<br />señor</h1>"},
                 {"slide": "<i>//</i>Basta que me<br />toques, Señor<i>//</i>"},
@@ -693,6 +727,7 @@
             "info": "jesús adrían romero",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>cada día</h1><h3>jesús adrían romero<br />pecos romero</h3>"},
                 {"slide": "Mi corazón<br />confiado está<br />porque yo te conozco<br />y en medio<br />de la tempestad<br />nunca estoy sólo."},
@@ -715,6 +750,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>Cada día<br>con Cristo</h1>"},
                 {"slide": "Cada día con Cristo<br>me llena de perfecta paz<br>Cada día con Cristo<br>me llena más y más"},
@@ -731,6 +767,7 @@
             "info": "página 172 número 82",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>canta,<br />¡oh buen<br />cristiano!</h1><h3>página <strong>172</strong> número <strong>82</strong></h3>"},
                 {"slide": "¡Canta, oh<br />buen cristiano!<br />dulce será cantar,<br />haz el camino llano,<br />libra el pesar."},
@@ -748,6 +785,7 @@
             "info": "página 12 número 29",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>cantad a jehová<br />cántico nuevo</h1><h3>página <strong>12</strong> número <strong>29</strong></h3>"},
                 {"slide": "<i>//</i>Cantad a Jehová<br />cántico nuevo<br />porque ha hecho<br />grandes maravillas.<i>//</i>"},
@@ -764,6 +802,7 @@
             "info": "página 24 número 88",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>cantaré<br />al señor<br />por siempre</h1><h3>página <strong>24</strong> número <strong>88</strong></h3>"},
                 {"slide": "<i>//</i>Cantaré al Señor<br />por siempre.<br />Su diestra<br />es todo poder.<i>//</i>"},
@@ -784,6 +823,7 @@
             "info": "página 145 número 12",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>cara a cara<br />espero verle</h1><h3>página <strong>145</strong> número <strong>12</strong></h3>"},
 
@@ -813,6 +853,7 @@
             "info": "página 6 número 4",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>celebrad<br />a cristo</h1><h3>página <strong>6</strong> número <strong>4</strong></h3>"},
                 {"slide": "<i>////</i>Celebrad<br />a Cristo,<br />celebrad<i>////</i>"},
@@ -830,6 +871,7 @@
             "info": "página 159 número 49",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>cerca de<br />ti señor</h1><h3>página <strong>159</strong> número <strong>49</strong></h3>"},
                 {"slide": "Cerca de ti Señor,<br />quiero morar;<br />tu grande, tu tierno<br />amor quiero gozar."},
@@ -847,6 +889,7 @@
             "info": "página 5 número 1",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>chile,<br />vamos a<br />cambiar</h1><h3>página <strong>5</strong> número <strong>1</strong></h3>"},
                 {"slide": "<i>//</i>Hoy es tiempo de compartir,<br />es el día, no hay que esperar.<br />Tú y yo debemos hablar,<br />es tiempo de actuar.<br />A Cristo, debemos levantar,<br />a Cristo debemos exaltar.<i>//</i>"},
@@ -862,6 +905,7 @@
             "info": "popurrí",
             "type": "mix",
             "desc": "salmo 42 como el siervo brama<br/>salmo 48 grande es jehová<br/>salmo 66 aclamad a dios con alegría",
+            "cc": false,
             "body": [
                 {"slide": "<h4>mix</h4><h1>como<br />el siervo<br />brama</h1><h3>popurrí</h3>"},
                 {"slide": "Como el siervo brama,<br />por las corrientes<br />de las aguas,<br />así clama por ti,<br />oh Dios el alma mía."},
@@ -882,6 +926,7 @@
             "info": "página 79 número 86",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>como<br />el siervo</h1><h3>página <strong>79</strong> número <strong>86</strong></h3>"},
                 {"slide": "Como el siervo brama<br />por las corrientes<br />de las aguas,<br />así clama por ti, Señor."},
@@ -904,6 +949,7 @@
             "info": "página 10 número 20",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>como<br />hizo<br />david</h1><h3>página <strong>10</strong> número <strong>20</strong></h3>"},
                 {"slide": "<i>//</i>Como hizo David<br />delante de Dios,<br />yo danzaré<br />y me gozaré<br />delante de mi Rey.<i>//</i>"},
@@ -919,6 +965,7 @@
             "info": "jesús adrían romero",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>como<br />la brisa</h1><h3>jesús adrían romero</h3>"},
                 {"slide": "Abro el corazón y<br />las ventanas,<br />cuando empieza<br />la mañana,<br />por si quieres hoy venir."},
@@ -944,6 +991,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>como ladrón<br />en la noche</h1>"},
                 {"slide": "<i>//</i>Como ladrón en la noche<i>//</i><br />así será, la venida del<br />Hijo del Hombre,<br />eso lo dice la Biblia,<br />la Biblia no sabe mentir,<br /><i>//</i>que su venida será<br />como ladrón en la noche.<i>//</i>"},
@@ -953,9 +1001,10 @@
         {
             "code": "C015",
             "name": "como no creer en dios",
-            "info": "hna. irene",
+            "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>como no<br />creer en dios</h1><h3>hna. irene</h3>"},
                 {"slide": "Yo te llevo desde<br />niño muy adentro<br />te he encontraba<br />en el pájaro y la flor,"},
@@ -977,6 +1026,7 @@
             "info": "página 29 número 105",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>con mi dios,<br />yo asaltaré</h1><h3>página <strong>29</strong> número <strong>105</strong></h3>"},
                 {"slide": "<i>//</i>Con mi Dios yo<br />asaltaré los muros<br />con mi Dios ejércitos<br />derribaré,<i>//</i>"},
@@ -995,6 +1045,7 @@
             "info": "página 148 número 19",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>cristo es<br />la peña<br />de horeb</h1><h3>página <strong>148</strong> número <strong>19</strong></h3>"},
                 {"slide": "<i>//</i>Cristo es la<br />peña de Horeb,<br />que está brotando,<br />agua de vida<br />saludable para ti.<i>//</i>"},
@@ -1017,6 +1068,7 @@
             "info": "página 157 número 45",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>cristo<br />la roca</h1><h3>página <strong>157</strong> número <strong>45</strong></h3>"},
                 {"slide": "En las olas inmensas<br />de embravecido mar,<br />que asaltan de mi alma<br />la pobre embarcación,"},
@@ -1037,6 +1089,7 @@
             "info": "página 62 número 3",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>cristo,<br />te exalto</h1><h3>página <strong>62</strong> número <strong>3</strong></h3>"},
                 {"slide": "<i>//</i>Cristo, te exalto,<br />Cristo, te adoro<br />porque tú<br />eres mi Señor,<br />sólo a ti daré<br />la Gloria y Honor.<i>//</i>"},
@@ -1053,6 +1106,7 @@
             "info": "página 65 número 23",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>cuán bello<br />es él señor</h1><h3>página <strong>65</strong> número <strong>23</strong></h3>"},
                 {"slide": "<i>//</i>Cuán bello es Él Señor,<br />cuán hermoso<br />es Él Señor,<br/>cuán bello es Él Señor,<br />hoy le quiero adorar.<i>//</i>"},
@@ -1069,6 +1123,7 @@
             "info": "página 20 número 71",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>cuán<br />dulces<br />son</h1><h3>página <strong>20</strong> número <strong>71</strong></h3>"},
                 {"slide": "Cúan dulces<br />son a mi sed,<br />tus palabras,<br />más que la miel,<br />en mi boca sedienta."},
@@ -1085,6 +1140,7 @@
             "info": "página 163 número 59",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>cuán gloriosa<br />será la mañana</h1><h3>página <strong>163</strong> número <strong>59</strong></h3>"},
                 {"slide": "Cuán gloriosa<br />será la mañana,<br />cuando venga Jesús<br />el Salvador;"},
@@ -1108,6 +1164,7 @@
             "info": "página 163 número 61",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>¡cuán<br />grande<br />es él!</h1><h3>página <strong>163</strong> número <strong>61</strong></h3>"},
                 {"slide": "Señor mi Dios,<br />al contemplar<br />los cielos,<br />el firmamento y<br />las estrellas mil."},
@@ -1131,6 +1188,7 @@
             "info": "página 146 número 13",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>cuando allá<br />se pase lista</h1><h3>página <strong>146</strong> número <strong>13</strong></h3>"},
                 {"slide": "Cuando la<br />trompeta suene<br />en aquél día final,<br />y que el alba eterna<br />rompa en claridad;"},
@@ -1152,6 +1210,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>cuando<br />cristo<br />venga<br />en gloria</h1>"},
                 {"slide": "<i>//</i>Cuando Cristo<br />venga en Gloria,<br />yo no me voy<br />a quedar.<i>//</i>"},
@@ -1170,6 +1229,7 @@
             "info": "página 123 número 15",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>cuando el<br />pueblo<br />del señor</h1><h3>página <strong>123</strong> número <strong>15</strong></h3>"},
                 {"slide": "<i>//</i>Cuando el pueblo del<br />Señor alaba a Dios,<br />suceden cosas,<br />suceden cosas<br />maravillosas.<i>//</i>"},
@@ -1187,6 +1247,7 @@
             "info": "página 162 número 58",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>cuando<br />él vino a<br />mi corazón</h1><h3>página <strong>162</strong> número <strong>58</strong></h3>"},
                 {"slide": "¡Cuán glorioso es el cambio<br />operado en mi ser<br />viniendo a mi vida el Señor!<br />hay en mi alma una paz<br />que yo ansiaba tener:<br />la paz que me trajo su amor."},
@@ -1204,6 +1265,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>cuando venga<br />el señor de<br />los cielos</h1>"},
                 {"slide": "<i>//</i>Cuando venga<br />el Señor de los cielos<br />estés vivo o<br />estés muerto,<br />¿que cuentas le darás?<i>//</i>"},
@@ -1222,6 +1284,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>cuando venga<br />el señor</h1>"},
                 {"slide": "Cuando venga el Señor<br />y te pregunte<br />por tu talento,<br />¿que dirás al<br />Señor del talento<br />que Cristo te dio?"},
@@ -1238,6 +1301,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>¿cuántas<br />veces señor,<br />perdonaré?</h1>"},
                 {"slide": "<i>//</i>¿Cuántas veces<br />Señor perdonaré?<i>//</i><br />Oh yo quiero perdonar,<br />quiero hacer tu voluntad,<br />¿cuantas veces<br />Señor perdonaré?"},
@@ -1250,6 +1314,7 @@
             "info": "lilly goodman",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>cúbreme</h1><h3>lilly goodman</h3>"},
                 {"slide": "<i>//</i>Cúbreme...<br />abrázame...<br />y escóndeme<br />bajo tus alas,<br />Oh Señor<i>//</i>"},
@@ -1271,6 +1336,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h1>cumpleaños<br>feliz</h1>"},
                 {"slide": "<i>//</i>Un año más de<br>la mano del Señor<i>//</i><br><i>//</i>Pasan días, pasan meses,<br>pasan años mas yo iré,<br>de la mano de<br>la mano del Señor.<i>//</i>"},
@@ -1283,6 +1349,7 @@
             "info": "página 65 número 23",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>cuán bello<br />es él señor</h1><h3>página <strong>65</strong> número <strong>23</strong></h3>"},
                 {"slide": "Cuán bello es Él Señor,<br />cuán hermoso<br />es Él Señor,<br/>cuán bello es Él Señor,<br />hoy le quiero adorar."},
@@ -1298,9 +1365,10 @@
         {
             "code": "D002",
             "name": "dame más sabiduría",
-            "info": "hna. irene",
+            "info": "",
             "type": "himno",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>himno</h4><h1>dame más<br />sabiduría</h1><h3>hna. irene</h3>"},
                 {"slide": "Señor,<br />manifiesta tu poder,<br />haz que<br />vuelva a renacer,<br />en mi corazón;"},
@@ -1320,6 +1388,7 @@
             "info": "jesús adrián romero",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>dame tus ojos</h1><h3>jesús adrián romero<br />marcela gándara</h3>"},
                 {"slide": "Dame tus ojos<br />quiero ver<br />dame tus palabras,<br />quiero hablar<br />dame tu parecer."},
@@ -1342,6 +1411,7 @@
             "info": "página 65 número 22",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>de gloria,<br />en gloria</h1><h3>página <strong>65</strong> número <strong>22</strong></h3>"},
                 {"slide": "De Gloria, en<br />Gloria te veo,<br />cuanto más<br />te conozco,<br />quiero saber<br />más de ti."},
@@ -1361,6 +1431,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>de tal<br />manera<br />me amó</h1>"},
                 {"slide": "Crucificado por<br />mí fue Jesús,<br />de tal manera me amó,<br />sin murmurar fue<br />llevado a la cruz,<br />de tal manera me amó."},
@@ -1378,6 +1449,7 @@
             "info": "abel zavala",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>de tal manera</h1><h3>abel zavala</h3>"},
                 {"slide": "De tal manera me amó<br />que su vida no escatimó<br />hasta el final<br />Él se entregó<br />y a la muerte fue<br />porque me amó."},
@@ -1392,9 +1464,10 @@
         {
             "code": "D007",
             "name": "deja penetrar la luz",
-            "info": "hna. irene",
+            "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>deja<br />penetrar<br />la luz</h1><h3>hna. irene</h3>"},
                 {"slide": "Si al enemigo<br />teme combatir,<br />si estás en tinieblas<br />y sin porvenir,"},
@@ -1418,6 +1491,7 @@
             "info": "página 85 número 115",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>delante de<br />tu trono</h1><h3>página <strong>85</strong> número <strong>115</strong></h3>"},
                 {"slide": "<i>//</i>Delante de<br />tu trono, Señor,<br />yo quiero estar,<br />para contemplar<br />tú hermosura<br />y santidad.<i>//</i>"},
@@ -1434,6 +1508,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>demos gracias</h1>"},
                 {"slide": "<i>//</i>Demos gracias<br />al Señor<br />demos gracias,<br />demos gracias<br />al Señor.<i>//</i>"},
@@ -1451,6 +1526,7 @@
             "info": "página 124 número 17",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>despierta<br />mi ser</h1><h3>página <strong>124</strong> número <strong>17</strong></h3>"},
                 {"slide": "<i>//</i>Despierta mi ser,<br />para amarte, oh Señor,<br />despierta mi ser,<br />para derramarlo<br />delante de ti.<i>//</i>"},
@@ -1466,6 +1542,7 @@
             "info": "página 154 número 35",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>dilo a<br/>cristo</h1><h3>página <strong>154</strong> número <strong>35</strong></h3>"},
                 {"slide": "Cuando estés<br />cansado y abatido.<br /><i>//</i>Dilo a Cristo<i>//</i><br />si te sientes<br />débil, confundido,<br />dilo a Cristo el Señor."},
@@ -1485,6 +1562,7 @@
             "info": "página 130 número 52",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>dios<br />está<br />aquí</h1><h3>página <strong>130</strong> número <strong>52</strong></h3>"},
                 {"slide": "<i>//</i>Dios está aquí,<br />qué precioso es,<br />Él nos prometió<br />donde hay<br />dos o tres,<i>//</i>"},
@@ -1507,6 +1585,7 @@
             "info": "página 121 número 4",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>dios<br />estás<br />aquí</h1><h3>página <strong>121</strong> número <strong>4</strong></h3>"},
                 {"slide": "<i>//</i>Dios estás aquí,<br />tan cierto como<br />el aire que respiro,<br />tan cierto como<br />la mañana se levanta,<br />tan cierto que<br />cuando le hablo<br />y Él me puede oír.<i>//</i>"},
@@ -1519,6 +1598,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>divino<br />compañero</h1>"},
                 {"slide": "Divino compañero<br />del camino,<br />tu presencia siento<br />yo al transitar,"},
@@ -1542,6 +1622,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>¿dónde están<br />los que decían<br />aleluya?</h1>"},
                 {"slide": "<i>//</i>Y ¿dónde están los<br />que decían Aleluya?<br />y ¿dónde están los que<br />decían Gloria a Dios?<br />¿dónde están que se<br />les busca y no los hayan?<br />El Señor su Iglesia levanto.<i>//</i>"},
@@ -1554,6 +1635,7 @@
             "info": "página 154 número 36",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>dulce<br />comunión</h1><h3>página <strong>154</strong> número <strong>36</strong></h3>"},
                 {"slide": "Dulce comunión,<br />la que gozo ya<br />en los brazos<br />de mi Salvador."},
@@ -1575,6 +1657,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>Coro</h4><h1>Deja que<br>el Espíritu<br>tome todo<br>el control</h1>"},
                 {"slide": "Deja que el Espíritu<br>tome todo el control<br>De toda tu vida<br>y toda situación"},
@@ -1595,9 +1678,10 @@
         {
             "code": "E001",
             "name": "el alfarero",
-            "info": "hna. irene",
+            "info": "",
             "type": "himno",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>himno</h4><h1>el alfarero</h1><h3>hna. irene</h3>"},
                 {"slide": "Un día orando<br />le dije a mi Señor:<br />tú el Alfarero<br />y yo el barro soy."},
@@ -1615,6 +1699,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>el amor de dios<br />es maravilloso</h1>"},
                 {"slide": "<i>///</i>El amor de Dios<br />es maravilloso<i>///</i><br />qué grande es<br />el amor de Dios."},
@@ -1633,6 +1718,7 @@
             "info": "gladys muñoz",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>el amor de<br />los amores</h1><h3>gladys muñoz</h3>"},
                 {"slide": "Cantaré al amor<br />de los amores,<br />buen amor,<br />dulce amor,<br />amor de Dios."},
@@ -1650,6 +1736,7 @@
             "info": "página 143 número 6",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>el<br />aposento<br />alto</h1><h3>página <strong>143</strong> número <strong>6</strong></h3>"},
                 {"slide": "En un aposento alto,<br />con unánime fervor,<br />ciento veinte esperaban,<br />la promesa del Señor."},
@@ -1669,6 +1756,7 @@
             "info": "infantil",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>el arca<br />de noé</h1><h3>infantil</h3>"},
                 {"slide": "Hombre muy famoso<br />en la historia fue Noé,<br />hizo un arca inmensa<br />que medía ochenta pies,"},
@@ -1686,6 +1774,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>el cantar<br />de los<br />cantares</h1>"},
                 {"slide": "El cantar de los<br/>cantares de la iglesia,<br/>que Jesucristo su amado<br/>esposo viene por ella,"},
@@ -1701,6 +1790,7 @@
             "info": "página 144 número 10",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>él<br />cuidará<br />de mí</h1><h3>página <strong>144</strong> número <strong>10</strong></h3>"},
                 {"slide": "¿Cómo podré estar triste,<br />cómo entre sombras ir;<br />cómo sentirme solo<br />y en el dolor vivir."},
@@ -1721,6 +1811,7 @@
             "info": "god concept",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>el espíritu<br />de dios está<br />en este lugar</h1><h3>god concept</h3>"},
                 {"slide": "El Espíritu de Dios<br />está en este lugar.<br />El Espíritu de Dios<br />se mueve en este lugar."},
@@ -1742,6 +1833,7 @@
             "info": "página 85 número 118",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>el es jehová</h1><h3>página <strong>85</strong> número <strong>118</strong></h3>"},
                 {"slide": "Él es Jehová,<br />Dios de la<br />Creación.<br />Él es Jehová,<br />Dios poderoso."},
@@ -1761,6 +1853,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>él levanta<br />mi cabeza<br />y es mi gloria</h1>"},
                 {"slide": "<i>//</i>Él levanta mi cabeza<br />y es mi gloria<i>//</i><br />Él es escudo<br />alrededor de mí,<br />Él levanta mi cabeza<br />y es mi gloria."},
@@ -1777,6 +1870,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>el líder<br />de galilea</h1>"},
                 {"slide": "<i>//</i>El Líder de Galilea,<br />pasando va.<i>//</i><br /><i>//</i>Déjalo que te toque,<br />déjalo que te toque,<br />déjalo que te toque,<br />recibe la bendición.<i>//</i>"},
@@ -1793,6 +1887,7 @@
             "info": "página 112 número 232",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>él me<br />levantará</h1><h3>página <strong>112</strong> número <strong>232</strong></h3>"},
                 {"slide": "<i>//</i>Él me levantará,<br />Él me levantará,<br />Él me levantará,<br />así es el Señor.<i>//</i>"},
@@ -1811,6 +1906,7 @@
             "info": "página 147 número 17",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>el mundo<br />no es mi hogar</h1><h3>página <strong>147</strong> número <strong>17</strong></h3>"},
                 {"slide": "La senda<br />ancha dejaré<br />yo quiero por<br />la angosta andar,"},
@@ -1834,6 +1930,7 @@
             "info": "página 34 número 123",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>el poderoso<br />de israel</h1><h3>página <strong>34</strong> número <strong>123</strong></h3>"},
                 {"slide": "<i>//</i>Él es el poderoso de Israel<i>//</i><br />su voz se oirá,<br />nadie lo detendrá,<br />al poderoso de Israel."},
@@ -1852,6 +1949,7 @@
             "info": "página 34 número 123",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>el poderoso<br />de israel</h1><h3>página <strong>34</strong> número <strong>123</strong></h3>"},
                 {"slide": "<i>//</i>Él poderoso de Israel<i>//</i><br />su voz se oirá,<br />nadie lo detendrá,<br />al poderoso de Israel."},
@@ -1870,6 +1968,7 @@
             "info": "página 158 número 46",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>el que<br />habita<br />al abrigo<br />de dios</h1><h3>página <strong>158</strong> número <strong>46</strong></h3>"},
                 {"slide": "El que habita<br />al abrigo de Dios<br />morará bajo<br />sombras de amor,"},
@@ -1893,6 +1992,7 @@
             "info": "página 169 número 75",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>el rey está<br />volviendo</h1><h3>página <strong>169</strong> número <strong>75</strong></h3>"},
                 {"slide": "El comercio está vacío<br />su trabajo terminó,<br />el martillo del obrero,<br />su bullicio, ya cesó."},
@@ -1916,6 +2016,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>el señor<br />está a<br />tu lado</h1>"},
                 {"slide": "El Señor está a tu lado,<br />el Señor está aquí,<br />déjalo entrar en tu vida,<br />el Señor te ama a ti."},
@@ -1932,6 +2033,7 @@
             "info": "página 17 número 54",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>el señor<br />marchando va</h1><h3>página <strong>17</strong> número <strong>54</strong></h3>"},
                 {"slide": "El Señor marchando va<br />y su pueblo<br />junto a Él está.<br />Su Gloria en nuestras<br />vidas brillará."},
@@ -1950,6 +2052,7 @@
             "info": "danny berrios",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>el shaddai</h1><h3>danny berrios</h3>"},
                 {"slide": "El Shaddai, el Shaddai,<br />El-elyon na Adonai,<br />siglo en siglo es igual<br />tu poder y tu majestad."},
@@ -1973,6 +2076,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>en el altar<br/>de dios</h1>"},
                 {"slide": "<i>//</i>En el altar de Dios,<br />en el altar de Dios<br />el fuego está<br />encendido<i>//</i>"},
@@ -1989,6 +2093,7 @@
             "info": "página 157 número 43",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>en el monte<br />calvario</h1><h3>página <strong>157</strong> número <strong>43</strong></h3>"},
                 {"slide": "En el monte calvario<br />estaba una cruz,<br />emblema de<br />afrenta y dolor,"},
@@ -2016,6 +2121,7 @@
             "info": "página 161 número 56",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>en la cruz</h1><h3>página <strong>161</strong> número <strong>56</strong></h3>"},
                 {"slide": "Me hirió el pecado,<br />fui a Jesús,<br />mostréle mi dolor;<br />perdido, errante vi su luz,<br />bendíjome en su amor."},
@@ -2039,6 +2145,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>en la iglesia<br />la gloria es<br />para dios</h1>"},
                 {"slide": "En la iglesia la Gloria<br />es para Dios,<br /><i>//</i>es para Dios<i>//</i><br />en la iglesia la Gloria<br />es para Dios,<br />ahora y por la eternidad,"},
@@ -2055,6 +2162,7 @@
             "info": "página 144 número 8",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>en la viña<br />del señor</h1><h3>página <strong>144</strong> número <strong>8</strong></h3>"},
                 {"slide": "Yo quiero trabajar<br />por el Señor,<br />confiando en<br />su Palabra<br />y en su amor:"},
@@ -2075,6 +2183,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>en mi<br />corazón hay<br />una canción</h1>"},
                 {"slide": "En mi corazón<br />hay una canción<br />que demuestra<br />mi pasión"},
@@ -2094,6 +2203,7 @@
             "info": "página 71 número 48",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>en ti</h1><h3>página <strong>71</strong> número <strong>48</strong></h3>"},
                 {"slide": "<i>//</i>En ti confía mi corazón.<br />en ti reposa mi alma,<br />mi ser descansa en ti,<br />puedo ser feliz.<i>//</i>"},
@@ -2110,6 +2220,7 @@
             "info": "página 160 número 53",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>entera<br />consagración</h1><h3>página <strong>160</strong> número <strong>53</strong></h3>"},
                 {"slide": "Que mi vida entera esté<br />consagrada a ti, Señor;<br />que a mis manos<br />pueda guiar,<br />el impulso de tu amor."},
@@ -2136,6 +2247,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>envía<br />la paloma</h1>"},
                 {"slide": "Envía la paloma<br />con fuego celestial,<br />descúbrele tu pecho<br />que quiere reposar,<br />desecha la tristeza<br />y empiézate a gozar,<br />que ahora Jesucristo<br />te quiere bautizar."},
@@ -2145,9 +2257,10 @@
         {
             "code": "E029",
             "name": "eran cien ovejas",
-            "info": "hna. irene",
+            "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>eran<br />cien<br />ovejas</h1><h3>hna. irene</h3>"},
                 {"slide": "Eran cien ovejas que<br />había en su rebaño,<br />eran cien ovejas<br />que amanté cuidó."},
@@ -2169,6 +2282,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>eres la<br/>luz de<br/>mis ojos</h1>"},
                 {"slide": "Eres la luz<br/>de mis ojos<br/>que alumbras<br/>mi camino<br/>fortaleza de mi vida<br/>y paz para mi alma."},
@@ -2186,6 +2300,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>¿eres limpio<br />en la sangre?</h1>"},
                 {"slide": "¿Has hallado en Cristo<br />plena salvación,<br />por la Sangre que<br />Cristo vertió?"},
@@ -2209,6 +2324,7 @@
             "info": "página 33 número 118",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>es exaltado<br />en lo alto</h1><h3>página <strong>33</strong> número <strong>118</strong></h3>"},
                 {"slide": "Es exaltado en lo alto,<br />es exaltado, es el Rey<br />y lo alabaré.<br />Es exaltado,<br />por siempre, exaltado,<br />su Nombre alabaré."},
@@ -2227,6 +2343,7 @@
             "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>es navidad</h1>"},
                 {"slide": "Un aire de paz<br />corre por las calles<br />pasa envolviendo<br />cada corazón"},
@@ -2248,6 +2365,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>esa zarza<br />que en<br />el monte</h1>"},
                 {"slide": "<i>//</i>Esa zarza<br />que en el monte<br />no cesaba<br />de arder<i>//</i>"},
@@ -2268,6 +2386,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>escucharte<br/>hablar</h1>"},
 
@@ -2293,6 +2412,7 @@
             "info": "jesús adrián romero",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>espérame</h1><h3>jesús adrián romero</h3>"},
                 {"slide": "Espérame por la mañana<br/>antes de que salga el sol<br/>antes que comience el dia<br/>quiero darte mi canción."},
@@ -2315,6 +2435,7 @@
             "info": "página 159 número 50",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>espíritu del<br />trino dios</h1><h3>página <strong>159</strong> número <strong>50</strong></h3>"},
                 {"slide": "<i>//</i>Espíritu del Trino Dios,<br />ven sobre mí,<i>//</i><br />quebrántame, consúmeme,<br />transfórmame y lléname.<br />Espíritu del Trino Dios,<br />ven sobre mí."},
@@ -2327,6 +2448,7 @@
             "info": "claudio freidzon",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>espíritu santo<br />te necesito</h1><h3>claudio freidzon<br/>iglesia rey de reyes</h3>"},
                 {"slide": "Espíritu Santo te necesito<br />manda tu fuego a este lugar<br />Espíritu Santo solo anhelo<br />mirar tu gloria y majestad."},
@@ -2344,6 +2466,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>esta alegría<br />no va a salir</h1>"},
                 {"slide": "<i>///</i>Esta alegría<br />no va a salir,<i>///</i><br />porque está dentro<br />de mi corazón."},
@@ -2360,6 +2483,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>esta alegría<br />que yo siento<br />en mi ser</h1>"},
                 {"slide": "<i>//</i>Esta alegría que yo<br />siento en mi ser,<br />es el poder de Dios,<br />es el poder de Dios.<i>//</i>"},
@@ -2378,6 +2502,7 @@
             "info": "josé luis reyes",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>está cayendo</h1><h3>josé luis reyes</h3>"},
                 {"slide": "<i>//</i>Algo está cayendo aquí<br />es tan fuerte sobre mi<br />mis manos levantaré<br />y su Gloria tocaré.<i>//</i>"},
@@ -2394,6 +2519,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>este avivamiento<br/>¿quién lo apagará?</h1>"},
 
@@ -2418,6 +2544,7 @@
             "info": "página 124 número 16",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>estoy alegre</h1><h3>página <strong>124</strong> número <strong>16</strong></h3>"},
                 {"slide": "Estoy alegre,<br />alegre muy alegre,<br />estoy alegre<br />porque Cristo<br />me salvó,"},
@@ -2434,6 +2561,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>estoy listo<br />si él me llama</h1>"},
                 {"slide": "Estoy listo si<br />Él me llama<br />a su viña a trabajar.<br/>Yo estaré en la viña,<br />trabajando,<br />en la viña del Señor."},
@@ -2447,6 +2575,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>embajadores<br />que a Cristo<br>representan</h1>"},
                 {"slide": "Embajadores que a<br>Cristo representan<br>En este mundo de<br>pecado y de maldad."},
@@ -2465,6 +2594,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>coro</h4><h1>está aquí<br />su gloria<br>está aquí</h1>"},
                 {"slide": "El Dios que<br>abrió el mar rojo,<br>el Dios que<br>levanto a Lázaro,<br>el Dios que<br>calmó la tempestad,<br>está aquí."},
@@ -2491,6 +2621,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>el rapto</h1>"},
                 {"slide": "Muy en breve,<br>va a salir<br>una noticia<br>Que un pueblo<br>desapareció"},
@@ -2514,6 +2645,7 @@
             "info": "página 79 número 84",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>el señor</br>es mi pastor</h1>"},
                 {"slide": "El Señor es mi Pastor,<br>nada me faltará.<br>El Señor es mi Pastor,<br>en pastos delicados,<br>Él me hará descansar."},
@@ -2532,6 +2664,7 @@
             "info": "página 159 número 51",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>firmes<br />y adelante</h1><h3>página <strong>159</strong> número <strong>51</strong></h3>"},
                 {"slide": "Firmes y adelante,<br />huestes de la fe<br />sin temor alguno,<br />que Jesús nos ve."},
@@ -2555,6 +2688,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>fuego<br />ha bajado<br />del cielo</h1>"},
                 {"slide": "<i>//</i>Fuego ha<br />bajado del cielo,<br />¿qué quieres que haga<br />si está encendido?<i>//</i>"},
@@ -2581,6 +2715,7 @@
             "info": "página 171 número 81",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>gloria a ti<br />jesús divino</h1><h3>página <strong>171</strong> número <strong>81</strong></h3>"},
                 {"slide": "¡Gloria a ti Jesús divino!<br />¡Gloria a ti<br />por tus bondades!<br />¡Gloria eterna a ti<br />por tus piedades!<br />querido Salvador."},
@@ -2602,6 +2737,7 @@
             "info": "página 32 número 113",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>glorifícate</h1><h3>página <strong>32</strong> número <strong>113</strong></h3>"},
                 {"slide": "Glorifícate, Señor,<br/>glorifícate, Señor.<br/>Y que todos<br/>tus enemigos<br/>caigan ante ti."},
@@ -2619,6 +2755,7 @@
             "info": "roberto orellana",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>gracias<br />quiero<br />darte</h1><h3>roberto orellana</h3>"},
                 {"slide": "Gracias quiero darte,<br />por lo grande de tu amor.<br />Gracias quiero darte,<br />amoroso y buen Jesús."},
@@ -2635,6 +2772,7 @@
             "info": "página 99 número 181",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>grande<br/>eres tú</h1><h3>página <strong>99</strong> número <strong>181</strong></h3>"},
                 {"slide": "<i>//</i>Queremos darte<br/>Gloria y Alabanza,<br/>levantamos<br/>nuestras manos,<br/>exaltándote, Señor.<i>//</i>"},
@@ -2651,6 +2789,7 @@
             "info": "página 146 número 14",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>grande<br />gozo hay<br />en mi alma</h1><h3>página <strong>146</strong> número <strong>14</strong></h3>"},
                 {"slide": "Grande gozo hay<br />en mi alma hoy,<br />pues Jesús conmigo está;<br />y su paz que<br />ya gozando estoy<br />por siempre durará."},
@@ -2674,6 +2813,7 @@
             "info": "página 19 número 64",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>grande y<br />fuerte es él</h1><h3>página <strong>19</strong> número <strong>64</strong></h3>"},
                 {"slide": "<i>//</i>Grande y fuerte es Él,<br />grande y fuerte es Él,<br />vestido de Gloria<br />arriba en los cielos,<br />grande y fuerte es Él.<i>//</i>"},
@@ -2690,6 +2830,7 @@
             "info": "página 145 número 11",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>grandes cosas<br />cristo ha hecho</h1><h3>página <strong>145</strong> número <strong>11</strong></h3>"},
                 {"slide": "Hallé un buen amigo<br />mi amado Salvador,<br />contaré lo que Él<br />ha hecho para mí;"},
@@ -2713,6 +2854,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>grandes<br />cosas<br />hizo dios</h1>"},
                 {"slide": "Grandes cosas hizo Dios,<br />todas hermosas para mi.<br />Fue el fruto de su amor,<br />que nos ha reunido aquí,"},
@@ -2729,6 +2871,7 @@
             "info": "página 18 número 60",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>grandes<br />son tus<br />maravillas</h1><h3>página <strong>18</strong> número <strong>60</strong></h3>"},
                 {"slide": "<i>//</i>Te alabaré, Oh Señor<br />invocaré, tu santo Nombre.<br />Siempre daré a conocer,<br />en los pueblos, tus obras.<i>//</i>"},
@@ -2745,6 +2888,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>grandes y<br />maravillosas<br />son tus obras</h1>"},
                 {"slide": "Grandes y maravillosas<br />son tus obras,<br />Señor, Dios Todopoderoso;<br />justos y verdaderos<br />son tus caminos,<br /><i>///</i>Rey de los santos.<i>///</i>"},
@@ -2761,6 +2905,7 @@
             "info": "página 40 número 149",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>grita<br />con júbilo</h1><h3>página <strong>40</strong> número <strong>149</strong></h3>"},
                 {"slide": "Grita con júbilo<br />a tu Señor,<br />porque Él la victoria<br />nos ha dado ya,<br />no hay arma contra ti<br />que prospere,"},
@@ -2781,6 +2926,7 @@
             "info": "página 155 número 38",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>hallé un<br />buen amigo</h1><h3>página <strong>155</strong> número <strong>38</strong></h3>"},
                 {"slide": "Hallé un buen amigo<br />mi amado Salvador,<br />contaré lo que Él<br />ha hecho para mí;"},
@@ -2801,6 +2947,7 @@
             "info": "popurrí",
             "type": "mix",
             "desc": "has cambiado mi lamento en baile<br />adonai",
+            "cc": false,
             "body": [
                 {"slide": "<h4>mix</h4><h1>has cambiado<br />mi lamento<br />en baile</h1><h3>popurrí</h3>"},
                 {"slide": "<i>//</i>Has cambiado mi<br />lamento en baile,<br />me ceñiste todo<br />de alegría<i>//</i>"},
@@ -2823,6 +2970,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>has cambiado<br />mi lamento<br />en baile</h1>"},
                 {"slide": "<i>//</i>Has cambiado mi<br />lamento en baile,<br />me ceñiste todo<br />de alegría<i>//</i>"},
@@ -2841,6 +2989,7 @@
             "info": "página 19 número 67",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>has ganado<br />la victoria</h1><h3>página <strong>19</strong> número <strong>67</strong></h3>"},
                 {"slide": "<i>//</i>Has ganado la victoria,<br />la victoria para mí.<br />Al pecado has vencido,<br />has ganado la batalla<br />tú por mí.<i>//</i>"},
@@ -2859,6 +3008,7 @@
             "info": "página 124 número 18",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>hay cosas<br />que yo no<br />comprendo</h1><h3>página <strong>124</strong> número <strong>18</strong></h3>"},
                 {"slide": "Hay cosas que<br />yo no comprendo,<br />lugares hay<br />donde yo no iré,"},
@@ -2879,6 +3029,7 @@
             "info": "página 80 número 91",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>hay momentos</h1><h3>página <strong>80</strong> número <strong>91</strong></h3>"},
                 {"slide": "<i>//</i>Hay momentos<br />que las palabras<br />no me alcanzan<br />para decirte lo<br />que siento,<br />por ti mi buen Señor.<i>//</i>"},
@@ -2895,6 +3046,7 @@
             "info": "página 167 número 71",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>hay poder<br />en jesús</h1><h3>página <strong>167</strong> número <strong>71</strong></h3>"},
                 {"slide": "¿Quieres ser salvo<br />de toda maldad?<br />tan sólo hay poder<br />en mi Jesús."},
@@ -2918,6 +3070,7 @@
             "info": "página 184 número 112",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>hay un canto<br />nuevo en mi ser</h1><h3>página <strong>184</strong> número <strong>112</strong></h3>"},
                 {"slide": "Hay un canto<br />nuevo en mi ser,<br />es la voz de mi Jesús,<br />que me dice:<br />“Ven a descansar,<br />tu paz conquisté<br />en la cruz”."},
@@ -2939,6 +3092,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>Hay un Lugar<br />Preparado<br />en los Cielos</h1>"},
                 {"slide": "<i>//</i>Hay un lugar<br />preparado en<br />los cielos<br />Hay un lugar<br />para los salvados.<i>//</i>"},
@@ -2955,6 +3109,7 @@
             "info": "página 180 número 103",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>hay un<br />mundo<br />feliz</h1><h3>página <strong>180</strong> número <strong>103</strong></h3>"},
                 {"slide": "Hay un mundo<br />feliz más allá,<br />donde moran los<br />santos en luz,<br />tributando eterno loor,<br />al invicto glorioso Jesús."},
@@ -2972,6 +3127,7 @@
             "info": "página 72 número 53",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>hay una<br />fuente<br />en mí</h1><h3>página <strong>72</strong> número <strong>53</strong></h3>"},
                 {"slide": "Hay una fuente en mí<br />que está brotando,<br />que está fluyendo<br />dentro de mí."},
@@ -2988,6 +3144,7 @@
             "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>hay una<br />senda</h1>"},
                 {"slide": "Hay una senda que el<br />mundo no conoce,<br />Cristo es la senda<br />que yo pude encontrar."},
@@ -3005,6 +3162,7 @@
             "info": "ingrid rosario",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>hay una<br />unción aquí</h1><h3>ingrid rosario</h3>"},
                 {"slide": "<i>//</i>Hay una unción aquí<br />callendo sobre mí<br />mudándome<br />cambiando mí ser.<i>//</i>"},
@@ -3022,6 +3180,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>hay victoria</h1>"},
                 {"slide": "<i>//</i>Hay victoria,<br />hay victoria,<br />en mi Jesús.<i>//</i>"},
@@ -3042,6 +3201,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>hay victoria<br/>en la sangre<br/>de jesús</h1>"},
                 {"slide": "<i>//</i>Hay victoria,<br />hay victoria,<br />hay victoria<br />en la sangre<br />de Jesús<i>//</i>"},
@@ -3060,6 +3220,7 @@
             "info": "página 122 número 7",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>hay vida,<br />hay vida<br />en jesús</h1><h3>página <strong>122</strong> número <strong>7</strong></h3>"},
                 {"slide": "<i>//</i>Hay vida,<br />hay vida<br />en Jesús<i>//</i>"},
@@ -3079,6 +3240,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>he aquí<br />vengo<br />pronto</h1>"},
                 {"slide": "Yo recuerdo que en un<br />sueño en una montaña<br />yo estaba sentada<br />y a través del cielo<br />azul oí una voz,"},
@@ -3096,6 +3258,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>he decidido<br />seguir a cristo</h1>"},
                 {"slide": "<i>///</i>He decidido<br />seguir a Cristo,<i>///</i><br />no vuelvo atrás,<br />no vuelvo atrás."},
@@ -3112,6 +3275,7 @@
             "info": "página 62 número 6",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>hermoso eres</h1><h3>página <strong>62</strong> número <strong>6</strong></h3>"},
                 {"slide": "En mi corazón<br />hay una canción<br />que demuestra<br />mi pasión"},
@@ -3136,6 +3300,7 @@
             "info": "página 32 número 114",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>¡hey!, me<br />siento feliz</h1><h3>página <strong>32</strong> número <strong>114</strong></h3>"},
                 {"slide": "<i>//</i>¡Hey!, me siento feliz,<br />si Cristo está en mi,<br />Él me llena de amor.<i>//</i>"},
@@ -3154,6 +3319,7 @@
             "info": "danny berrios",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>himno<br />de victoria</h1><h3>danny berrios</h3>"},
                 {"slide": "Él es el hombre<br />que tuvo poder<br />en andar sobre el mar,<br />¿quién es el que puede<br />hacer el mar callar?"},
@@ -3179,6 +3345,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>hinei ma tov</h1>"},
                 {"slide": "Hineumato umanaim,<br />sheve tajim cambiajam.<br />Hineumato umanaim,<br />sheve tajim cambiajam."},
@@ -3199,6 +3366,7 @@
             "info": "página 142 número 4",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>hogar de<br />mis recuerdos</h1><h3>página <strong>142</strong> número <strong>4</strong></h3>"},
                 {"slide": "Hogar de mis recuerdos,<br />a tí volver anhelo;<br />no hay sitio bajo el cielo<br />más dulce que el hogar."},
@@ -3219,6 +3387,7 @@
             "info": "renan carias",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>hombres<br />de valor</h1><h3>renan carias</h3>"},
                 {"slide": "¿Quién ira,<br />abriendo caminos,<br />forjando mejores destinos<br />pautas de amor<br />para la humanidad?"},
@@ -3244,6 +3413,7 @@
             "info": "página 36 número 130",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>hosanna</h1><h3>página <strong>36</strong> número <strong>130</strong></h3>"},
                 {"slide": "<i>//</i>Hosanna, hosanna<br />al Hijo de David.<i>//</i><br />Bendito el que viene<br />en el Nombre del Señor,<br />con todas las fuerzas<br />lo diga nuestra voz<br />y en las alturas hosanna."},
@@ -3256,6 +3426,7 @@
             "info": "página 9 número 16",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>hoy es<br/>tiempo</h1><h3>página <strong>9</strong> número <strong>16</strong></h3>"},
                 {"slide": "Tiempo de vivir,<br/>tiempo de morir.<br/>Tiempo de llorar,<br/>tiempo de reír.<br/>Tiempo de animar<br/>y de redargüir,<br/>hoy es tiempo…"},
@@ -3274,6 +3445,7 @@
             "info": "página 142 número 3",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>hubo quien<br />por mis<br />culpas muriera</h1><h3>página <strong>142</strong> número <strong>3</strong></h3>"},
                 {"slide": "Hubo quien<br />por mis culpas<br />muriera en la cruz<br />aún indigno<br />y vil como soy."},
@@ -3298,6 +3470,7 @@
             "info": "página 132 número 68",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>hay un<br />gran río</h1><h3>página <strong>132</strong> número <strong>68</strong></h3>"},
                 {"slide": "Hay un gran río<br>Que viene del Señor<br>Hay una fuente<br>Llena de su amor."},
@@ -3316,6 +3489,7 @@
             "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>iglesia pequeña</h1>"},
                 {"slide": "Recuerdo con nostalgia<br>a veces mi corazón llora,<br>ya llegó la noche,<br>no veo la hora de ir<br>a la iglesia a adorar a Dios,"},
@@ -3348,6 +3522,7 @@
             "info": "página 34 número 122",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>jehová es<br />mi guerrero</h1><h3>página <strong>34</strong> número <strong>122</strong></h3>"},
                 {"slide": "<i>//</i>Jehová es<br />mi guerrero,<br />¡Oh, oh, oh!<i>//</i>"},
@@ -3366,6 +3541,7 @@
             "info": "página 124 número 20",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>jehová reina</h1><h3>página <strong>124</strong> número <strong>20</strong></h3>"},
                 {"slide": "<i>//</i>Jehová reina<i>//</i><br />bendito sea el<br />Nombre del Señor."},
@@ -3384,6 +3560,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>jerusalén que<br />bonita eres</h1>"},
                 {"slide": "<i>//</i>Jerusalén<br />que bonita eres,<br />calles de oro,<br />mar de cristal.<i>//</i>"},
@@ -3400,6 +3577,7 @@
             "info": "leo dan",
             "type": "himno",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>himno</h4><h1>jesús es<br />mi pastor</h1><h3>leo dan</h3>"},
                 {"slide": "Jesús es mi pastor,<br />nada me faltará,<br />todo por el amor<br />que Él me tiene me da."},
@@ -3417,6 +3595,7 @@
             "info": "página 151 número 26",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>jesús es mi<br />rey soberano</h1><h3>página <strong>151</strong> número <strong>26</strong></h3>"},
                 {"slide": "Jesús es mi<br />Rey soberano,<br />mi gozo es<br />cantar su loor,"},
@@ -3437,6 +3616,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>jesús no<br />está muerto,<br />él está vivo</h1>"},
                 {"slide": "<i>///</i>Jesús no está muerto,<br />Él está vivo<i>///</i><br />alabale con las manos<br />alabale con los pies<br />alabale con todo tu ser."},
@@ -3449,6 +3629,7 @@
             "info": "roberto orellana",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>jesús y el<br />leproso</h1><h3>roberto orellana</h3>"},
                 {"slide": "Un hombre leproso<br />se acerca a<br />Jesús meditando,<br />y es tanta la<br />pena que lleva<br />por su enfermedad."},
@@ -3470,6 +3651,7 @@
             "info": "infantil",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>jonás no<br />le hizo caso</h1><h3>infantil</h3>"},
                 {"slide": "<i>///</i>Jonás no le hizo caso<br />a la Palabra de Dios.<br />por eso al mar profundo<br />la gente lo tiró<br />y vino un pez muy grande<br />y ¡glup! se lo tragó<br />porque no le hizo caso<br />a la Palabra de Dios.<i>///</i>"},
@@ -3487,6 +3669,7 @@
             "info": "stanislao marino",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>la gran<br />tribulación</h1><h3>stanislao marino</h3>"},
                 {"slide": "Se oye un grito,<br />un lamento, Un sollozo,<br />mucha gente está alarmada,<br />¿qué ha pasado?,<br />se preguntan,<br />¿qué ha pasado,<br />en el mundo? Mmmm..."},
@@ -3506,6 +3689,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>la iglesia<br />primera</h1>"},
                 {"slide": "¿Como poder volver<br />al tiempo ya olvidado?<br />¿cómo poder hacer<br />presente lo pasado?"},
@@ -3533,6 +3717,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>la madrugada</h1>"},
                 {"slide": "<i>//</i>La madrugada<br />aún estaba oscura<br />y yo buscaba<br />el rostro del Señor.<i>//</i>"},
@@ -3549,6 +3734,7 @@
             "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>la mujer<br />samaritana</h1>"},
                 {"slide": "La mujer samaritana,<br />a sacar el agua va,<br />sin pensar que<br />Jesucristo,<br />esperando está."},
@@ -3572,6 +3758,7 @@
             "info": "daniel calveti",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>la niña de<br />tus ojos</h1><h3>daniel calveti</h3>"},
                 {"slide": "<i>//</i>Me viste a mi,<br />cuando nadie me vio.<br />Me amaste a mi,<br />cuando nadie me amo.<i>//</i>"},
@@ -3589,6 +3776,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>la venida<br />de cristo</h1>"},
                 {"slide": "La venida de<br />Cristo se acerca,<br />pronto viene a su<br />Iglesia a buscar,"},
@@ -3616,6 +3804,7 @@
             "info": "página 7 número 10",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>las bodas<br />del cordero</h1><h3>página <strong>7</strong> número <strong>10</strong></h3>"},
                 {"slide": "Me gozaré, me alegraré,<br />y cantaré al Señor,<br />porque han<br />llegado las bodas<br />del Cordero de Dios."},
@@ -3636,6 +3825,7 @@
             "info": "página 165 número 67",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>las pisadas<br />del maestro</h1><h3>página <strong>165</strong> número <strong>67</strong></h3>"},
                 {"slide": "Quiero seguir las<br />pisadas del Maestro;<br />quiero ir en pos de mi<br />Rey y Señor;<br />y modelando por<br />él carácter,<br />canto con gozo a mi<br />Redentor."},
@@ -3655,6 +3845,7 @@
             "info": "samuel hernandez",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>levanto<br />mis manos</h1><h3>samuel hernandez</h3>"},
                 {"slide": "Levanto mis manos,<br />aunque no tenga fuerzas.<br />Levanto mis manos,<br />aunque tenga mil<br />problemas."},
@@ -3675,6 +3866,7 @@
             "info": "página 64 número 16",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>lléname<br/>señor</h1><h3>página <strong>64</strong> número <strong>16</strong></h3>"},
                 {"slide": "Como el siervo,<br />busca por las aguas,<br />así clama mi alma<br />por ti Señor,"},
@@ -3698,6 +3890,7 @@
             "info": "roberto orellana",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>lléname</h1><h3>roberto orellana<br/>blest</h3>"},
                 {"slide": "<i>//</i>Espíritu de Dios,<br />llena mi vida,<br />llena mi alma,<br />llena mi ser.<i>//</i>"},
@@ -3713,6 +3906,7 @@
             "info": "página 75 número 71",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>llévame<br />al lugar<br />santísimo</h1><h3>página <strong>75</strong> número <strong>71</strong></h3>"},
                 {"slide": "Señor llévame<br />a tus atrios<br />y al lugar santo,<br />al altar de bronce<br />Señor tu rostro<br />quiero ver."},
@@ -3731,6 +3925,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>lluvias<br />caerán</h1>"},
                 {"slide": "<i>//</i>Lluvias caerán<i>//</i><br />lluvias de gran poder,<br /><i>//</i>lluvias caerán<i>//</i><br />lluvias de gran poder."},
@@ -3747,6 +3942,7 @@
             "info": "página 144 número 1",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>lluvias<br />de gracia</h1><h3>página <strong>144</strong> número <strong>1</strong></h3>"},
                 {"slide": "Dios nos ha<br />dado promesas<br />lluvias de gracia enviaré,<br />dones que os<br />den fortaleza;<br />gran bendición os daré."},
@@ -3766,6 +3962,7 @@
             "info": "página 122 número 6",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>los hijos<br />de sion</h1><h3>página <strong>122</strong> número <strong>6</strong></h3>"},
                 {"slide": "Los hijos de Sion,<br />se gozan en su Rey,<br />alaban su Nombre<br />con danza,<br />con pandero y arpa,<br />cantan alabanzas,<br />cantan alabanzas a Él."},
@@ -3782,6 +3979,7 @@
             "info": "página 25 número 92",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>los<br/>muros<br/>caen</h1><h3>página <strong>25</strong> número <strong>92</strong></h3>"},
                 {"slide": "<i>//</i>Los muros caen,<br/>los muros caen,<br/>y con ellos las cadenas.<br/>Los muros caen,<br/>los muros caen,<br/>se derrumba la fortaleza.<i>//</i>"},
@@ -3798,6 +3996,7 @@
             "info": "página 132 número 61",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>los que<br />esperan<br />en jehová</h1><h3>página <strong>132</strong> número <strong>61</strong></h3>"},
                 {"slide": "<i>//</i>Los que esperan,<br />los que esperan<br />en Jehová.<i>//</i>"},
@@ -3819,6 +4018,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>la zarza</h1>"},
                 {"slide": "No alcanzo<br>a comprender<br>Porqué Dios me eligió<br>Para hablar a Moisés."},
@@ -3848,6 +4048,7 @@
             "info": "himnario antiguo",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>lugar<br>para<br>cristo</h1>"},
                 {"slide": "Tú dejaste tu trono<br>y corona por mí<br>Al venir a<br>Belén a nacer;"},
@@ -3891,6 +4092,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>maravilloso<br/>evento</h1>"},
                 {"slide": "Maravilloso evento,<br/>será aquel día<br/>cuando Cristo venga<br/>se abrirán los cielos<br/>y el Hijo del<br/>Hombre aparecerá."},
@@ -3913,6 +4115,7 @@
             "info": "página 185 número 114",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>más allá<br />del sol</h1><h3>página <strong>185</strong> número <strong>114</strong></h3>"},
                 {"slide": "Aunque en esta vida,<br />no tengo riquezas,<br />sé que allá en la Gloria,<br />tengo una mansión;"},
@@ -3933,6 +4136,7 @@
             "info": "página 92 número 154",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>mas el dios<br />de toda gracia</h1><h3>página <strong>92</strong> número <strong>154</strong></h3>"},
                 {"slide": "Mas el Dios de<br />toda gracia<br />que nos llamó a su<br />Gloria eterna<br />os perfeccione, y afirme,<br />fortalezca y establezca."},
@@ -3949,6 +4153,7 @@
             "info": "página 18 número 58",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>me gozaré en<br />tu presencia</h1><h3>página <strong>18</strong> número <strong>58</strong></h3>"},
                 {"slide": "Me gozaré en tu<br />presencia, Jehová,<br />con todas mis<br />fuerzas gritaré ¡Hey!"},
@@ -3967,6 +4172,7 @@
             "info": "edgar rocha",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>me has librado<br/>de la muerte</h1><h3>edgar rocha</h3>"},
                 {"slide": "Me has librado<br/>de la muerte<br/>me has dado nueva vida<br/>desataste mi tristeza,<br/>me ceñiste de alegría."},
@@ -3986,6 +4192,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>mi anhelo</h1>"},
                 {"slide": "<i>//</i>Mi anhelo,<br />es buscarte día y noche,<br />de tu amor y la ternura<br />de tu Espíritu Señor.<i>//</i>"},
@@ -4002,6 +4209,7 @@
             "info": "página 170 número 77",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>mi culpa<br />él llevó</h1><h3>página <strong>170</strong> número <strong>77</strong></h3>"},
                 {"slide": "Cansado y triste<br />vine al Salvador,<br /><i>//</i>mi culpa Él llevó,<i>//</i><br />mi eterna dicha<br />hallé en su amor,<br />mi culpa Él llevó."},
@@ -4022,6 +4230,7 @@
             "info": "página 124 número 21",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>mi pensamiento<br />eres tú, señor</h1><h3>página <strong>124</strong> número <strong>21</strong></h3>"},
                 {"slide": "<i>///</i>Mi pensamiento<br />eres tú Señor,<i>///</i><br />mi pensamiento<br />eres tú."},
@@ -4038,6 +4247,7 @@
             "info": "página 123 número 13",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>mientras<br />tenga yo<br />voz para<br />cantar</h1><h3>página <strong>123</strong> número <strong>13</strong></h3>"},
                 {"slide": "Mientras tenga yo<br />voz para cantar,<br />al Señor elevo<br />mi canción,"},
@@ -4058,6 +4268,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>mientras<br />yo ofrendaba,<br />algo sentía</h1>"},
                 {"slide": "<i>///</i>Mientras<br />yo ofrendaba,<br />algo sentía.<i>///</i><br />Era la presencia<br />del Señor,"},
@@ -4074,6 +4285,7 @@
             "info": "página 77 número 77",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>mil gracias</h1><h3>página <strong>77</strong> número <strong>77</strong></h3>"},
                 {"slide": "<i>//</i>Mil gracias yo<br />te doy, Señor,<br />mil gracias<br />de mi corazón,<br />mil gracias porque<br />has enviado a<br />Jesús por mí.<i>//</i>"},
@@ -4090,6 +4302,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>mira mi vida</h1>"},
                 {"slide": "Mira mi vida,<br />te ofrezco hoy,<br />líbrame siempre<br />de todo mal,"},
@@ -4113,6 +4326,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>mira que<br />lindo es<br />el señor</h1>"},
                 {"slide": "<i>////</i>Mira que lindo,<br />que lindo<br />es el Señor<i>////</i>"},
@@ -4129,6 +4343,7 @@
             "info": "gladys muñoz",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>mora en<br />mi vida</h1><h3>gladys muñoz</h3>"},
                 {"slide": "Hoy te siento Señor,<br />muy dentro de mi vida,<br />y no puedo dejar<br />de sentirte otra vez<br />mientras tenga yo vida."},
@@ -4152,6 +4367,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>mira lo<br />que hizo<br />mi jesús</h1>"},
                 {"slide": "<i>//</i>Mira lo que<br />hizo mi Jesús<i>//</i>"},
@@ -4169,6 +4385,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>mi camino lo<br />alumbra Jesús</h1>"},
                 {"slide": "<h4>coro</h4><i>//</i>Mi camino lo<br>alumbra Jesús<i>//</i><br>En el día de<br>tinieblas me da luz<br>Mi camino lo<br>alumbra Jesús."},
@@ -4185,6 +4402,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>más allá del<br />horizonte</h1>"},
                 {"slide": "Más allá del horizonte<br />Y de las nubes<br />habita un rey.<br />Más allá de las esferas<br />La luna y las estrellas"},
@@ -4204,6 +4422,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>maravilloso es</h1>"},
                 {"slide": "Que grandiosa es<br />la puesta del sol<br />Admirable cuál amanecer<br />Pero más grandioso<br />y conmovedor <br />El amor que me<br />tiene el Señor."},
@@ -4221,6 +4440,7 @@
             "info": "página 151 número 28",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>nadie pudo<br />amarme<br />como cristo</h1><h3>página <strong>151</strong> número <strong>28</strong></h3>"},
                 {"slide": "Yo quisiera hablarte<br />del amor de Cristo,<br />pues en Él hallé<br />un amigo fuerte y fiel,<br />por su gracia transformó<br />mi vida entera.<br />lo que en está vida soy,<br />lo debo a Él."},
@@ -4236,6 +4456,7 @@
             "info": "popurrí",
             "type": "mix",
             "desc": "no hay dios tan grande como tú<br/>señor te alabo<br/>esta alegría que yo siento en mi ser<br/>está alegría no va a salir<br/>viva la fe, viva la esperanza, viva el amor",
+            "cc": false,
             "body": [
                 {"slide": "<h4>mix</h4><h1>no hay dios<br />tan grande<br />como tu</h1><h3>popurrí</h3>"},
                 {"slide": "<i>//</i>No hay Dios,<br />tan grande<br />como Tú,<br />no lo hay,<br />no lo hay.<i>//</i>"},
@@ -4258,6 +4479,7 @@
             "info": "página 122 número 5",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>no hay dios<br />tan grande<br />como tu</h1><h3>página <strong>122</strong> número <strong>5</strong></h3>"},
                 {"slide": "<i>//</i>No hay Dios,<br />tan grande<br />como Tú,<br />no lo hay,<br />no lo hay.<i>//</i>"},
@@ -4278,6 +4500,7 @@
             "info": "christine d' clario",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>no hay<br />lugar<br />más alto</h1><h3>christine d' clario<br/>miel san marcos</h3>"},
                 {"slide": "A tus pies<br />arde mi corazón<br />a tus pies<br />entrego lo que soy"},
@@ -4299,6 +4522,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>no me importa<br />la iglesia<br />que vayas</h1>"},
 
@@ -4324,6 +4548,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>no puede<br />estar triste</h1>"},
                 {"slide": "No puede estar triste<br />un corazón que<br />alaba a Cristo.<br />No puede estar triste<br />un corazón que<br />alaba a Dios."},
@@ -4340,6 +4565,7 @@
             "info": "mix",
             "type": "popurrí",
             "desc": "no sé por qué<br/>me has librado de la muerte",
+            "cc": false,
             "body": [
                 {"slide": "<h4>mix</h4><h1>no sé por qué</h1><h3>popurrí</h3>"},
                 {"slide": "No sé por qué,<br/>Señor, tú me tocaste.<br/>No sé por qué<br/>en mí tú te fijaste,<br/>pero sí sé que grande<br/>es tu amor por mí."},
@@ -4361,6 +4587,7 @@
             "info": "página 114 número 244",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>no sé por qué</h1><h3>página <strong>114</strong> número <strong></strong>244</h3>"},
                 {"slide": "No sé por qué,<br/>Señor, tú me tocaste.<br/>No sé por qué<br/>en mí tú te fijaste,<br/>pero sí sé que grande<br/>es tu amor por mí."},
@@ -4377,6 +4604,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>No te averguenzes<br/>y alaba a tu Señor</h1><h3>página <strong>114</strong> número <strong></strong>244</h3>"},
                 {"slide": "No te avergüences y<br />alaba a tu Señor.<br /><i>//</i>La Gloria a Él,<i>//</i><br />no te avergüences y<br />alaba a tu Señor."},
@@ -4389,6 +4617,7 @@
             "info": "página 164 número 63",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>¡noche de paz,<br />noche de amor!</h1><h3>página <strong>164</strong> número <strong>63</strong></h3>"},
                 {"slide": "¡Noche de paz,<br />noche de amor!<br />todo duerme<br />en derredor,<br />entre los astros<br />que esparcen su luz;"},
@@ -4406,6 +4635,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>no sabéis<br />que somos<br/>pueblo</h1>"},
                 {"slide": "<i>///</i>No sabéis,<br />no sabéis<br>que somos<br />templo<i>///</i>"},
@@ -4428,6 +4658,7 @@
             "info": "página 18 número 61",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>oh moradora<br />de sion</h1><h3>página <strong>18</strong> número <strong>61</strong></h3>"},
                 {"slide": "<i>//</i>Oh moradora<br />de Sion<br />alaba a Jehová,<br />grandes son sus<br />maravillas.<i>//</i>"},
@@ -4448,6 +4679,7 @@
             "info": "página 161 número 55",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>¡oh qué amigo<br />nos es cristo!</h1><h3>página <strong>161</strong> número <strong>55</strong></h3>"},
                 {"slide": "¡Oh qué amigo<br />nos es Cristo!<br />Él llevó nuestro dolor,<br />y nos manda<br />que llevemos<br />todo a Dios en oración."},
@@ -4465,6 +4697,7 @@
             "info": "página 147 número 15",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>¡oh, bondad<br />tan infinita!</h1><h3>página <strong>147</strong> número <strong>15</strong></h3>"},
                 {"slide": "¡Oh, bondad tan infinita!<br />hacia el mundo pecador,<br />Dios, en Cristo revelando<br />su eternal y santo amor."},
@@ -4482,6 +4715,7 @@
             "info": "página 158 número 47",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>¡oh, sí,<br />quiero<br />verle!</h1><h3>página <strong>158</strong> número <strong>47</strong></h3>"},
                 {"slide": "Voy feliz al<br />dulce hogar,<br />por fe en Jesús,<br />y luchando a traer<br />almas a la luz;"},
@@ -4505,6 +4739,7 @@
             "info": "página 150 número 24",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>¡oh, yo<br />quiero andar<br />con cristo!</h1><h3>página <strong>150</strong> número <strong>24</strong></h3>"},
                 {"slide": "¡Oh!, yo quiero<br />andar con Cristo<br />quiero oír su tierna voz,<br />meditar en su Palabra<br />siempre andar de<br />Él en pos;"},
@@ -4525,9 +4760,10 @@
         {
             "code": "O006",
             "name": "orando sin cesar",
-            "info": "grupo de oración",
+            "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>orando<br />sin cesar</h1><h3>grupo de oración</h3>"},
                 {"slide": "<i>//</i>Orando sin cesar,<br />venceremos<i>//</i><br />para poder vencer<br />necesitas el poder,<br />orando sin cesar<br />venceremos."},
@@ -4549,6 +4785,7 @@
             "info": "página 48 número 180",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>para ti<br />quiero<br />cantar</h1><h3>página <strong>48</strong> número <strong>180</strong></h3>"},
                 {"slide": "<i>//</i>Para ti, Oh Jehová,<br />para ti quiero cantar,<br />siento gozo en mi alma<br />cuando canto para ti.<i>//</i>"},
@@ -4567,6 +4804,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>parece</h1>"},
                 {"slide": "Parece que aquí<br/>se siente gozo<br/>parece que aquí<br/>se siente alegría<br/>parece que aquí<br/>se va la tristeza."},
@@ -4584,6 +4822,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>pasa por<br />aquí señor</h1>"},
                 {"slide": "<i>//</i>Pasa por aquí, Señor<br />pasa por aquí,<i>//</i><br /><i>//</i>Oh, Señor, pasa<br />por aquí.<i>//</i>"},
@@ -4600,6 +4839,7 @@
             "info": "renan carias",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>paz en la<br />tormenta</h1><h3>renan carias</h3>"},
                 {"slide": "Cuando lloras<br />por las veces<br />que intentaste,<br />y tratas de olvidar<br />las lágrimas<br />que lloraste.<br />"},
@@ -4629,6 +4869,7 @@
             "info": "página 177 número 96",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>pecador ven<br />al dulce jesús</h1><h3>página <strong>177</strong> número <strong>96</strong></h3>"},
                 {"slide": "Pecador, ven al<br />dulce Jesús,<br />y feliz para<br />siempre serás,"},
@@ -4652,6 +4893,7 @@
             "info": "cesáreo gabaráin",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>pescador<br />de hombres</h1><h3>cesáreo gabaráin</h3>"},
                 {"slide": "Tú has venido<br />a la orilla,<br />no has buscado<br />ni a sabios ni a ricos.<br />Tan solo quieres<br />que yo te siga."},
@@ -4675,6 +4917,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>poder,<br />maravilloso<br />poder</h1>"},
                 {"slide": "Cuando acepté a mi Cristo<br/>como mi Salvador<br/>de pronto todo cambió.<br/>Mi vida de pecado<br/>por siempre terminó<br/>su Espíritu Jesús me dio."},
@@ -4691,6 +4934,7 @@
             "info": "popurrí",
             "type": "mix",
             "desc": "pon aceite en mi lampara señor<br/>la madrugada<br/>una cosa yo sé",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>pon aceite<br />en mi lampara<br />señor</h1><h3>popurrí</h3>"},
                 {"slide": "<i>//</i>Pon aceite en mi<br />lámpara Señor<i>//</i>,<br />que yo quiero<br />servirte con amor<br />pon aceite en mi<br />lámpara Señor."},
@@ -4717,6 +4961,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>pon aceite<br />en mi lampara<br />señor</h1>"},
                 {"slide": "<i>//</i>Pon aceite en mi<br />lámpara Señor<i>//</i>,<br />que yo quiero<br />servirte con amor<br />pon aceite en mi<br />lámpara Señor."},
@@ -4735,6 +4980,7 @@
             "info": "página 116 número 250",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>por la vía<br />dolorosa</h1><h3>página <strong>116</strong> número <strong>250</strong></h3>"},
                 {"slide": "Por la vía dolorosa<br />triste viene Jerusalén,<br />los soldados le habrían<br />paso a Jesús,<br />mas la gente se acercaba,<br />para ver al que llevaba<br />aquella cruz."},
@@ -4756,6 +5002,7 @@
             "info": "página 177 número 95",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>precioso jesús</h1><h3>página <strong>177</strong> número <strong>95</strong></h3>"},
                 {"slide": "Jesús es precioso,<br />mi buen Salvador,<br />por siempre le alabo<br />por su gran amor;<br />si débil me encuentro,<br />su fuerza me da.<br />Él es mi precioso Jesús."},
@@ -4772,9 +5019,10 @@
         {
             "code": "P012",
             "name": "prepara tu pasaporte",
-            "info": "hna. irene",
+            "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>prepara<br />tu pasaporte</h1><h3>hna. irene</h3>"},
                 {"slide": "Entre la vida y la muerte,<br />solamente hay un suspiro,<br />hoy luces activo y fuerte,<br />y tal vez mañana ya<br />te hayas ido."},
@@ -4801,6 +5049,7 @@
             "info": "popurrí",
             "type": "mix",
             "desc": "pronto vendrá el señor<br/>¿dónde están los que decían aleluya?",
+            "cc": false,
             "body": [
                 {"slide": "<h4>mix</h4><h1>pronto<br />vendrá<br />el señor</h1><h3>popurrí</h3>"},
                 {"slide": "Pronto vendrá<br />el Señor<br />su iglesia a<br />levantar gloriosa,<br />iglesia que compró"},
@@ -4821,6 +5070,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>pronto<br />vendrá<br />el señor</h1>"},
                 {"slide": "Pronto vendrá<br />el Señor<br />su iglesia a<br />levantar gloriosa,<br />iglesia que compró"},
@@ -4855,6 +5105,7 @@
             "info": "paul wilbur",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>pues tu<br />nombre<br />es santo</h1><h3>paul wilbur</h3>"},
                 {"slide": "Yo entro al lugar,<br />más santo<br />a través del<br />Cordero de Dios."},
@@ -4875,6 +5126,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>padre del cielo<br />te adoramos</h1>"},
                 {"slide": "Padre del Cielo<br>te adoramos<br>Alzamos hoy<br>Tu Nombre en alto"},
@@ -4896,6 +5148,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>procura<br />con<br>diligencia</h1>"},
                 {"slide": "<i>//</i>Procura<br>con diligencia<br>presentarte<br>a Dios<i>//</i>"},
@@ -4914,6 +5167,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>que el señor<br />te bendiga<br />y te guarde</h1>"},
                 {"slide": "Que el Señor te<br />bendiga y te guarde,<br />y que haga tu<br />rostro resplandecer,"},
@@ -4932,6 +5186,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>¿quién hizo<br />los cielos?</h1>"},
                 {"slide": "¿Quién hizo los cielos?<br />¿Quién hizo la tierra?<br />¿Quién hizo las aguas?<br />sólo Dios lo pudo hacer."},
@@ -4955,6 +5210,7 @@
             "info": "página 20 número 70",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>¿quién nos<br/>separará?</h1><h3>página <strong>20</strong> número <strong>70</strong></h3>"},
                 {"slide": "¿Quién nos separará<br/>del amor de Cristo?<br/>¿Quién nos alejará,<br/>del amor de<br/>nuestro Dios?"},
@@ -4980,6 +5236,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>quiero<br />cantar<br />una linda<br />canción</h1>"},
                 {"slide": "Quiero cantar una<br />linda canción,<br />a aquél que mi<br />vida cambió,"},
@@ -4999,6 +5256,7 @@
             "info": "página 65 número 21",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>quiero<br />levantar<br />mis manos</h1><h3>página <strong>65</strong> número <strong>21</strong></h3>"},
                 {"slide": "Quiero levantar<br />mis manos,<br />quiero levantar mi voz,<br />ofreciendo a ti mi vida,<br />en santidad y amor."},
@@ -5017,6 +5275,7 @@
             "info": "página 87 número 129",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>quiero<br />llenar<br />tu trono</h1><h3>página <strong>87</strong> número <strong>129</strong></h3>"},
                 {"slide": "<i>///</i>Quiero llenar tu<br />Trono de alabanza,<br />quiero llenar tu<br />Trono de adoración,<br />quiero adorar,<br />postrarme en tu presencia<br />y proclamarte Señor.<i>///</i>"},
@@ -5030,6 +5289,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>¿Qué es eso<br />que me<br />hace cantar?</h1>"},
                 {"slide": "<i>//</i>¿Qué es eso que<br />me hace cantar?<i>//</i>"},
@@ -5047,6 +5307,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>Quise<br />huir<br />de ti</h1>"},
                 {"slide": "Quise huir de ti<br />Pero tu mano<br />fue sobre mi<br />Al saber que tus<br />caminos iba a dejar<br />"},
@@ -5070,6 +5331,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>Qué maravilla<br />es tener<br />una familia</h1>"},
                 {"slide": "<i>//</i>Qué maravilla es<br />tener una familia,<br />una familia en<br />Cristo Jesús.<i>//</i>"},
@@ -5087,6 +5349,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>regocíjate<br />y canta</h1>"},
                 {"slide": "<i>//</i>Regocíjate y canta<br />oh, moradora de Sion.<i>//</i><br /><i>///</i>Porque grande es,<i>///</i><br />en medio de ti,<br />el Santo de Israel."},
@@ -5099,6 +5362,7 @@
             "info": "página 26 número 96",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>remolineando</h1><h3>página <strong>26</strong> número <strong>96</strong></h3>"},
                 {"slide": "<i>//</i>Hay muchas formas<br />de alabar tu Nombre,<br />y de exaltarte, Jehová.<br />Hay muchas formas<br />de magnificarte,<br />pero ahora lo haré así.<i>//</i>"},
@@ -5119,6 +5383,7 @@
             "info": "página 67 número 33",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>renuévame</h1><h3>página <strong>67</strong> número <strong>33</strong></h3>"},
                 {"slide": "Renuévame,<br />Señor Jesús,<br />ya no quiero ser igual.<br />Renuévame,<br />Señor Jesús,<br />pon en mí tu corazón."},
@@ -5142,6 +5407,7 @@
             "info": "página 67 número 33",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>renuévame</h1><h3>página <strong>67</strong> número <strong>33</strong></h3>"},
                 {"slide": "Renuévame,<br />Señor Jesús,<br />ya no quiero ser igual.<br />Renuévame,<br />Señor Jesús,<br />pon en mí tu corazón."},
@@ -5160,6 +5426,7 @@
             "info": "página 17 número 55",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>resplandece</h1><h3>página <strong>17</strong> número <strong>55</strong></h3>"},
                 {"slide": "<i>////</i>Resplandece,<br />pues ha venido<br />tu luz<i>////</i>"},
@@ -5176,6 +5443,7 @@
             "info": "página 168 número 72",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>roca de la<br />eternidad</h1><h3>página <strong>168</strong> número <strong>72</strong></h3>"},
                 {"slide": "Roca de la eternidad<br />fuiste abierta para mí<br />sé mi escondedero fiel;<br />sólo encuentro paz en ti,<br />rico, limpio, manantial,<br />en el cual lavado fui."},
@@ -5190,6 +5458,7 @@
             "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>recíbeme</h1>"},
                 {"slide": "Recíbeme como uno<br>de tus jornaleros,<br>recíbeme tan solo<br>quiero tu perdón"},
@@ -5218,6 +5487,7 @@
             "info": "página 110 número 223",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>salmo 9<br />te alabaré,<br />oh jehová</h1><h3>página <strong>110</strong> número <strong>223</strong></h3>"},
                 {"slide": "<i>//</i>Te alabaré, Oh Jehová,<br />con todo mi corazón<br />y contaré tus maravillas.<br />Me alegraré y me<br />regocijaré en ti<br />y cantaré a tu Nombre,<br />oh Altísimo.<i>//</i>"},
@@ -5232,6 +5502,7 @@
             "info": "página 114 número 243",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>salmo 18<br />te amo,<br />¡oh jehová!</h1><h3>página <strong>114</strong> número <strong>243</strong></h3>"},
                 {"slide": "Te amo ¡Oh Jehová!<br />fortaleza mía,<br />Jehová, roca mía<br />y castillo mío,<br />mi libertador,<br />Dios mío, fortaleza mía,<br />en Él confiaré."},
@@ -5252,6 +5523,7 @@
             "info": "página 133 número 71",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>salmo 23<br />el señor es<br />mi pastor</h1><h3>página <strong>133</strong> número <strong>71</strong></h3>"},
                 {"slide": "<i>//</i>El Señor es mi pastor,<br />nada me faltará<i>//</i><br /><i>//</i>Aunque yo ande en<br />valle de sombra<br />y de muerte<i>//</i><br /><i>//</i>No temeré, no temeré,<br />no temeré mal alguno.<i>//</i>"},
@@ -5264,6 +5536,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>salmo 27<br />jehová es mi<br />luz y mi<br />salvación</h1>"},
                 {"slide": "Jehová es mi luz<br />y mi salvación<br /><i>//</i>¿de quién temeré?<i>//</i><br />Jehová es la fortaleza<br />de mi vida;<br />¿de quién he<br />de atemorizarme?"},
@@ -5276,6 +5549,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>salmo 42<br />como<br />el siervo<br />brama</h1>"},
                 {"slide": "Como el siervo brama,<br />por las corrientes<br />de las aguas,<br />así clama por ti,<br />oh Dios el alma mía."},
@@ -5292,6 +5566,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>salmo 46<br />dios es<br />nuestro<br />amparo</h1>"},
                 {"slide": "Dios es<br />nuestro amparo<br />nuestra fortaleza,<br />nuestro pronto auxilio<br />en la tribulación."},
@@ -5314,6 +5589,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>salmo 48<br />grande es<br />jehová</h1>"},
                 {"slide": "Grande es Jehová,<br />y digno de ser alabado<br />en la ciudad de<br />nuestro Dios,<br />en su monte Santo."},
@@ -5330,6 +5606,7 @@
             "info": "página 122 número 8",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>salmo 66<br />aclamad<br />a dios con<br />alegría</h1><h3>página <strong>122</strong> número <strong>8</strong></h3>"},
                 {"slide": "Aclamad a Dios<br />con alegría,<br />toda la Tierra,<br />toda la Tierra."},
@@ -5352,6 +5629,7 @@
             "info": "página 125 número 24",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>salmo 100<br />aleluya,<br />gloria<br />aleluya</h1><h3>página <strong>125</strong> número <strong>24</strong></h3>"},
                 {"slide": "<h4>coro</h4><i>////</i>Aleluya,<br />Gloria<br />Aleluya.<i>////</i>"},
@@ -5372,6 +5650,7 @@
             "info": "página 45 número 170",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>salmo 111<br />alabaré<br />a jehová</h1><h3>página <strong>45</strong> número <strong>170</strong></h3>"},
                 {"slide": "Alabaré a<br />Jehová con<br />todo el corazón,<br />en la compañia y<br />congregación de<br />los santos."},
@@ -5394,6 +5673,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>salmo 121<br />alzaré<br />mis ojos</h1>"},
                 {"slide": "Alzaré mis ojos<br />a los montes;<br />¿de dónde vendrá<br />mi socorro?"},
@@ -5413,6 +5693,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>salmo 126<br />cuando jehová<br />hiciere volver</h1>"},
                 {"slide": "Cuando Jehová<br />hiciere volver,<br />la cautividad de Sion,<br /><i>//</i>Seremos como<br />los que sueñan.<i>//</i>"},
@@ -5434,6 +5715,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>salmo 138<br />te alabarán,<br />oh jehová</h1>"},
                 {"slide": "Te alabarán,<br />oh Jehová,<br />todos los reyes,<br />todos los reyes<br />de la tierra,"},
@@ -5462,6 +5744,7 @@
             "info": "página 126 número 26",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>salmo 145<br />te exaltaré</h1><h3>página <strong>126</strong> número <strong>26</strong></h3>"},
                 {"slide": "Te exaltaré<br />mi Dios mi Rey,<br />y bendeciré<br />tu Nombre."},
@@ -5484,6 +5767,7 @@
             "info": "página 125 número 25",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>salmo 150<br />alabad a<br />dios en su<br />santuario</h1><h3>página 125 número <strong>25</strong></h3>"},
                 {"slide": "Alabad a Dios en<br />su santuario.<br />Alabadle en la<br />magnificencia de<br />su firmamento."},
@@ -5506,6 +5790,7 @@
             "info": "página 156 número 41",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>santa biblia</h1><h3>página <strong>156</strong> número <strong>41</strong></h3>"},
                 {"slide": "¡Santa Biblia! para mí,<br />eres un tesoro aquí,<br />tú contienes con verdad,<br />la divina voluntad,<br />tu me dices lo que soy,<br />de quién vine y a quién voy."},
@@ -5521,6 +5806,7 @@
             "info": "página 182 número 108",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>santo<br />espíritu<br />desciende</h1><h3>página <strong>182</strong> número <strong>108</strong></h3>"},
                 {"slide": "Santo Espíritu, desciende<br />a mi pobre corazón,<br />llénalo de tu presencia,<br />y haz en él tu habitación."},
@@ -5544,6 +5830,7 @@
             "info": "christine d' clario",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>santo<br />espíritu<br />ven</h1><h3>christine d' clario</h3>"},
                 {"slide": "Eres fuego en el monte<br />y agua en desiertos<br />respiro de vida<br />a los huesos secos<br />Señor te pedimos,<br />ven muévete aquí<br />otra vez."},
@@ -5564,6 +5851,7 @@
             "info": "página 153 número 33",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>¡santo!,<br />¡santo!,<br />¡santo!</h1><h3>página <strong>153</strong> número <strong>33</strong></h3>"},
                 {"slide": "¡Santo!, ¡Santo!, ¡Santo!<br />Señor omnipotente,<br />siempre el labio mío<br />loores te dará;"},
@@ -5585,6 +5873,7 @@
             "info": "página 23 número 80",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>se exalta<br/>nuestro<br/>dios</h1><h3>página <strong>23</strong> número <strong>80</strong></h3>"},
                 {"slide": "Se exalta<br/>nuestro Dios,<br/>entre el júbilo,<br/>se se exalta<br/>nuestro Dios,<br/>al sonar de<br/>las trompetas."},
@@ -5601,6 +5890,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>seguirte<br />solo a ti</h1>"},
                 {"slide": "<i>///</i>Seguirte sólo<br />a ti, Señor<i>///</i><br />y no mirar atrás."},
@@ -5620,9 +5910,10 @@
         {
             "code": "S022",
             "name": "seguro en las manos de dios",
-            "info": "hna. irene",
+            "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>seguro en<br />las manos<br />de dios</h1><h3>hna. irene</h3>"},
                 {"slide": "Si las aguas de la vida<br />te quisieren ahogar,<br />seguro en las manos<br />de Dios tu vas."},
@@ -5642,6 +5933,7 @@
             "info": "página 143 número 7",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>sembraré<br />la simiente<br />preciosa</h1><h3>página <strong>143</strong> número <strong>7</strong></h3>"},
                 {"slide": "Sembraré la<br />simiente preciosa,<br />del glorioso<br />evangelio de amor;"},
@@ -5659,9 +5951,10 @@
         {
             "code": "S024",
             "name": "señor, aquí a tus plantas",
-            "info": "hna. victoria",
+            "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>señor, aquí<br />a tus plantas</h1><h3>hna. victoria</h3>"},
                 {"slide": "Señor, aquí a tus plantas<br />lloro de gratitud,<br />porque todas mis faltas<br />has perdonado Tú."},
@@ -5682,6 +5975,7 @@
             "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>yo vivo<br />señor porque<br />tu vives</h1>"},
                 {"slide": "Yo vivo Señor,<br />porque tu vives,<br />porque tu vives<br />Señor, eternamente,<br />me das consuelo,<br />me das abrigo,"},
@@ -5700,6 +5994,7 @@
             "info": "página 133 número 62",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>señor<br/>te alabo</h1><h3>página <strong>133</strong> número <strong>62</strong></h3>"},
                 {"slide": "<i>///</i>Señor te alabo,<br />Señor te alabo,<br />Señor te alabo,<br />con todo mi ser.<i>///</i>"},
@@ -5716,6 +6011,7 @@
             "info": "página 8 número 13",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>será llena<br />la tierra</h1><h3>página <strong>8</strong> número <strong>13</strong></h3>"},
                 {"slide": "Alza tus ojos y mira,<br />la cosecha está lista,<br />el tiempo ha llegado,<br />la mies está madura."},
@@ -5736,6 +6032,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>si tú hablas<br />con dios</h1>"},
                 {"slide": "Si tu hablas<br />con Dios,<br />las cosas<br />cambiaran,<br />orando."},
@@ -5756,6 +6053,7 @@
             "info": "popurrí",
             "type": "mix",
             "desc": "si tu quieres sentir<br />esa zarza que en el monte<br />fuego ha bajado del cielo<br />yo quiero padre querido<br/>únete más, únete más",
+            "cc": false,
             "body": [
                 {"slide": "<h4>mix</h4><h1>si tú<br />quieres<br />sentir</h1><h3>popurrí</h3>"},
                 {"slide": "<i>//</i>Si tu quieres sentir<br />el Espíritu de Dios<br />olvídate de las pruebas<br />y comienza a<br />alabar a Dios.<i>//</i>"},
@@ -5786,6 +6084,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>si tú<br />quieres<br />sentir</h1>"},
                 {"slide": "<i>//</i>Si tu quieres sentir<br />el Espíritu de Dios<br />olvídate de las pruebas<br />y comienza a<br />alabar a Dios.<i>//</i>"},
@@ -5808,6 +6107,7 @@
             "info": "infantil",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>si yo<br />descendiera<br />del mono</h1><h3>infantil</h3>"},
                 {"slide": "Si yo descendiera<br />del mono<br />caminaría por las<br />calles así,"},
@@ -5824,6 +6124,7 @@
             "info": "página 135 número 79",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>soberano</h1><h3>página <strong>135</strong> número <strong>79</strong></h3>"},
                 {"slide": "<i>//</i>Soberano, soberano<br />cielo y tierra<br />están en tus manos,<br />el Trono y la Corona<br />tuyo son.<br />Nosotros tus siervos<br />tú eres el amo, Señor.<i>//</i>"},
@@ -5836,6 +6137,7 @@
             "info": "página 122 número 9",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>solamente<br />en cristo</h1><h3>página <strong>122</strong> número <strong>9</strong></h3>"},
                 {"slide": "Solamente en Cristo,<br />solamente en Él,<br />la salvación se<br />encuentra en Él."},
@@ -5852,6 +6154,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>sólo el<br />poder<br />de dios</h1>"},
                 {"slide": "Sólo el poder de Dios,<br />puede cambiar tu ser,<br />las pruebas yo te doy:<br />Él me ha cambiado<br />a mí."},
@@ -5871,6 +6174,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>somos<br />el pueblo<br />de dios</h1>"},
                 {"slide": "Somos el pueblo de Dios<br/>su Sangre nos redimió<br/>y su Espíritu dio<br/>para darnos poder<br/>y ser testigos de Él."},
@@ -5887,6 +6191,7 @@
             "info": "página 9 número 15",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>somos<br />pueblo</h1><h3>página <strong>9</strong> número <strong>15</strong></h3>"},
                 {"slide": "<i>//</i>Somos pueblo,<br />pueblo adquirido por Dios,<br />nación santa,<br />real sacerdocio,<br />linaje escogido por Dios.<i>//</i>"},
@@ -5903,6 +6208,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>sonríe que<br />jesús te ama</h1>"},
                 {"slide": "Sonríe que<br />Jesús te ama,<br />sonríe que<br />Jesús te quiere,"},
@@ -5925,6 +6231,7 @@
             "info": "rené gonzález",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>sopla en mí</h1><h3>rené gonzález</h3>"},
                 {"slide": "<i>//</i>Sopla en mí,<br />sopla en mí,<br />Espíritu Santo<br />sopla en mí.<i>//</i>"},
@@ -5947,6 +6254,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>soy<br />extranjero<br />aquí</h1>"},
                 {"slide": "Soy extranjero aquí,<br />en tierra extraña estoy;<br />mi hogar está muy lejos,<br />del sol más allá"},
@@ -5969,6 +6277,7 @@
             "name": "¿soy yo soldado de jesús?",
             "info": "página 172 número 83",
             "type": "himno",
+            "cc": false,
             "desc": "",
             "body": [
                 {"slide": "<h4>himno</h4><h1>¿soy yo<br />soldado<br />de jesús?</h1><h3>página <strong>172</strong> número <strong>83</strong></h3>"},
@@ -5990,6 +6299,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>su amor</h1>"},
                 {"slide": "<i>///</i>Su amor, su amor,<br />su amor está<br />corriendo ya.<i>///</i><br />Por todo el mundo<br />está corriendo ya."},
@@ -6007,6 +6317,7 @@
             "info": "habacuc 3:3",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>su gloria</h1>"},
                 {"slide": "<i>//</i>Su Gloria<br />cubrio los cielos<br />y la tierra se llenó<br />de su alabanza.<i>//</i>"},
@@ -6023,6 +6334,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>su nombre<br />es admirable</h1>"},
                 {"slide": "<i>///</i>Su Nombre<br />es Admirable<i>///</i><br />Padre Eterno,<br />Príncipe de paz."},
@@ -6043,6 +6355,7 @@
             "info": "john newton",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>sublime<br/>gracia</h1><h3>john newton</h3>"},
                 {"slide": "Sublime gracia<br />del Señor<br />que a un<br />infeliz salvó."},
@@ -6068,6 +6381,7 @@
             "info": "jesús adrián romero",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>sumérgeme</h1><h3>jesús adrián romero</h3>"},
                 {"slide": "Cansado del camino,<br />sediento de ti,<br />un desierto he cruzado,<br />sin fuerzas he quedado,<br />vengo a ti."},
@@ -6087,6 +6401,7 @@
             "info": "marcela gándara",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>supe que<br />me amabas</h1><h3>marcela gándara</h3>"},
                 {"slide": "Desde el principio<br />cuando te necesité<br />desde el momento<br />cuando la mirada alzé<br />desde ese día,<br />cuando sola me encontraba<br />cuando tu mirada en mi<br />se fue a poner."},
@@ -6114,6 +6429,7 @@
             "info": "página 133 número 70",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>salmo 34<br />bendeciré<br>a Jehová<h3>página <strong>133</strong> número <strong>70</strong></h3>"},
                 {"slide": "Bendeciré a Jehová<br>en todo tiempo<br>Su alabanza en<br>mi boca estará"},
@@ -6135,6 +6451,7 @@
             "info": "página 164 número 64",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>suenen<br />dulces<br>himnos<h3>página <strong>164</strong> número <strong>64</strong></h3>"},
                 {"slide": "¡Suenen dulces himnos<br>gratos al Señor,<br>y óiganse en<br>concierto universal!"},
@@ -6171,6 +6488,7 @@
             "info": "página 176 número 93",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>tal como soy</h1><h3>página <strong>176</strong> número <strong>93</strong></h3>"},
                 {"slide": "Tal como soy,<br />sin más decir,<br />que a otro yo<br />no puede ir,"},
@@ -6190,6 +6508,7 @@
             "info": "gladys muñoz",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>te busqué</h1><h3>gladys muñoz</h3>"},
                 {"slide": "Te busqué Señor<br />por todas partes<br />no he podido ni<br />siquiera oír tu voz."},
@@ -6215,6 +6534,7 @@
             "info": "página 153 número 32",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>te loamos,<br />¡oh dios!</h1><h3>página <strong>153</strong> número <strong>32</strong></h3>"},
                 {"slide": "Te loamos, ¡Oh Dios!<br />con unánime voz,<br />que en Cristo tu Hijo<br />nos diste perdón."},
@@ -6234,6 +6554,7 @@
             "info": "página 129 número 46",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>te vengo<br />a decir</h1><h3>página <strong>129</strong> número <strong>46</strong></h3>"},
                 {"slide": "<i>//</i>Te vengo a decir,<i>//</i><br />oh mi Salvador;<br /><i>//</i>que yo te amo a ti<i>//</i><br />con el corazón;"},
@@ -6254,6 +6575,7 @@
             "info": "página 92 número 153",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>temprano yo<br />te buscaré</h1><h3>página <strong>92</strong> número <strong>153</strong></h3>"},
                 {"slide": "Temprano yo<br />te buscaré,<br />de madrugada<br />yo me acercaré a ti."},
@@ -6274,6 +6596,7 @@
             "info": "página 186 número 118",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>tendrás<br />que renacer</h1><h3>página <strong>186</strong> número <strong>118</strong></h3>"},
                 {"slide": "Un hombre de noche<br />llegóse a Jesús,<br />buscando la senda<br />de vida y de luz,<br />y Cristo le dijo:<br />si a Dios quieres ver,<br />tendrás que renacer."},
@@ -6293,6 +6616,7 @@
             "info": "jesús adrían romero",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>tengo<br />hambre<br />de ti</h1><h3>jesús adrían romero</h3>"},
                 {"slide": "Por un momento en<br />tu presencia<br />por un instante de tu amor<br />por un destello de tu Gloria<br />por un minuto nada más."},
@@ -6319,6 +6643,7 @@
             "info": "roberto orellana",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>tengo un<br />nuevo amor</h1><h3>roberto orellana</h3>"},
                 {"slide": "Yo tengo un nuevo amor,<br />el corazón me late sin parar,<br />hay uno que me ha dicho:<br />te amo de verdad,<br />Jesús mi amor<br />y más que amor<br />mi dulce paz."},
@@ -6339,6 +6664,7 @@
             "info": "página 149 número 23",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>tierra de<br />palestina</h1><h3>página <strong>149</strong> número <strong>23</strong></h3>"},
                 {"slide": "Tierra bendita<br />y divina es la<br />de Palestina,<br />donde nació Jesús;"},
@@ -6362,6 +6688,7 @@
             "info": "página 42 número 157",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>toda la<br />casa de<br />israel</h1><h3>página <strong>42</strong> número <strong>157</strong></h3>"},
                 {"slide": "<i>//</i>Toda el casa de<br />Israel se alegró,<br />y en la presencia<br />de Jehová danzó.<i>//</i>"},
@@ -6380,6 +6707,7 @@
             "info": "página 177 número 94",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>todo a<br />cristo yo<br />me rindo</h1><h3>página <strong>177</strong> número <strong>94</strong></h3>"},
                 {"slide": "Todo a Cristo<br />yo me rindo,<br />con el fin de<br />serle fiel;"},
@@ -6403,6 +6731,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>toma por<br />favor mi<br />mano señor</h1>"},
                 {"slide": "Toma por favor<br />mi mano Señor,<br />contigo quiero ir.<br />Con tu Sangre así<br />pagaste por mí,<br />te quiero hoy servir."},
@@ -6419,6 +6748,7 @@
             "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>tonada chilena</h1>"},
                 {"slide": "De mi linda<br />tonada chilena<br />de sus cuerdas<br />fluyen a raudal,"},
@@ -6443,6 +6773,7 @@
             "info": "página 166 número 68",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>¡trabajad!<br />¡trabajad!</h1><h3>página <strong>166</strong> número <strong>68</strong></h3>"},
                 {"slide": "¡Trabajad! ¡Trabajad!<br />somos siervos de Dios,<br />seguiremos la senda,<br />que el Maestro trazó."},
@@ -6463,6 +6794,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>trae tu<br />ofrenda<br />al señor</h1>"},
                 {"slide": "Trae tu ofrenda al Señor,<br />tráela de corazón,<br />y cuando al cielo tu clames,<br />Él te responda con amor,<br />que no te quede dolor,"},
@@ -6479,6 +6811,7 @@
             "info": "página 64 número 14",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>tu amor<br />por mi</h1><h3>página <strong>64</strong> número <strong>14</strong></h3>"},
                 {"slide": "<i>//</i>Tu amor por mí<br />es más dulce<br />que la miel<br />y tu misericordia es<br />nueva cada día.<i>//</i>"},
@@ -6495,6 +6828,7 @@
             "info": "página 62 número 8",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>tú eres dios</h1><h3>página <strong>62</strong> número <strong>8</strong></h3>"},
                 {"slide": "<i>//</i>Tú eres Dios,<br />tú eres mi Rey,<br />eres Señor, Jesús.<br />Y con mi voz declararé,<br />que tú eres Rey,<br />y eres Señor.<i>//</i>"},
@@ -6511,6 +6845,7 @@
             "info": "jesús adrián romero feat. Marcela Gándara",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>tú estás aquí</h1><h3>jesús adrián romero<br />Marcela Gándara</h3>"},
                 {"slide": "Aunque mis ojos<br />no te puedan ver,<br />te puedo sentir,<br />sé que estás aquí."},
@@ -6526,6 +6861,7 @@
             "info": "página 78 número 80",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>tu fidelidad</h1><h3>página <strong>78</strong> número <strong>80</strong></h3>"},
                 {"slide": "<i>//</i>Tu fidelidad<br />es grande, tu fidelidad<br />incomparable es.<br />Nadie como tú,<br />bendito Dios,<br />grande es tu fidelidad.<i>//</i>"},
@@ -6538,6 +6874,7 @@
             "info": "página 9 número 18",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>tú habitas</h1><h3>página <strong>9</strong> número <strong>18</strong></h3>"},
                 {"slide": "<i>//</i>Tú eres Dios, eres Rey,<br />eres grande y temible.<br />Tú eres luz, el amor,<br />eres Cristo, el Señor.<i>//</i>"},
@@ -6556,6 +6893,7 @@
             "info": "página 33 número 116",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>tu nombre,<br />¡oh dios!</h1><h3>página <strong>33</strong> número <strong>116</strong></h3>"},
                 {"slide": "Tu Nombre,<br />¡Oh Dios! exaltaré,<br />tu majestad levantaré,<br />por siempre<br />te proclamaré,<br />mi alabanza elevaré."},
@@ -6572,6 +6910,7 @@
             "info": "marcela gándara",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>tu palabra</h1><h3>marcela gándara</h3>"},
                 {"slide": "Tu Palabra es como aceite<br />sobre mis heridas<br />es el agua en el desierto<br />y el calor en el invierno."},
@@ -6594,6 +6933,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>tu eres,<br>tu eres</h1>"},
                 {"slide": "Tu eres, tu eres Señor<br>el lirio de los valles,<br>tu eres, tu eres<br>la rosa de Sarón.<br>Tu eres, tu eres Señor<br>el amado de mi corazón.<br><i>//</i>Porque tu eres Señor<br>el Hijo de Dios<i>//</i>"},
@@ -6607,6 +6947,7 @@
             "info": "página 91 número 146",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>tan cerca,<br>de mí</h1>"},
                 {"slide": "Tan cerca de mí,<br>tan cerca de mí<br>que hasta te<br>puedo tocar,<br>Jesús está aquí."},
@@ -6631,6 +6972,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>te necesito</h1>"},
                 {"slide": "<i>//</i>Te necesito,<br>Dios, te necesito<i>//</i><br>Para poder<br>vivir te necesito<br>Y para ser<br>feliz te necesito"},
@@ -6664,6 +7006,7 @@
             "info": "página 168 número 74",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>un día<br />cristo<br />volverá</h1><h3>página <strong>168</strong> número <strong>74</strong></h3>"},
                 {"slide": "Un día Cristo volverá,<br />promesa fiel,<br />¿faltar? ¡jamás!<br />Como se fue así vendrá,<br />y su pueblo ha de ver<br />al Rey Jesús."},
@@ -6683,6 +7026,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>una cosa<br/>yo sé</h1>"},
                 {"slide": "<i>//</i>Una cosa yo sé<br />y en ella creo,<br />que yo era ciego,<br />ciego y ahora veo.<i>//</i>"},
@@ -6699,6 +7043,7 @@
             "info": "página 123 número 11",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>una<br />mirada<br />de fe</h1><h3>página <strong>123</strong> número <strong>11</strong></h3>"},
                 {"slide": "<i>//</i>Una mirada de fe,<br />una mirada al Señor<br />es la que puede salvar<br />al pecador.<i>//</i>"},
@@ -6715,6 +7060,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>únete más,<br />únete más</h1>"},
                 {"slide" : "<i>//</i>Únete más,<br />únete más<br />y alabarémos,<br />al Dios del cielo<br />a Jehová de<br />los ejércitos.<i>//</i>"},
@@ -6733,6 +7079,7 @@
             "info": "página 129 número 47",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>unidos,<br />unidos</h1><h3>página <strong>129</strong> número <strong>47</strong></h3>"},
                 {"slide": "<i>//</i>Unidos, unidos,<br />en tu Nombre unidos.<i>//</i><br /><i>//</i>Porque en este mundo,<br />paz y amor tendremos.<i>//</i>"},
@@ -6751,6 +7098,7 @@
             "info": "página 104 número 202",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de adoración</h4><h1>unidos</h1><h3>página <strong>104</strong> número <strong>202</strong></h3>"},
                 {"slide": "Te adoramos, Señor,<br />en Espíritu y verdad,<br />levantamos las<br />manos al cielo<br />en santidad."},
@@ -6772,6 +7120,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>una cosa estoy<br>sintiendo<br>aquí ahora</h1>"},
                 {"slide": "Una cosa estoy<br>sintiendo<br>aquí ahora<br>Que Dios está<br>en este lugar."},
@@ -6792,6 +7141,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>un hombre<br>que anduvo<br>en Galilea</h1>"},
                 {"slide": "Un hombre que<br>anduvo en Galilea<br>Se llamaba<br>Jesús de Nazareth."},
@@ -6814,6 +7164,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>Vamos<br />a Alabar<br />a Jehová</h1>"},
                 {"slide": "<i>//</i>Vamos a<br />alabar a Jehová<br />con panderos y arpas<i>//</i><br /><i>//</i>En la Tierra se canta<br />y en el Cielo se oye<i>//</i>"},
@@ -6834,6 +7185,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>vamos<br />escalando<br />peldaños</h1>"},
                 {"slide": "Vamos escalando<br />peldaños<br />vamos mirando<br />la cruz."},
@@ -6850,6 +7202,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>vamos por<br />montes y<br />collados</h1>"},
                 {"slide": "Vamos por<br />montes y collados,<br />llevando el evangelio<br />de Cristo el Salvador."},
@@ -6868,6 +7221,7 @@
             "info": "marco barrientos",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>ven<br />espíritu,<br />ven</h1><h3>marco barrientos</h3>"},
                 {"slide": "<i>//</i>Ven espiritu ven,<br />y lléname Señor<br />con tu preciosa<br />unción.<i>//</i>"},
@@ -6892,6 +7246,7 @@
             "info": "página 130 número 49",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>vengo a<br />adorar<br />a dios</h1><h3>página <strong>130</strong> número <strong>49</strong></h3>"},
                 {"slide": "<i>//</i>Vengo a<br />adorar a Dios<i>//</i><br />vengo a adorar<br />su Nombre,<br />vengo a adorar a Dios."},
@@ -6908,6 +7263,7 @@
             "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>venid<br />fieles<br />todos</h1>"},
                 {"slide": "Venid, fieles todos,<br />a Belén marchemos,<br />de gozo triunfantes,<br />henchidos de amor,<br />y al Rey de los Cielos<br />humilde veremos."},
@@ -6929,6 +7285,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>ven, ven, ven,<br />espíritu divino</h1>"},
                 {"slide": "<i>//</i>Ven, ven, ven,<br />Espíritu Divino,<br />ven, ven, ven<br />acércate a mí<i>//</i>"},
@@ -6945,6 +7302,7 @@
             "info": "página 15 número 47",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>ven y<br />deléitate</h1><h3>página <strong>15</strong> número <strong>47</strong></h3>"},
                 {"slide": "<i>//</i>Oh, oh, ven, ven<br />y deléitate en el Señor<br />y Él te concederá,<br />las peticiones<br />de tu corazón.<i>//</i>"},
@@ -6961,6 +7319,7 @@
             "info": "marcela gándara",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>vine a<br />adorarte</h1><h3>marcela gándara</h3>"},
                 {"slide": "Tú eres la luz<br />que brillo en las tinieblas<br />abrió mis ojos pude ver<br />mi corazón adora<br />tu hermosura<br />esperanza de mi<br />vida eres tú."},
@@ -6980,6 +7339,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>viva la fe,<br />viva la<br />esperanza,<br />viva el amor</h1>"},
                 {"slide": "<i>///</i>Viva la fe viva la<br />esperanza viva el amor<i>///</i><br /><i>///</i>que viva Cristo<i>///</i><br />que viva el Rey.<br /><i>///</i>Que viva Cristo<i>///</i><br />que viva el Rey"},
@@ -6992,6 +7352,7 @@
             "info": "",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>volaré</h1>"},
                 {"slide": "Volaré, volaré<br />Estoy seguro<br />hermano mío,<br />que volaré"},
@@ -7034,6 +7395,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>va bajando va</h1>"},
                 {"slide": "Va bajando va<br>Va bajando va<br>Va bajando<br>La gloria de Jehová"},
@@ -7060,6 +7422,7 @@
             "info": "página 148 número 20",
             "type": "himno",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>himno</h4><h1>venid<br />pastorcillos</h1><h3>página <strong>148</strong> número <strong>20</strong></h3>"},
                 {"slide": "Venid, pastorcillos,<br>venir a adorar<br>al Rey de los cielos<br>que nace en Judá."},
@@ -7078,6 +7441,7 @@
             "info": "gladys muñoz",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>ya viene</h1><h3>gladys muñoz</h3>"},
                 {"slide": "Mucho decimos al mundo;<br />que Cristo ya viene;<br />mucho decimos al mundo;<br />que pronto vendrá,"},
@@ -7099,6 +7463,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>ya viene cristo,<br />señales hay</h1>"},
                 {"slide": "Ya viene Cristo,<br />señales hay,<br />almas salvadas,<br />viene a buscar,<br />los que durmieron,<br />se quedarán,"},
@@ -7133,6 +7498,7 @@
             "info": "popurrí",
             "type": "mix",
             "desc": "yo he creído en un poder que no se toca<br />cuando el pueblo del Señor<br />ven, ven, ven, espíritu divino<br />el hombre de galilea<br />yo me alegré con los que me decían<br />en el altar de dios<br />hay victoria en la sangre de jesús",
+            "cc": false,
             "body": [
                 {"slide": "<h4>mix</h4><h1>yo he creído<br />en un poder<br />que no se toca</h1><h3>popurrí</h3>"},
                 {"slide": "Yo he creído<br />en un poder<br />que no se toca,<br />yo he creído<br />en un poder<br />que no se ve"},
@@ -7168,6 +7534,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>yo he creído<br />en un poder<br />que no se toca</h1>"},
                 {"slide": "Yo he creído<br />en un poder<br />que no se toca,<br />yo he creído<br />en un poder<br />que no se ve"},
@@ -7185,6 +7552,7 @@
             "info": "página 125 número 23",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro tradicional</h4><h1>yo le alabo<br />de corazón</h1><h3>página <strong>125</strong> número <strong>23</strong></h3>"},
                 {"slide": "<i>//</i>Yo le alabo de corazón,<br />yo le alabo con mi voz.<i>//</i><br />Y si me falta la voz,<br />yo le alabo con las manos.<br />Y si me faltan las manos,<br />yo le alabo con los pies."},
@@ -7201,6 +7569,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>yo me alegré<br />con los que<br />me decían</h1>"},
                 {"slide": "<i>//</i>Yo me alegre<br />con los que<br />me decían:<br />a la casa de<br />Jehová iremos.<i>//</i>"},
@@ -7217,6 +7586,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>yo quiero<br />cantar cantar</h1>"},
 
@@ -7241,6 +7611,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>yo quiero<br />padre querido</h1>"},
                 {"slide": "<i>//</i>Yo quiero<br />Padre querido<br />ser lleno<br />de tu poder.<i>//</i>"},
@@ -7261,6 +7632,7 @@
             "info": "jaime murrell",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>yo quiero<br />más de ti</h1><h3>jaime murrell</h3>"},
                 {"slide": "Yo, quiero más de ti<br />y habitar en tu presencia<br />menguar para que<br />crezcas tú,<br />y cada día seré<br />más como tú."},
@@ -7281,6 +7653,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>yo quiero ser</h1>"},
                 {"slide": "Yo quiero ser,<br />Señor amante,<br />como el barro<br />en manos del<br />alfarero."},
@@ -7297,6 +7670,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>yo soy<br />testigo</h1>"},
                 {"slide": "Yo soy testigo<br />del poder de Dios,<br />muchos milagros<br />Él ha hecho en mi."},
@@ -7314,6 +7688,7 @@
             "info": "popurrí",
             "type": "mix",
             "desc": "yo te adoro señor<br/>yo te amo<br/>cantaré al señor por siempre",
+            "cc": false,
             "body": [
                 {"slide": "<h4>mix</h4><h1>yo te<br />adoro<br />señor</h1><h3>popurrí</h3>"},
                 {"slide": "Jesús, glorioso<br />eres, Señor.<br />Y tu Nombre es<br />digno de alabar."},
@@ -7341,6 +7716,7 @@
             "info": "página 24 número 86",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>yo te<br />adoro<br />señor</h1><h3>página <strong>24</strong> número <strong>86</strong></h3>"},
                 {"slide": "Jesús, glorioso<br />eres, Señor.<br />Y tu Nombre es<br />digno de alabar."},
@@ -7360,6 +7736,7 @@
             "info": "página 24 número 87",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro de alabanza</h4><h1>yo te amo</h1><h3>página <strong>24</strong> número <strong>87</strong></h3>"},
                 {"slide": "<i>//</i>Yo te amo,<i>//</i><br /><i>//</i>yo confío en ti,<i>//</i><br /><i>//</i>yo te amo.<i>//</i><br />En la roca<br />me refugiaré."},
@@ -7372,6 +7749,7 @@
             "info": "infantil",
             "type": "alabanza",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>yo tengo<br />un amigo<br />que me ama</h1><h3>infantil</h3>"},
                 {"slide": "Yo tengo un amigo<br />que me ama,<br />me ama, me ama.<br />yo tengo un amigo<br />que me ama,<br />su Nombre es Jesús."},
@@ -7389,6 +7767,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>yo tengo<br />un gozo<br />en mi alma</h1>"},
                 {"slide": "Yo tengo un<br /><i>///</i>gozo en<br />mi alma,<i>///</i><br />y en mi ser.<br />"},
@@ -7405,6 +7784,7 @@
             "info": "",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>yo tengo<br />un gozo<br />en mi alma<br/>(Antigua)</h1>"},
                 {"slide": "Yo tengo un<br /><i>///</i>gozo en<br />mi alma,<i>///</i><br />y en mi ser.<br />"},
@@ -7423,6 +7803,7 @@
             "info": "",
             "type": "alabanza",
             "desc": "",
+            "cc": true,
             "body": [
                 {"slide": "<h4>alabanza</h4><h1>yo venceré</h1>"},
                 {"slide": "Sé que es difícil<br />esta batalla<br />ya no aguanto<br />esta angustia<br />y yo siento desmayar."},
@@ -7450,6 +7831,7 @@
             "info": "página 130 número 50",
             "type": "coro",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h4>coro</h4><h1>yo te<br/>alabaré<br/>señor</h1><h3>página <strong>130</strong> número <strong>50</strong></h3>"},
                 {"slide": "<i>//</i>Yo te alabaré Señor,<br />con todo mi corazón.<i>//</i><br /><i>//</i>Y en presencia de<br />los ángeles<br />a ti cantaré, loores.<i>//</i>"},
@@ -7463,6 +7845,7 @@
             "info": "nota",
             "type": "nota",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h1>silencie<br />o apague<br />su celular<br />por favor</h1>"}
             ]
@@ -7473,6 +7856,7 @@
             "info": "nota",
             "type": "nota",
             "desc": "",
+            "cc": false,
             "body": [
                 {"slide": "<h1>testimonios<br/>agradecimientos</h1>"}
             ]
