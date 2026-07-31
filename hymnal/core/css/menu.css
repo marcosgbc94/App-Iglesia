@@ -25,6 +25,10 @@ body > #app > #menu > #first > #header{
     background-color: var(--color-blue-dark);
     padding: calc((var(--header-hg) - var(--inputText-hg)) / 2) 10px;
     text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
 }
 
 body > #app > #menu > #first > #header > .inputText{
@@ -49,6 +53,20 @@ body > #app > #menu > #first > #header > .inputText:focus{
 
 body > #app > #menu > #first > #header > .inputText:focus::placeholder{
     color: var(--color-gray-extra-dark);
+    color: var(--color-white-extra-light);
+}
+
+body > #app > #menu > #first > #header > #configButton {
+    background-color: var(--color-blue-dark);
+    min-width: var(--actionButton-sz);
+}
+
+body > #app > #menu > #first > #header > #configButton:hover {
+    background-color: var(--color-blue-extra-dark);
+}
+
+body > #app > #menu > #first > #header > #configButton:active {
+    background-color: var(--color-blue-darker);
 }
 
 body > #app > #menu > #first > #main{

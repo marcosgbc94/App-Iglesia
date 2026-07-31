@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="es" class="bg-light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administrador de Alabanzas</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="../public/css/icons.css">
+</head>
+<body class="bg-transparent py-3">
+
+    <div class="container">
+        <h3 class="mb-0">Administrador de Alabanzas</h3>
+        <p class="text-muted fw-semibold">Agregue o edite Alabanzas para el Himnario.</p>
+        <div id="access-internet" class="alert mt-2 py-2"></div>
+    </div>
+
+    <div class="container mt-3">
+        <div class="row">
+
+            <div class="col-12 col-xl-7">
+                <ul class="nav nav-tabs" id="tabs" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="add-tab" data-bs-toggle="tab" data-bs-target="#add-tab-pane" type="button" role="tab" aria-controls="add-tab-pane" aria-selected="true">Agregar Alabanza</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="edit-tab" data-bs-toggle="tab" data-bs-target="#edit-tab-pane" type="button" role="tab" aria-controls="edit-tab-pane" aria-selected="false">Editar Alabanza</button>
+                    </li>
+                </ul>
+                <div class="tab-content" id="tabsContent">
+
+                    <!-- AGREGAR -->
+                    <div class="tab-pane fade show active bg-white border-end border-bottom border-start rounded-bottom-1 p-2" id="add-tab-pane" role="tabpanel" aria-labelledby="add-tab" tabindex="0">
+                        <form id="add-form" method="post" class="add">
+                            <div class="col-12">
+                                <div class="alert alert-light">
+                                    Los campos marcados con <b>(*) son obligatorios</b>.
+                                </div>
+
+                                <div class="form-floating mb-3">
+                                    <select class="form-select type-element type-song" id="add-type-song" aria-label="Tipo de alabanza" onchange="toggleDesc(this.form, this.value);"></select>
+                                    <label for="add-type-song">Tipo de Alabanza (*)</label>
+                                </div>
+
+                                <div class="form-floating mb-3">
+                                    <input type="text" maxlength="128" class="form-control title-song" id="add-title-song" placeholder="Ej: Cuan Grande Es Él" onchange="checkSimilarsTitleSongs(this.form, this.value);">
+                                    <label for="add-title-song">Titulo (*)</label>
+                                    <div class="d-flex justify-content-end align-items-center py-1">
+                                        <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que generará la letra de la Alabanza con Inteligencia Artificial (Gemini)? Puede cometer errores.', generateSong, this.form.querySelector('#add-title-song').value);">
+                                            Generar con I.A.
+                                        </button>
+                                    </div>
+                                </div>
+
+                                <div class="alert alert-warning msg-similars d-none"></div>
+
+                                <div class="form-floating mb-3">
+                                    <input type="text" maxlength="256" data-bs-toggle="tooltip" data-bs-title="Nombre del Artista o Banda o Página y Número del Himnario físico." class="form-control info-song" id="add-info-song" placeholder="Ej: Página 121 Número 88">
+                                    <label for="add-title-song">Información</label>
+                                </div>
+
+                                <div class="form-floating mb-3 desc-container d-none">
+                                    <textarea class="form-control desc-song" placeholder="Alabanzas Mix" data-bs-toggle="tooltip" data-bs-title="Listado de Alabanzas que incluye el popurrí, separadas por salto de línea." class="form-controlid="add-desc-song" style="height: 100px"></textarea>
+                                    <label for="add-desc-song">Alabanzas Popurrí (Mix) (*)</label>
+                                </div>
+
+                                <div class="form-floating">
+                                    <textarea class="form-control body-song" placeholder="Contenido de la Alabanza" data-bs-toggle="tooltip" data-bs-title="Letra de la Alabanza. La palabra Coro esta preestablecida, al igual que para repeticiones usar //." class="form-control" id="add-body-song" id="body-song" style="height: 500px"></textarea>
+                                    <label for="body-song">Contenido (*)</label>
+                                </div>
+
+                            </div>
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 pt-2">
+                                <button type="button" class="btn btn-white" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que reestablecerá el formulario?', clearForm, this.form);">
+                                    Cancelar
+                                </button>
+                                <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que guardará los cambios temporalmente?', saveSongTemp, this.form);">
+                                    Guardar Temporalmente
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+
+                    <!-- EDITAR EXISTENTE -->
+                    <div class="tab-pane fade bg-white border-end border-bottom border-start rounded-bottom-1 p-2" id="edit-tab-pane" role="tabpanel" aria-labelledby="edit-tab" tabindex="0">
+                        <form id="edit-form" method="post" class="edit">
+                            <div class="col-12">
+
+                                <div class="form-floating mb-3">
+                                    <select class="form-select type-element edit-song code-song" id="edit-edit-song" aria-label="Seleccione una alabanza" onchange="selectedEditSong(this.form, this.value);"></select>
+                                    <label for="edit-edit-song">Seleccione una Alabanza (*)</label>
+                                </div>
+
+                                <div id="edit-content" class="d-none">
+                                    <div class="alert alert-light">
+                                        Los campos marcados con <b>(*) son obligatorios</b>.
+                                    </div>
+
+                                    <div class="form-floating mb-3">
+                                        <select class="form-select type-element type-song" id="edit-type-song" aria-label="Tipo de alabanza" onchange="toggleDesc(this.form, this.value);"></select>
+                                        <label for="edit-type-song">Tipo de Alabanza (*)</label>
+                                    </div>
+
+                                    <div class="form-floating mb-3">
+                                        <input type="text" maxlength="128" class="form-control title-song" id="edit-title-song" placeholder="Ej: Cuan Grande Es Él" onchange="checkSimilarsTitleSongs(this.form, this.value);">
+                                        <label for="edit-title-song">Titulo (*)</label>
+                                    </div>
+
+                                    <div class="alert alert-warning msg-similars d-none"></div>
+
+                                    <div class="form-floating mb-3">
+                                        <input type="text" maxlength="256" class="form-control info-song" id="edit-info-song" placeholder="Ej: Página 121 Número 88" data-bs-toggle="tooltip" data-bs-title="Nombre del Artista o Banda o Página y Número del Himnario físico.">
+                                        <label for="edit-title-song">Información</label>
+                                    </div>
+
+                                    <div class="form-floating mb-3 desc-container d-none">
+                                        <textarea class="form-control desc-song" placeholder="Alabanzas Mix" id="edit-desc-song" style="height: 100px" data-bs-toggle="tooltip" data-bs-title="Listado de Alabanzas que incluye el popurrí, separadas por salto de línea."></textarea>
+                                        <label for="edit-desc-song">Alabanzas Popurrí (Mix) (*)</label>
+                                    </div>
+
+                                    <div class="form-floating">
+                                        <textarea class="form-control body-song" placeholder="Contenido de la Alabanza" id="edit-body-song" style="height: 500px" data-bs-toggle="tooltip" data-bs-title="Letra de la Alabanza. La palabra Coro esta preestablecida, al igual que para repeticiones usar //."></textarea>
+                                        <label for="edit-body-song">Contenido (*)</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 pt-2">
+                                <button type="button" class="btn btn-white" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que reestablecerá el formulario?', clearForm, this.form);">
+                                    Cancelar
+                                </button>
+                                <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que guardará los cambios temporalmente?', saveSongEdit, this.form);">
+                                    Guardar Temporalmente
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                    
+
+                </div>
+            </div>
+
+            <div class="col-12 col-xl-5">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="card-title mb-1">Listado de Cambios</h5>
+                    </div>
+                    <div id="changes-lists-container" class="list-group list-group-flush">
+                        
+                    </div>
+                    <div class="card-footer d-flex justify-content-end align-items-center gap-2">
+                        <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que borrará los cambios temporales? Esta acción no se puede deshacer.', discardChanges);">
+                            Descartar cambios
+                        </button>
+                        <button class="btn btn-success" type="button" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que guardará permanentemente los cambios? Esta acción descargara un archivo <b>data.hymnal.js</b> el cúal debe ser pegado en la ruta del proyecto, específicamente en <b>/hymnal/data/data.hymnal.js</b>.', exportSong);">
+                            Guardar Permanentemente
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- MODAL EDIT -->
+    <form id="form-edit-modal" method="post" class="">
+        <input type="hidden" class="code-song" value="">
+
+        <div class="modal fade" id="modal-edit" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="modal-error-label" aria-hidden="true">
+            <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h1 class="modal-title fs-5" id="modal-error-label">Editar un cambio temporal</h1>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="alert alert-light">
+                            Los campos marcados con <b>(*) son obligatorios</b>.
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <select class="form-select type-element type-song" id="add-type-song" aria-label="Tipo de alabanza" onchange="toggleDesc(this.form, this.value);"></select>
+                            <label for="add-type-song">Tipo de Alabanza (*)</label>
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <input type="text" maxlength="128" class="form-control title-song" id="add-title-song" placeholder="Ej: Cuan Grande Es Él" onchange="checkSimilarsTitleSongs(this.form, this.value);">
+                            <label for="add-title-song">Titulo (*)</label>
+                        </div>
+
+                        <div class="alert alert-warning msg-similars d-none"></div>
+
+                        <div class="form-floating mb-3">
+                            <input type="text" maxlength="256" class="form-control info-song" id="add-info-song" placeholder="Ej: Página 121 Número 88" data-bs-toggle="tooltip" data-bs-title="Nombre del Artista o Banda o Página y Número del Himnario físico.">
+                            <label for="add-title-song">Información</label>
+                        </div>
+
+                        <div class="form-floating mb-3 desc-container d-none">
+                            <textarea class="form-control desc-song" placeholder="Alabanzas Mix" id="add-desc-song" style="height: 100px" data-bs-toggle="tooltip" data-bs-title="Listado de Alabanzas que incluye el popurrí, separadas por salto de línea."></textarea>
+                            <label for="add-desc-song">Alabanzas Popurrí (Mix) (*)</label>
+                        </div>
+
+                        <div class="form-floating">
+                            <textarea class="form-control body-song" placeholder="Contenido de la Alabanza" id="body-song" style="height: 500px" data-bs-toggle="tooltip" data-bs-title="Letra de la Alabanza. La palabra Coro esta preestablecida, al igual que para repeticiones usar //."></textarea>
+                            <label for="body-song">Contenido (*)</label>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-light" data-bs-dismiss="modal">Cancelar</button>
+                        <button type="button" class="btn btn-primary" data-bs-dismiss="modal" onclick="saveSongEditModalTemp(this.form);">Guardar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <!-- MODAL CONFIRMACION -->
+    <div class="modal fade" id="modal-confirmation" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="modal-confirmation-label" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="modal-confirmation-label">Confirmación</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-light" data-bs-dismiss="modal" id="cancel-confirmation-button">Cancelar</button>
+                <button type="button" class="btn btn-primary" id="accept-confirmation-button">Aceptar</button>
+            </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- MODAL ERROR -->
+    <div class="modal fade" id="modal-error" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="modal-error-label" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="modal-error-label">Error</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal" id="cancel-confirmation-button">Aceptar</button>
+            </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- MODAL CARGA -->
+    <div class="modal fade" id="modal-loading" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body text-center d-flex justify-content-center align-items-center gap-2">
+                    <div class="spinner-border m-5 text-center me-2" role="status">
+                        <span class="visually-hidden">Cargando...</span>
+                    </div>
+                    <span role="status" id="msg-loading"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="../hymnal/data/data.hymnal.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/utilidades-local.js"></script>
+    <script src="js/functions-local.js"></script>
+
+    <script>
+        window.addEventListener("load", () => {
+            if (typeof init === 'function') {
+                init();
+            }
+        });
+    </script>
+</body>
+</html>

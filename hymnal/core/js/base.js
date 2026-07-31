@@ -25,6 +25,7 @@ window.addEventListener("load", function(){
     designCode = "00";
     textScreenSize = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--screen-fnsz").replace("vw", ""));
 
+    initSystemWithLocalStorage();
     init();
     getItems();
     getDesign();

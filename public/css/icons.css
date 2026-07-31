@@ -45,6 +45,16 @@ body .icon-openNewItem-black{
     background-size: 24px;
 }
 
+body .icon-config-black{
+    background-image: url(../images/config-black-32.png);
+    background-size: 24px;
+}
+
+body .icon-pencil-black{
+    background-image: url(../images/pencil-black-32.png);
+    background-size: 24px;
+}
+
 /* WHITE */
 
 body .icon-up-white{
@@ -94,6 +104,16 @@ body .icon-openNewItem-white{
     background-size: 24px;
 }
 
+body .icon-config-white{
+    background-image: url(../images/config-white-32.png);
+    background-size: 24px;
+}
+
+body .icon-pencil-white{
+    background-image: url(../images/pencil-white-32.png);
+    background-size: 24px;
+}
+
 
 /* OTHERS */
 
@@ -113,4 +133,15 @@ body .icon-hymnal-full{
 
 body .image-icon-saron{
     background-image: url(../images/saron-icon.png);
+}
+
+/* EXTRA */
+
+.icon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }

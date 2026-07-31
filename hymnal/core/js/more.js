@@ -12,6 +12,29 @@ function init(){
     }
 }
 
+function initSystemWithLocalStorage() {
+    const customSongs = JSON.parse(localStorage.getItem('customPraises')) || [];
+    
+    if (!Array.isArray(customSongs) || customSongs.length === 0) return;
+    if (!data || !Array.isArray(data.praise)) return;
+
+    customSongs.forEach(song => {
+        if (!song.code) return;
+
+        const index = data.praise.findIndex(item => item.code === song.code);
+
+        if (index !== -1) {
+            data.praise[index] = { ...song };
+        } else {
+            data.praise.push({ ...song });
+        }
+    });
+}
+
+function openAdminSongs() {
+    window.open('../admin-songs/index.html', '_blank');
+}
+
 function activator(element, activate){
     try {
         if(isRunning){
