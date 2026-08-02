@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es" class="bg-light">
+<html lang="es" class="bg-dark" data-bs-theme="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -30,7 +30,7 @@
                 <div class="tab-content" id="tabsContent">
 
                     <!-- AGREGAR -->
-                    <div class="tab-pane fade show active bg-white border-end border-bottom border-start rounded-bottom-1 p-2" id="add-tab-pane" role="tabpanel" aria-labelledby="add-tab" tabindex="0">
+                    <div class="tab-pane fade show active bg-dark border-end border-bottom border-start rounded-bottom-1 p-2" id="add-tab-pane" role="tabpanel" aria-labelledby="add-tab" tabindex="0">
                         <form id="add-form" method="post" class="add">
                             <div class="col-12">
                                 <div class="alert alert-light">
@@ -71,7 +71,7 @@
 
                             </div>
                             <div class="col-12 d-flex justify-content-end align-items-center gap-2 pt-2">
-                                <button type="button" class="btn btn-white" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que reestablecerá el formulario?', clearForm, this.form);">
+                                <button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que reestablecerá el formulario?', clearForm, this.form);">
                                     Cancelar
                                 </button>
                                 <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que guardará los cambios temporalmente?', saveSongTemp, this.form);">
@@ -82,7 +82,7 @@
                     </div>
 
                     <!-- EDITAR EXISTENTE -->
-                    <div class="tab-pane fade bg-white border-end border-bottom border-start rounded-bottom-1 p-2" id="edit-tab-pane" role="tabpanel" aria-labelledby="edit-tab" tabindex="0">
+                    <div class="tab-pane fade bg-dark border-end border-bottom border-start rounded-bottom-1 p-2" id="edit-tab-pane" role="tabpanel" aria-labelledby="edit-tab" tabindex="0">
                         <form id="edit-form" method="post" class="edit">
                             <div class="col-12">
 
@@ -125,7 +125,7 @@
                                 </div>
                             </div>
                             <div class="col-12 d-flex justify-content-end align-items-center gap-2 pt-2">
-                                <button type="button" class="btn btn-white" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que reestablecerá el formulario?', clearForm, this.form);">
+                                <button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que reestablecerá el formulario?', clearForm, this.form);">
                                     Cancelar
                                 </button>
                                 <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que guardará los cambios temporalmente?', saveSongEdit, this.form);">
@@ -148,7 +148,7 @@
                         
                     </div>
                     <div class="card-footer d-flex justify-content-end align-items-center gap-2">
-                        <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que borrará los cambios temporales? Esta acción no se puede deshacer.', discardChanges);">
+                        <button type="button" class="btn btn-transparent" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que borrará los cambios temporales? Esta acción no se puede deshacer.', discardChanges);">
                             Descartar cambios
                         </button>
                         <button class="btn btn-success" type="button" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que guardará permanentemente los cambios? Esta acción descargara un archivo <b>data.hymnal.js</b> el cúal debe ser pegado en la ruta del proyecto, específicamente en <b>/hymnal/data/data.hymnal.js</b>.', exportSong);">
@@ -205,7 +205,7 @@
                         </div>
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-light" data-bs-dismiss="modal">Cancelar</button>
+                        <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Cancelar</button>
                         <button type="button" class="btn btn-primary" data-bs-dismiss="modal" onclick="saveSongEditModalTemp(this.form);">Guardar</button>
                     </div>
                 </div>
@@ -225,7 +225,7 @@
                 ...
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-light" data-bs-dismiss="modal" id="cancel-confirmation-button">Cancelar</button>
+                <button type="button" class="btn btn-dark" data-bs-dismiss="modal" id="cancel-confirmation-button">Cancelar</button>
                 <button type="button" class="btn btn-primary" id="accept-confirmation-button">Aceptar</button>
             </div>
             </div>
