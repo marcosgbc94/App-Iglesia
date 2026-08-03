@@ -46,7 +46,7 @@
                                     <input type="text" maxlength="128" class="form-control title-song" id="add-title-song" placeholder="Ej: Cuan Grande Es Él" onchange="checkSimilarsTitleSongs(this.form, this.value);">
                                     <label for="add-title-song">Titulo (*)</label>
                                     <div class="d-flex justify-content-end align-items-center py-1">
-                                        <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que generará la letra de la Alabanza con Inteligencia Artificial (Gemini)? Puede cometer errores.', generateSong, this.form.querySelector('#add-title-song').value);">
+                                        <button type="button" class="btn btn-secondary btn-sm" data-bs-toggle="modal" data-bs-target="#modal-confirmation" onclick="setConfirmationMsg('¿Confirma que generará la letra de la Alabanza con Inteligencia Artificial (Gemini)? Puede cometer errores.', generateSong, this.form.querySelector('#add-title-song').value);">
                                             Generar con I.A.
                                         </button>
                                     </div>
@@ -65,7 +65,7 @@
                                 </div>
 
                                 <div class="form-floating">
-                                    <textarea class="form-control body-song" placeholder="Contenido de la Alabanza" data-bs-toggle="tooltip" data-bs-title="Letra de la Alabanza. La palabra Coro esta preestablecida, al igual que para repeticiones usar //." class="form-control" id="add-body-song" id="body-song" style="height: 500px"></textarea>
+                                    <textarea class="form-control body-song" placeholder="Contenido de la Alabanza" data-bs-toggle="tooltip" data-bs-title="Letra de la Alabanza. La palabra Coro esta preestablecida, al igual que para repeticiones usar //. Tambien puede usar palabras preestablecidas colocandolas entre corchetes sin salto de línea []." class="form-control" id="add-body-song" id="body-song" style="height: 500px"></textarea>
                                     <label for="body-song">Contenido (*)</label>
                                 </div>
 
@@ -119,7 +119,7 @@
                                     </div>
 
                                     <div class="form-floating">
-                                        <textarea class="form-control body-song" placeholder="Contenido de la Alabanza" id="edit-body-song" style="height: 500px" data-bs-toggle="tooltip" data-bs-title="Letra de la Alabanza. La palabra Coro esta preestablecida, al igual que para repeticiones usar //."></textarea>
+                                        <textarea class="form-control body-song" placeholder="Contenido de la Alabanza" id="edit-body-song" style="height: 500px" data-bs-toggle="tooltip" data-bs-title="Letra de la Alabanza. La palabra Coro esta preestablecida, al igual que para repeticiones usar //. Tambien puede usar palabras preestablecidas colocandolas entre corchetes sin salto de línea []."></textarea>
                                         <label for="edit-body-song">Contenido (*)</label>
                                     </div>
                                 </div>
@@ -200,7 +200,7 @@
                         </div>
 
                         <div class="form-floating">
-                            <textarea class="form-control body-song" placeholder="Contenido de la Alabanza" id="body-song" style="height: 500px" data-bs-toggle="tooltip" data-bs-title="Letra de la Alabanza. La palabra Coro esta preestablecida, al igual que para repeticiones usar //."></textarea>
+                            <textarea class="form-control body-song" placeholder="Contenido de la Alabanza" id="body-song" style="height: 500px" data-bs-toggle="tooltip" data-bs-title="Letra de la Alabanza. La palabra Coro esta preestablecida, al igual que para repeticiones usar //. Tambien puede usar palabras preestablecidas colocandolas entre corchetes sin salto de línea []."></textarea>
                             <label for="body-song">Contenido (*)</label>
                         </div>
                     </div>

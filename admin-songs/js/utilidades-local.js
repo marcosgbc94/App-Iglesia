@@ -462,7 +462,6 @@ function generateBodySongFormatted(metadata, rawText) {
     if (metadata.type == 4 && metadata.desc && metadata.desc.trim() !== "") {
         infoHtml = `<h3>Popurrí</h3>`;
     } 
-
     else if (metadata.info && metadata.info.trim() !== "") {
         let cleanInfo = metadata.info
             .replace(/p[áa]gina\s+(\d+)/gi, 'página <strong>$1</strong>')
@@ -480,10 +479,9 @@ function generateBodySongFormatted(metadata, rawText) {
             let lines = bloque.trim().split('\n').map(l => l.trim());
             let isChoir = false;
 
-            if (lines.length > 0 && lines[0].toLowerCase().startsWith('coro')) {
+            if (lines.length > 0 && lines[0].match(/^(\/+)?\s*coro/i)) {
                 isChoir = true;
-
-                lines[0] = lines[0].replace(/^coro:?\s*/i, '').trim();
+                lines[0] = lines[0].replace(/^(\/+)?\s*coro:?\s*/i, '$1 ').trim();
 
                 if (lines[0] === "") {
                     lines.shift();
@@ -492,19 +490,8 @@ function generateBodySongFormatted(metadata, rawText) {
 
             let textBlock = lines.join('<br />');
 
-            const slashMatch = textBlock.match(/^(\/+)(.*?)(>+)?(\/+)$/);
-            
-            const startSlashesMatch = textBlock.match(/^(\/+)/);
-            const endSlashesMatch = textBlock.match(/(\/+)$/);
-
-            if (startSlashesMatch && endSlashesMatch) {
-                const startSlashes = startSlashesMatch[1];
-                const endSlashes = endSlashesMatch[1];
-                
-                let innerContent = textBlock.slice(startSlashes.length, textBlock.length - endSlashes.length).trim();
-                
-                textBlock = `<i>${startSlashes}</i>${innerContent}<i>${endSlashes}</i>`;
-            }
+            textBlock = textBlock.replace(/(\/{2,})/g, '<i>$1</i>');
+            textBlock = textBlock.replace(/\[(.*?)\]\s*(?:<br\s*\/?>)?/g, '<h4>$1</h4>');
 
             if (isChoir) {
                 textBlock = `<h4>coro</h4>${textBlock}`;
@@ -763,15 +750,16 @@ function generateBodyToText(bodyArray) {
     const contentSlides = bodyArray.slice(1, bodyArray.length - 1);
 
     const bloquesTexto = contentSlides.map(item => {
-        let slideHtml = item.slide;
-
+        let slideHtml = item.slide || "";
         slideHtml = slideHtml.replace(/<h4>coro<\/h4>/gi, 'Coro\n');
+
+        slideHtml = slideHtml.replace(/<h4>(.*?)<\/h4>/gi, '[$1]\n');
 
         slideHtml = slideHtml.replace(/<i>(\/+)<\/i>/gi, '$1');
 
         slideHtml = slideHtml.replace(/<br\s*\/?>/gi, '\n');
 
-        return slideHtml;
+        return slideHtml.trim();
     });
 
     return bloquesTexto.join('\n\n');

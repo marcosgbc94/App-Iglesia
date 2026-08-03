@@ -86,4 +86,5 @@ body > #app > #main > #main > .screen > .screens > div > div h1{
     line-height: var(--screen-h1-fnsz);
     color: var(--color-black-extra-dark);
     text-transform: uppercase;
+    white-space: normal;
 }
